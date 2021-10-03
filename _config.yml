@@ -7,7 +7,7 @@ baseurl: "/"
 
 footer_only_homepage: true
 footer_url: "https://github.com/coralsundy"
-footer_text: "Coralsundy GitHub"
+footer_text: "Coralsundy GitHub Account"
 
 profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
