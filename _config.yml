@@ -1,15 +1,15 @@
-title: Parchment
-author: pro-panda
-subtitle: The life of a frustrated engineer
+title: "Coralsundy: Mod/Subtitle/Review"
+author: Coralsundy
+subtitle: Coralsundy's Home Page
 
-url: "https://rahul-bothra.github.io"
-baseurl: "/parchment"
+url: "https://coralsundy.com"
+baseurl: "/"
 
 footer_only_homepage: true
-footer_url: "https://github.com/rahul-bothra"
-footer_text: "Theme by rahul-bothra"
+footer_url: "https://github.com/coralsundy"
+footer_text: "Coralsundy GitHub"
 
-profile-picture: assets/profile.png
+profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
 
 permalink: /:year-:month-:day-:title/
@@ -17,8 +17,13 @@ sass:
     style: compressed
     sass_dir: css
 
+exclude:
+- _example
+
 navbar:
  - name: "About"
    link: "about"
- - name: "Resume"
-   absolute-link: "https://rahul-bothra.github.io/CV.pdf"
+ - name: "SINP"
+   absolute-link: "https://sites.google.com/site/strikeinnarrowpath/"
+ - name: "Tags"
+   link: "tags"
