@@ -1,7 +1,8 @@
 ---
 layout: default
-title: About Me
+title: "About Me"
 ---
+
 
 ### Who Am I
 Hi, I am John, I have an online alias **Coralsundy**, and welcome to my personal home page / website.
