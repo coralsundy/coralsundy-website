@@ -3,8 +3,6 @@ layout: default
 title: About Me
 ---
 
-<img class="profile-picture" src="{{site.url}}{{site.baseurl}}/{{site.profile-picture}}">
-
 ### Who Am I
 Hi, I am John, I have an online alias **Coralsundy**, and welcome to my personal home page / website.
 
