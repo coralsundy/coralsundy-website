@@ -52,8 +52,9 @@ code {
 .navbar {
     ul {
         display: inline-block;
+        font-weight: bold;
         margin: 0;
-        padding: 5px 0 5px 0;
+        padding: 10px 0 10px 0;
         margin-left: 20px;
     }
     li {
@@ -64,6 +65,7 @@ code {
     padding: 30px 0 20px 0;
     .site-title{
         font-size: 32px;
+        font-weight: bold;
         color: #272727;
         display: inline-block;
     }
@@ -229,7 +231,7 @@ code {
     }
     img {
         text-align: center;
-        margin: 10px 10px 10px 10px;
+        #margin: 10px 10px 10px 10px;
         max-width: $max-width;
     }
 
