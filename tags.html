@@ -6,14 +6,14 @@ permalink: /tags/
 <ul>
     {% for tag in site.tags %}
         <li id="{{ tag[0] }}">
-            <b>{{ tag[0] }}</b>
+            <b style="font-weight:bold;color:red">{{ tag[0] }}</b>
         </li>
         {% for post in tag[1] %}
         {% if post.private == true %}
               {% continue %}
         {% endif %}
 
-            {{ post.date | date:"%Y-%m-%d" }} &raquo; <a href="{{site.url}}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            {{ post.date | date:"%Y-%m-%d" }} &raquo; <a style="font-weight:bold;color:black" href="{{site.url}}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             <br>
         {% endfor %}
         <br>

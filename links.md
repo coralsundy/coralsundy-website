@@ -16,6 +16,7 @@ title: ":link: Links :link:"
 <br>
 <br>
 * __My Old Japanese Movie Subtitles / Translations__:
+  * Subtitle Posts on my home page: <a href='/tags/#subtitle'>{{ site.url }}/tags/#subtitle</a>
   * SUBHD (Chinese Website): <https://subhd.tv/u/coralsundy>
   * GitHub: <https://github.com/coralsundy/coralsundy-website/tree/main/subtitles>
 <br>
