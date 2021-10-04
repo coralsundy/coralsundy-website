@@ -276,6 +276,7 @@ DEPENDENCIES
   jekyll (= 3.9.0)
   jekyll-paginate
   jekyll-sitemap
+  jemoji
   wdm (>= 0.1.0)
 
 BUNDLED WITH

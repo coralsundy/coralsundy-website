@@ -23,7 +23,11 @@ exclude:
 navbar:
  - name: "About"
    link: "about"
- - name: "SINP"
-   absolute-link: "https://sites.google.com/site/strikeinnarrowpath/"
+ - name: "Links"
+   link: "links"
  - name: "Tags"
    link: "tags"
+
+plugins:
+- jemoji
+

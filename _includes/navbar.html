@@ -10,7 +10,7 @@
                 {% assign x-url = site.url | append: site.baseurl | append: "/" | append: x.link %}
             {% endif %}
             <a href="{{ x-url }}">{{ x.name }}</a>
-            {% if forloop.last == false %}/{% endif %}
+            {% if forloop.last == false %}{% endif %}
         </li>
         {% endfor %}
     </ul>
