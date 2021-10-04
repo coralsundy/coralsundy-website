@@ -6,8 +6,12 @@ url: "https://coralsundy.com"
 baseurl: "/"
 
 footer_only_homepage: true
-footer_url: "https://github.com/coralsundy"
-footer_text: "Coralsundy GitHub Account"
+footer_url_github: "https://github.com/coralsundy"
+footer_text_github: "Github"
+footer_url_twitter: "https://twitter.com/coralsundy"
+footer_text_twitter: "Twitter"
+footer_url_email: "mailto:coralsundy@gmail.com"
+footer_text_email: "Email"
 
 #profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
@@ -30,4 +34,5 @@ navbar:
 
 plugins:
 - jemoji
+
 

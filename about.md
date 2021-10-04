@@ -21,4 +21,6 @@ This site is mainly made for my personal projects and hobbies, hope you can find
 You can find all the links related to my projects and hobbies <a href="/links/">HERE</a>.
 
 ### Contact Me
-Email: [coralsundy@gmail.com](mailto:coralsundy@gmail.com)
+* GitHub: <https://github.com/coralsundy>
+* Twitter: <https://twitter.com/coralsundy>
+* Email: [coralsundy@gmail.com](mailto:coralsundy@gmail.com)
