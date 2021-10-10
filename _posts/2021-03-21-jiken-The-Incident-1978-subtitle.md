@@ -8,7 +8,7 @@ tags: [subtitle, movie, japanese, chinese]
 
 ------
 
-![jiken_cover_1](../assets/tt0202932.jpg)
+<img src="../assets/tt0202932.jpg" alt="jiken_1978_cover_art" />
 
 ------
 
