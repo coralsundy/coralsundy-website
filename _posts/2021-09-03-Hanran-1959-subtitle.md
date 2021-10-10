@@ -26,7 +26,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1950s]
 
 ------
 
-**中文字幕**: [Hanran.1959.01-37-51.chs.BYgrowinfiniti.rev1.srt](../subtitles/Hanran.1959.01-37-51.chs.BYgrowinfiniti.rev1.srt)<br>
+**中文字幕**: [Hanran.1959.chs.01-37-51.BYgrowinfiniti.rev1.srt](../subtitles/Hanran.1959.chs.01-37-51.BYgrowinfiniti.rev1.srt)<br>
 **English Subtitle**: None
 
 ------
