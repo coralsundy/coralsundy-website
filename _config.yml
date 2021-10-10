@@ -22,7 +22,8 @@ sass:
     sass_dir: css
 
 exclude:
-- _example
+- _examples
+- _drafts
 
 navbar:
  - name: "About"

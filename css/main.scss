@@ -13,16 +13,19 @@ $small-width: 480px;
 
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    #font-family: "Inconsolata";
+    font-family: "Arial";
     background-color: #FFFFFF;
     min-height: 100%;
 }
 a {
     text-decoration: underline;
     #color: $accent;
+    color: black;
 }
 a:hover {
-    #text-decoration: underline;
+    text-decoration: underline;
+    color: black;
 }
 hr {
     margin: 5px;
