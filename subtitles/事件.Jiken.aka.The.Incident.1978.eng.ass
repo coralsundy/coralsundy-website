@@ -1,0 +1,1657 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,1,0.5,2,10,10,6,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:51.93,0:00:55.23,Default,,0,0,0,,With.
+Dialogue: 0,0:00:56.50,0:01:00.46,Default,,0,0,0,,TAMBA Tetsuro - Lawyer Kikuchi\NMATSUZAKA Keiko - SAKAI Hatsuko.
+Dialogue: 0,0:01:00.97,0:01:04.87,Default,,0,0,0,,ÔTAKE Shinobu - SAKAI Yoshiko\NNAGASHIMA Toshiyuki - UEDA Hiroshi.
+Dialogue: 0,0:01:57.79,0:02:03.20,Default,,0,0,0,,Directed by NOMURA Yoshitaro.
+Dialogue: 0,0:02:20.05,0:02:20.86,Default,,0,0,0,,THE INCIDENT
+Dialogue: 0,0:03:03.12,0:03:06.36,Default,,0,0,0,,My sister was dead in that forest.
+Dialogue: 0,0:03:06.73,0:03:09.29,Default,,0,0,0,,While you and I were living in Yokohama!
+Dialogue: 0,0:03:10.10,0:03:11.12,Default,,0,0,0,,Forgive me!
+Dialogue: 0,0:03:17.37,0:03:19.03,Default,,0,0,0,,I don't know what to say!
+Dialogue: 0,0:03:23.11,0:03:27.27,Default,,0,0,0,,But I've come here to see you.\NHaven't I?
+Dialogue: 0,0:03:27.48,0:03:29.11,Default,,0,0,0,,Will you forgive me?
+Dialogue: 0,0:03:30.95,0:03:33.05,Default,,0,0,0,,It's not a question of forgiveness!
+Dialogue: 0,0:03:37.66,0:03:39.92,Default,,0,0,0,,Even mother said that I shouldn't come here!
+Dialogue: 0,0:03:41.70,0:03:43.79,Default,,0,0,0,,Is our baby inside you alright?
+Dialogue: 0,0:03:45.67,0:03:47.83,Default,,0,0,0,,"SNACK BAR OWNER SLAIN BY YOUTH"
+Dialogue: 0,0:03:48.64,0:03:51.37,Default,,0,0,0,,"KILLING ONE SISTER.\NLIVING WITH THE OTHER ONE"
+Dialogue: 0,0:04:09.56,0:04:11.42,Default,,0,0,0,,"YOKOHAMA DISTRICT COURT"
+Dialogue: 0,0:04:27.21,0:04:28.61,Default,,0,0,0,,"COURT OF JUSTICE"
+Dialogue: 0,0:04:29.48,0:04:31.45,Default,,0,0,0,,"SCHEDULE OF HEARINGS"
+Dialogue: 0,0:04:32.35,0:04:33.11,Default,,0,0,0,,Please.
+Dialogue: 0,0:04:34.75,0:04:35.55,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:04:43.19,0:04:44.56,Default,,0,0,0,,- Good morning.\N- Good morning.
+Dialogue: 0,0:04:47.19,0:04:48.72,Default,,0,0,0,,"JUDGE'S OFFICE"
+Dialogue: 0,0:04:49.23,0:04:50.09,Default,,0,0,0,,{\i1}Good morning.{\i0}
+Dialogue: 0,0:04:50.50,0:04:51.26,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:04:51.77,0:04:54.89,Default,,0,0,0,,Do you know the counsel for the defense.\NKikuchi?
+Dialogue: 0,0:04:57.17,0:04:58.76,Default,,0,0,0,,We graduated from the same school.
+Dialogue: 0,0:04:59.64,0:05:02.40,Default,,0,0,0,,I've met him at gatherings.
+Dialogue: 0,0:05:02.78,0:05:03.71,Default,,0,0,0,,How is he like?
+Dialogue: 0,0:05:05.75,0:05:08.54,Default,,0,0,0,,He has handled many criminal cases.
+Dialogue: 0,0:05:09.75,0:05:13.74,Default,,0,0,0,,Prosecutor Okabe is likely to have\Na hard time.
+Dialogue: 0,0:05:21.93,0:05:27.70,Default,,0,0,0,,"The two lived together in\Na small apartment."
+Dialogue: 0,0:05:27.97,0:05:33.84,Default,,0,0,0,,"A brief period of happiness..."
+Dialogue: 0,0:05:47.86,0:05:48.62,Default,,0,0,0,,Everything's ready.
+Dialogue: 0,0:06:36.44,0:06:37.34,Default,,0,0,0,,{\i1}Rise!{\i0}
+Dialogue: 0,0:06:56.86,0:07:00.22,Default,,0,0,0,,The trial of defendant Ueda Hiroshi\Ncan now begin.
+Dialogue: 0,0:07:00.86,0:07:04.85,Default,,0,0,0,,The charges are: Murder and\Nabandoning the corpse.
+Dialogue: 0,0:07:06.27,0:07:07.26,Default,,0,0,0,,Defendant.
+Dialogue: 0,0:07:14.21,0:07:15.33,Default,,0,0,0,,State your name.
+Dialogue: 0,0:07:15.84,0:07:16.90,Default,,0,0,0,,Ueda Hiroshi.
+Dialogue: 0,0:07:19.51,0:07:20.64,Default,,0,0,0,,Date of birth?
+Dialogue: 0,0:07:21.02,0:07:23.64,Default,,0,0,0,,September 10, 1956.
+Dialogue: 0,0:07:25.09,0:07:25.98,Default,,0,0,0,,Domicile?
+Dialogue: 0,0:07:26.55,0:07:29.15,Default,,0,0,0,,Kanagawa Prefecture.\NTsuchida Town.
+Dialogue: 0,0:07:29.26,0:07:30.92,Default,,0,0,0,,No. 28.
+Dialogue: 0,0:07:31.76,0:07:33.14,Default,,0,0,0,,What is your correspondence address?
+Dialogue: 0,0:07:33.19,0:07:36.63,Default,,0,0,0,,Yokohama.\N33 {\i1}Hara-machi.{\i0} Isogo Ward.
+Dialogue: 0,0:07:38.43,0:07:39.52,Default,,0,0,0,,What is your occupation?
+Dialogue: 0,0:07:39.63,0:07:40.57,Default,,0,0,0,,Shipyard worker.
+Dialogue: 0,0:07:46.67,0:07:48.01,Default,,0,0,0,,Arraignment.
+Dialogue: 0,0:07:48.91,0:07:52.47,Default,,0,0,0,,"The defendant is a worker\Nat the Shipyard..."
+Dialogue: 0,0:07:52.71,0:07:54.54,Default,,0,0,0,,"...located in Yokohama."
+Dialogue: 0,0:07:55.05,0:07:58.18,Default,,0,0,0,,"Living in an apartment house..."
+Dialogue: 0,0:07:58.55,0:08:06.32,Default,,0,0,0,,"...with his wife Sakai Yoshiko."
+Dialogue: 0,0:08:06.76,0:08:11.63,Default,,0,0,0,,"Aged 19.\NSecond daughter of Mrs Sumie."
+Dialogue: 0,0:08:12.17,0:08:16.30,Default,,0,0,0,,"Yoshiko's sister. Hatsuko.\NAged 23."
+Dialogue: 0,0:08:17.00,0:08:24.67,Default,,0,0,0,,"Found out Yoshiko was pregnant\Nand wanted to inform..."
+Dialogue: 0,0:08:25.31,0:08:30.81,Default,,0,0,0,,{\i1}"... Yoshiko's mother and\Nthe defendant's father."{\i0}
+Dialogue: 0,0:08:31.15,0:08:36.65,Default,,0,0,0,,{\i1}"The defendant started planning..."{\i0}
+Dialogue: 0,0:08:37.09,0:08:40.32,Default,,0,0,0,,{\i1}"... to kill Hatsuko."{\i0}
+Dialogue: 0,0:08:42.56,0:08:46.43,Default,,0,0,0,,{\i1}"On March 28th 1976, at 2pm".{\i0}
+Dialogue: 0,0:08:46.93,0:08:49.96,Default,,0,0,0,,{\i1}"He secretly went to the town of Chogo."{\i0}
+Dialogue: 0,0:08:50.17,0:08:54.20,Default,,0,0,0,,{\i1}"From the Kikuichi Hardware Store\Nin that town..."{\i0}
+Dialogue: 0,0:08:54.54,0:08:59.54,Default,,0,0,0,,{\i1}"... he bought a knife with a 8.5 cm blade."{\i0}
+Dialogue: 0,0:09:00.05,0:09:02.21,Default,,0,0,0,,{\i1}"At 3:00am The same day..."{\i0}
+Dialogue: 0,0:09:02.62,0:09:07.92,Default,,0,0,0,,{\i1}"... he stopped at Chogo Motor Co."{\i0}
+Dialogue: 0,0:09:08.49,0:09:13.02,Default,,0,0,0,,{\i1}"The rental of a light truck for moving\Nwas negotiated."{\i0}
+Dialogue: 0,0:09:13.63,0:09:15.86,Default,,0,0,0,,{\i1}"Just then Hatsuko passed by."{\i0}
+Dialogue: 0,0:09:16.16,0:09:19.66,Default,,0,0,0,,{\i1}"He decided to carry out his murder plan."{\i0}
+Dialogue: 0,0:09:20.33,0:09:22.41,Default,,0,0,0,,"He took Hatsuko on his bicycle\Nand rode with her..."
+Dialogue: 0,0:09:22.87,0:09:27.07,Default,,0,0,0,,...up to a dessert spot. Located...
+Dialogue: 0,0:09:27.88,0:09:30.20,Default,,0,0,0,,...50 meters south of the\NSarashizawa Crossroad. And then."
+Dialogue: 0,0:09:30.74,0:09:33.87,Default,,0,0,0,,"Suddenly. He pulled out his knife..."
+Dialogue: 0,0:09:33.91,0:09:36.01,Default,,0,0,0,,"...and plunged it into Hatsuko."
+Dialogue: 0,0:09:36.32,0:09:43.16,Default,,0,0,0,,"Inflicting a wound that reached the heart."
+Dialogue: 0,0:09:43.72,0:09:46.85,Default,,0,0,0,,"Death resulted from excessive bleeding."
+Dialogue: 0,0:09:48.16,0:09:51.96,Default,,0,0,0,,"Then. In order to conceal the crime."
+Dialogue: 0,0:09:52.27,0:09:58.93,Default,,0,0,0,,"He dragged the body for about five miles."
+Dialogue: 0,0:09:59.24,0:10:02.61,Default,,0,0,0,,"The body was finally dumped in a forest."
+Dialogue: 0,0:10:05.35,0:10:13.35,Default,,0,0,0,,{\i1}The charges are: 1. Murder,\NArticle 199 of the criminal code,{\i0}
+Dialogue: 0,0:10:14.22,0:10:19.32,Default,,0,0,0,,{\i1}2. Abandonment of a corpse, Article 190.{\i0}
+Dialogue: 0,0:10:22.00,0:10:26.49,Default,,0,0,0,,Has the defendant anything to say\Nabout the arraignment?
+Dialogue: 0,0:10:27.64,0:10:30.37,Default,,0,0,0,,An answer is not mandatory.
+Dialogue: 0,0:10:31.77,0:10:35.47,Default,,0,0,0,,Whatever you say. Favorable or unfavorable.
+Dialogue: 0,0:10:35.91,0:10:38.43,Default,,0,0,0,,Will be recorded as evidence.
+Dialogue: 0,0:10:41.45,0:10:43.08,Default,,0,0,0,,I killed {\i1}Hatsuko-san.{\i0}
+Dialogue: 0,0:10:44.08,0:10:51.18,Default,,0,0,0,,But that's not why I had bought\Nthe knife for.
+Dialogue: 0,0:10:52.53,0:10:54.52,Default,,0,0,0,,I really never planned to kill her.
+Dialogue: 0,0:10:55.53,0:10:56.43,Default,,0,0,0,,But...
+Dialogue: 0,0:10:57.16,0:10:59.52,Default,,0,0,0,,...Hatsuko was going to tell everything\Nto Yoshiko's mother.
+Dialogue: 0,0:11:00.37,0:11:01.89,Default,,0,0,0,,I wanted to stop that.
+Dialogue: 0,0:11:02.64,0:11:03.73,Default,,0,0,0,,I took out the knife.
+Dialogue: 0,0:11:05.34,0:11:08.67,Default,,0,0,0,,But I can't understand how it happened.
+Dialogue: 0,0:11:10.14,0:11:11.74,Default,,0,0,0,,I must have killed her.
+Dialogue: 0,0:11:13.21,0:11:16.38,Default,,0,0,0,,I am ready for the death sentence.
+Dialogue: 0,0:11:19.49,0:11:21.08,Default,,0,0,0,,The evidence will now be presented.
+Dialogue: 0,0:11:21.79,0:11:23.02,Default,,0,0,0,,The prosecution. Please.
+Dialogue: 0,0:11:27.46,0:11:32.30,Default,,0,0,0,,Murder. Abandonment of a corpse.
+Dialogue: 0,0:11:33.13,0:11:35.90,Default,,0,0,0,,In presenting the case against\Nthe defendant...
+Dialogue: 0,0:11:36.17,0:11:39.70,Default,,0,0,0,,...the facts to be proven by evidence\Nare the following:
+Dialogue: 0,0:11:40.64,0:11:44.84,Default,,0,0,0,,First - the defendant's background.
+Dialogue: 0,0:11:45.48,0:11:51.51,Default,,0,0,0,,The defendant was born on\NSeptember 10th, 1956.
+Dialogue: 0,0:11:51.99,0:11:56.39,Default,,0,0,0,,His father is a farmer.
+Dialogue: 0,0:11:56.72,0:12:00.22,Default,,0,0,0,,He graduated from Junior high school\Nin March 1972.
+Dialogue: 0,0:12:00.63,0:12:03.93,Default,,0,0,0,,While studying further at a night school...
+Dialogue: 0,0:12:04.40,0:12:07.89,Default,,0,0,0,,...he worked at a factory in\NChigasaki in the daytime.
+Dialogue: 0,0:12:08.00,0:12:09.99,Default,,0,0,0,,As an apprentice. A temporary worker.
+Dialogue: 0,0:12:10.94,0:12:14.10,Default,,0,0,0,,Diligent and with a genial disposition.
+Dialogue: 0,0:12:14.48,0:12:17.00,Default,,0,0,0,,He never quarreled with others.
+Dialogue: 0,0:12:19.88,0:12:26.95,Default,,0,0,0,,From about September 23rd, 1975.\NHe became intimate...
+Dialogue: 0,0:12:27.35,0:12:30.05,Default,,0,0,0,,...with Yoshiko.\NThe second daughter of Sakai Sumie.
+Dialogue: 0,0:12:30.62,0:12:33.99,Default,,0,0,0,,They used to meet at an inn.\NAnd in other places.
+Dialogue: 0,0:12:34.36,0:12:38.02,Default,,0,0,0,,Yoshiko became pregnant\Nin December that year.
+Dialogue: 0,0:12:40.33,0:12:44.24,Default,,0,0,0,,{\i1}There was talk about their relationship.{\i0}
+Dialogue: 0,0:12:44.64,0:12:46.61,Default,,0,0,0,,The two became afraid...
+Dialogue: 0,0:12:47.17,0:12:52.01,Default,,0,0,0,,...of Yoshiko's pregnancy becoming\Nknown to their parents.
+Dialogue: 0,0:12:52.55,0:12:57.68,Default,,0,0,0,,The two planned to run away\Nand live together.
+Dialogue: 0,0:12:58.75,0:13:00.58,Default,,0,0,0,,For that purpose...
+Dialogue: 0,0:13:00.99,0:13:07.76,Default,,0,0,0,,...he decided to move to Yokohama.
+Dialogue: 0,0:13:08.60,0:13:11.03,Default,,0,0,0,,{\i1}And went to the Kinoshita Shipyard there.{\i0}
+Dialogue: 0,0:13:11.27,0:13:16.57,Default,,0,0,0,,He applied there and was hired to start\Nwork on April 1st.
+Dialogue: 0,0:13:18.21,0:13:23.17,Default,,0,0,0,,Next:\NThe preparations for the murder.
+Dialogue: 0,0:13:24.24,0:13:26.08,Default,,0,0,0,,Sakai Hatsuko...
+Dialogue: 0,0:13:26.58,0:13:29.52,Default,,0,0,0,,...had worked as a hostess in Tokyo\Nsince 1972.
+Dialogue: 0,0:13:30.15,0:13:35.59,Default,,0,0,0,,In various restaurants and cabarets.
+Dialogue: 0,0:13:35.86,0:13:39.55,Default,,0,0,0,,She returned to her father's house in 1975.
+Dialogue: 0,0:13:40.03,0:13:46.13,Default,,0,0,0,,She then opened a snack bar.
+Dialogue: 0,0:13:47.47,0:13:52.37,Default,,0,0,0,,The defendant went there\Nwith Yoshiko very often.
+Dialogue: 0,0:13:52.84,0:13:56.67,Default,,0,0,0,,{\i1}Hatsuko became aware of Yoshiko's pregnancy.{\i0}
+Dialogue: 0,0:13:56.94,0:13:59.81,Default,,0,0,0,,{\i1}She strongly urged them for an abortion.{\i0}
+Dialogue: 0,0:14:01.52,0:14:02.71,Default,,0,0,0,,{\i1}On March 20,{\i0}
+Dialogue: 0,0:14:03.52,0:14:10.05,Default,,0,0,0,,{\i1}Hatsuko insisted again for an abortion.{\i0}
+Dialogue: 0,0:14:10.36,0:14:13.92,Default,,0,0,0,,{\i1}Both the defendant and Yoshiko refused.{\i0}
+Dialogue: 0,0:14:14.23,0:14:18.72,Default,,0,0,0,,{\i1}Hatsuko said that she'd\Ninform their parents.{\i0}
+Dialogue: 0,0:14:19.13,0:14:24.50,Default,,0,0,0,,{\i1}In order to prevent that from happening...{\i0}
+Dialogue: 0,0:14:25.01,0:14:28.87,Default,,0,0,0,,{\i1}...the defendant decided to kill Hatsuko.{\i0}
+Dialogue: 0,0:14:33.05,0:14:35.11,Default,,0,0,0,,On March 28th...
+Dialogue: 0,0:14:35.42,0:14:40.88,Default,,0,0,0,,...the defendant finalized his plan\Nto murder Hatsuko.
+Dialogue: 0,0:14:41.39,0:14:47.42,Default,,0,0,0,,At 2:00pm he cycled to the town of Chogo.
+Dialogue: 0,0:14:48.13,0:14:51.56,Default,,0,0,0,,Hatsuko had come in town by bus.
+Dialogue: 0,0:14:51.97,0:14:53.19,Default,,0,0,0,,He went to the Hardware Store.
+Dialogue: 0,0:14:53.20,0:14:56.50,Default,,0,0,0,,{\i1}There he brought a 8.5 cm bladed knife,{\i0}
+Dialogue: 0,0:14:57.10,0:15:00.54,Default,,0,0,0,,Planning to kill Hatsuko at the\Nfirst opportunity.
+Dialogue: 0,0:15:01.17,0:15:02.80,Default,,0,0,0,,At 3:30pm
+Dialogue: 0,0:15:03.48,0:15:06.31,Default,,0,0,0,,...he went to the Chogo Motor Co.\NWhere he had talked...
+Dialogue: 0,0:15:06.31,0:15:10.72,Default,,0,0,0,,...on an earlier date about renting a truck.
+Dialogue: 0,0:15:11.52,0:15:18.92,Default,,0,0,0,,He negotiated for renting a truck overnight.
+Dialogue: 0,0:15:19.49,0:15:22.83,Default,,0,0,0,,As he was talking in front of the store.
+Dialogue: 0,0:15:23.26,0:15:27.93,Default,,0,0,0,,Hatsuko happened to pass by.
+Dialogue: 0,0:15:36.61,0:15:40.10,Default,,0,0,0,,Next.\NThe facts concerning the murder.
+Dialogue: 0,0:15:43.68,0:15:45.41,Default,,0,0,0,,On this day the victim was collecting...
+Dialogue: 0,0:15:45.45,0:15:48.94,Default,,0,0,0,,...the drinking debts made\Nto her snack bar...
+Dialogue: 0,0:15:50.26,0:15:52.82,Default,,0,0,0,,...situated in front of Atsugi Station.
+Dialogue: 0,0:15:52.83,0:15:54.32,Default,,0,0,0,,She boarded a bus...
+Dialogue: 0,0:15:54.90,0:15:58.85,Default,,0,0,0,,...heading for Yokohama at about 2:16pm.
+Dialogue: 0,0:15:59.30,0:16:05.14,Default,,0,0,0,,She collected 2.050 from Mr Sakakibara.
+Dialogue: 0,0:16:05.51,0:16:07.77,Default,,0,0,0,,After chatting there for a while...
+Dialogue: 0,0:16:08.34,0:16:12.04,Default,,0,0,0,,...she visited Miyachi Tatsuzo\Nat his apartment...
+Dialogue: 0,0:16:12.81,0:16:16.41,Default,,0,0,0,,...above the snack bar "Ah Li".
+Dialogue: 0,0:16:16.42,0:16:20.75,Default,,0,0,0,,And she left there at 3:30pm.
+Dialogue: 0,0:16:21.49,0:16:27.52,Default,,0,0,0,,She walked along the bus road\Nto the Chogo Motor Company.
+Dialogue: 0,0:16:29.33,0:16:34.36,Default,,0,0,0,,The defendant was negotiating there.
+Dialogue: 0,0:16:35.00,0:16:37.33,Default,,0,0,0,,He was startled to see Hatsuko.
+Dialogue: 0,0:16:38.74,0:16:43.73,Default,,0,0,0,,{\i1}Hatsuko asked him for a ride\Nback home on his bicycle.{\i0}
+Dialogue: 0,0:16:44.01,0:16:47.85,Default,,0,0,0,,{\i1}Suspecting she was on her way\Nto tell her mother and father...{\i0}
+Dialogue: 0,0:16:48.25,0:16:53.71,Default,,0,0,0,,{\i1}...about Yoshiko's pregnancy,{\i0}
+Dialogue: 0,0:16:54.15,0:16:57.61,Default,,0,0,0,,{\i1}the defendant felt the time\Nfor the murder had come.{\i0}
+Dialogue: 0,0:16:59.09,0:17:04.66,Default,,0,0,0,,At 3:50pm he let the victim ride...
+Dialogue: 0,0:17:05.20,0:17:08.73,Default,,0,0,0,,...on the back of the bicycle.
+Dialogue: 0,0:17:09.74,0:17:10.62,Default,,0,0,0,,While on the way home.
+Dialogue: 0,0:17:11.20,0:17:13.60,Default,,0,0,0,,At about 4:10pm.
+Dialogue: 0,0:17:14.14,0:17:18.51,Default,,0,0,0,,While passing by a flower shop.\NThey quarreled.
+Dialogue: 0,0:17:19.08,0:17:24.35,Default,,0,0,0,,They kept quarreling all the way\Nto the top of a hill.
+Dialogue: 0,0:17:24.72,0:17:26.05,Default,,0,0,0,,East of the forest.
+Dialogue: 0,0:17:27.25,0:17:30.42,Default,,0,0,0,,{\i1}Knowing that this was a very lonely spot,{\i0}
+Dialogue: 0,0:17:30.92,0:17:34.16,Default,,0,0,0,,the defendant was ready to kill.
+Dialogue: 0,0:17:34.69,0:17:37.72,Default,,0,0,0,,He intended to conceal the body in a forest.
+Dialogue: 0,0:17:37.73,0:17:40.79,Default,,0,0,0,,In the countryside.
+Dialogue: 0,0:17:41.30,0:17:46.07,Default,,0,0,0,,Suddenly turning to the left.
+Dialogue: 0,0:17:46.07,0:17:54.07,Default,,0,0,0,,He made the victim get off\Nand walk to the scene of the crime.
+Dialogue: 0,0:17:55.22,0:17:58.24,Default,,0,0,0,,He took out the knife.
+Dialogue: 0,0:17:58.95,0:18:04.45,Default,,0,0,0,,Hatsuko laughed. At first.
+Dialogue: 0,0:18:04.89,0:18:06.52,Default,,0,0,0,,But she was soon overcome by fear.
+Dialogue: 0,0:18:06.73,0:18:08.92,Default,,0,0,0,,{\i1}She said that she\Nadmitted she had done wrong,{\i0}
+Dialogue: 0,0:18:09.20,0:18:12.17,Default,,0,0,0,,{\i1}and that she would not tell anyone.{\i0}
+Dialogue: 0,0:18:12.67,0:18:16.47,Default,,0,0,0,,{\i1}"Don't kill me, I beg you!"{\i0}
+Dialogue: 0,0:18:17.30,0:18:20.00,Default,,0,0,0,,{\i1}Despite her plea, the defendant struck.{\i0}
+Dialogue: 0,0:18:21.14,0:18:24.20,Default,,0,0,0,,He grasped Hatsuko with his left hand.
+Dialogue: 0,0:18:24.71,0:18:28.01,Default,,0,0,0,,Taking care not to have blood\Nspurting on him.
+Dialogue: 0,0:18:28.68,0:18:31.85,Default,,0,0,0,,He plunged the knife into her.
+Dialogue: 0,0:18:31.85,0:18:33.65,Default,,0,0,0,,{\i1}Inflicting a wound that reached the heart.{\i0}
+Dialogue: 0,0:18:34.12,0:18:37.52,Default,,0,0,0,,{\i1}Death resulted from excessive bleeding.{\i0}
+Dialogue: 0,0:18:37.96,0:18:41.19,Default,,0,0,0,,A few drops of blood on his trousers...
+Dialogue: 0,0:18:41.70,0:18:47.69,Default,,0,0,0,,...remained unnoticed by the defendant.
+Dialogue: 0,0:18:51.17,0:18:52.16,Default,,0,0,0,,Don't you feel well?
+Dialogue: 0,0:18:53.71,0:18:55.17,Default,,0,0,0,,No. I'm all right.
+Dialogue: 0,0:18:56.41,0:18:57.31,Default,,0,0,0,,Just acting.
+Dialogue: 0,0:18:58.01,0:18:59.34,Default,,0,0,0,,Young and clever.
+Dialogue: 0,0:19:00.55,0:19:01.71,Default,,0,0,0,,You may proceed.
+Dialogue: 0,0:19:04.68,0:19:09.09,Default,,0,0,0,,On the way back home...
+Dialogue: 0,0:19:09.52,0:19:12.15,Default,,0,0,0,,...he washed the knife.
+Dialogue: 0,0:19:12.49,0:19:14.52,Default,,0,0,0,,...then threw it into a field.
+Dialogue: 0,0:19:15.43,0:19:19.52,Default,,0,0,0,,As he pushed his bicycle\Nalong a hilly road...
+Dialogue: 0,0:19:19.93,0:19:24.13,Default,,0,0,0,,...he met with Omura Goichi.
+Dialogue: 0,0:19:24.57,0:19:29.10,Default,,0,0,0,,The defendant said he had been\Nin Chogo on an errand.
+Dialogue: 0,0:19:31.04,0:19:34.45,Default,,0,0,0,,Next.\NThe abandonment of the corpse.
+Dialogue: 0,0:19:36.42,0:19:40.58,Default,,0,0,0,,The defendant.\NUpon ascertaining that Hatsuko was dead.
+Dialogue: 0,0:19:41.05,0:19:46.22,Default,,0,0,0,,Attempted to conceal the crime.
+Dialogue: 0,0:19:46.66,0:19:49.53,Default,,0,0,0,,Careful not to dirty his shirt.
+Dialogue: 0,0:19:50.03,0:19:52.93,Default,,0,0,0,,He dragged the corpse for 5 meters.
+Dialogue: 0,0:19:52.93,0:19:55.99,Default,,0,0,0,,Then dumped the body in the forest\Nabout 10 meters below.
+Dialogue: 0,0:19:58.74,0:20:01.26,Default,,0,0,0,,When he noticed Hatsuko's\Nhandbag and sandal.
+Dialogue: 0,0:20:01.64,0:20:03.61,Default,,0,0,0,,Which were lying there.
+Dialogue: 0,0:20:04.08,0:20:06.67,Default,,0,0,0,,He also threw them in the forest.
+Dialogue: 0,0:20:09.42,0:20:12.48,Default,,0,0,0,,{\i1}He intended to take a shovel, and,\Nlate at night,{\i0}
+Dialogue: 0,0:20:13.15,0:20:17.75,Default,,0,0,0,,bury the body.\NBut he became afraid and didn't.
+Dialogue: 0,0:20:29.57,0:20:30.54,Default,,0,0,0,,Defendant.
+Dialogue: 0,0:20:37.41,0:20:38.50,Default,,0,0,0,,Go there.
+Dialogue: 0,0:20:42.15,0:20:45.21,Default,,0,0,0,,This was at the defendant's place.
+Dialogue: 0,0:20:45.72,0:20:50.32,Default,,0,0,0,,Is this the same bicycle on\Nwhich Hatsuko rode?
+Dialogue: 0,0:20:51.89,0:20:52.69,Default,,0,0,0,,It is.
+Dialogue: 0,0:20:57.36,0:21:00.80,Default,,0,0,0,,Is this the knife the defendant used?
+Dialogue: 0,0:21:04.40,0:21:05.20,Default,,0,0,0,,Yes.
+Dialogue: 0,0:21:15.15,0:21:17.14,Default,,0,0,0,,On March 28th...
+Dialogue: 0,0:21:18.08,0:21:19.78,Default,,0,0,0,,...Hatsuko was wearing this.
+Dialogue: 0,0:21:21.32,0:21:25.82,Default,,0,0,0,,Was it torn here when the knife\Nwas thrust in?
+Dialogue: 0,0:21:30.66,0:21:32.56,Default,,0,0,0,,I... I think so.
+Dialogue: 0,0:21:44.31,0:21:48.30,Default,,0,0,0,,Counsel. Your procedure at the next hearing?
+Dialogue: 0,0:21:49.88,0:21:53.25,Default,,0,0,0,,I would like to call witnesses...
+Dialogue: 0,0:21:53.72,0:21:55.65,Default,,0,0,0,,...to substantiate the intent to kill.
+Dialogue: 0,0:21:56.32,0:21:58.99,Default,,0,0,0,,Is April 25th satisfactory?
+Dialogue: 0,0:22:00.46,0:22:01.36,Default,,0,0,0,,Quite all right.
+Dialogue: 0,0:22:02.50,0:22:03.46,Default,,0,0,0,,The defense?
+Dialogue: 0,0:22:05.23,0:22:06.36,Default,,0,0,0,,The date is acceptable.
+Dialogue: 0,0:22:07.73,0:22:08.63,Default,,0,0,0,,Defendant.
+Dialogue: 0,0:22:12.71,0:22:15.90,Default,,0,0,0,,The next hearing will be on April 25th.
+Dialogue: 0,0:22:17.68,0:22:18.84,Default,,0,0,0,,Court adjourned.
+Dialogue: 0,0:22:53.28,0:22:55.08,Default,,0,0,0,,I hope it goes smoothly.
+Dialogue: 0,0:22:58.99,0:23:00.54,Default,,0,0,0,,It might get entangled.
+Dialogue: 0,0:23:01.09,0:23:03.15,Default,,0,0,0,,Was it premeditated murder?
+Dialogue: 0,0:23:03.66,0:23:06.96,Default,,0,0,0,,Intent to kill is difficult to prove.
+Dialogue: 0,0:23:07.09,0:23:10.15,Default,,0,0,0,,The prosecutor appears to be confident.
+Dialogue: 0,0:23:10.83,0:23:13.80,Default,,0,0,0,,Voluntary confession is evidence.
+Dialogue: 0,0:23:17.17,0:23:21.33,Default,,0,0,0,,But. The defendant will turn 20\Nin September.
+Dialogue: 0,0:23:22.68,0:23:25.94,Default,,0,0,0,,That means attaining adulthood.
+Dialogue: 0,0:23:26.98,0:23:28.71,Default,,0,0,0,,It will affect the sentence.
+Dialogue: 0,0:23:30.22,0:23:32.08,Default,,0,0,0,,Speedy handling is necessary.
+Dialogue: 0,0:23:32.65,0:23:33.71,Default,,0,0,0,,How does this look?
+Dialogue: 0,0:23:34.65,0:23:36.55,Default,,0,0,0,,It's difficult to say!
+Dialogue: 0,0:23:37.72,0:23:38.95,Default,,0,0,0,,Death penalty?
+Dialogue: 0,0:23:39.73,0:23:42.52,Default,,0,0,0,,No burglary or rape involved.
+Dialogue: 0,0:23:43.26,0:23:45.75,Default,,0,0,0,,Legally he's still a juvenile.
+Dialogue: 0,0:23:47.00,0:23:49.40,Default,,0,0,0,,Even if judged guilty...
+Dialogue: 0,0:23:50.00,0:23:51.77,Default,,0,0,0,,...12 years at the most.
+Dialogue: 0,0:23:54.64,0:23:57.97,Default,,0,0,0,,The prosecutor spoke as if\Nhe had been there:
+Dialogue: 0,0:23:59.01,0:24:01.91,Default,,0,0,0,,"Careful not to have blood spurt on him".
+Dialogue: 0,0:24:02.28,0:24:04.31,Default,,0,0,0,,"The knife between the ribs".
+Dialogue: 0,0:24:04.88,0:24:06.35,Default,,0,0,0,,It shocked me.
+Dialogue: 0,0:24:06.75,0:24:08.95,Default,,0,0,0,,Maybe the Prosecutor was shocked too.
+Dialogue: 0,0:24:09.66,0:24:10.71,Default,,0,0,0,,He may not have written it himself?
+Dialogue: 0,0:24:10.76,0:24:12.04,Default,,0,0,0,,The other investigating prosecutor\Nprobably did.
+Dialogue: 0,0:24:12.09,0:24:17.22,Default,,0,0,0,,Based on the investigation\Nand the confession.
+Dialogue: 0,0:24:17.66,0:24:21.23,Default,,0,0,0,,- Two prosecutors?\N- You didn't know that?
+Dialogue: 0,0:24:21.80,0:24:24.00,Default,,0,0,0,,One investigates.
+Dialogue: 0,0:24:24.47,0:24:27.74,Default,,0,0,0,,The other one is the trial prosecutor.
+Dialogue: 0,0:24:29.08,0:24:31.10,Default,,0,0,0,,Yamazaki? Okabe speaking.
+Dialogue: 0,0:24:31.61,0:24:34.24,Default,,0,0,0,,Ueda Hiroshi's first hearing has ended.
+Dialogue: 0,0:24:34.91,0:24:38.44,Default,,0,0,0,,I read the arraignment. But.
+Dialogue: 0,0:24:39.62,0:24:43.25,Default,,0,0,0,,When I said: "Careful not\Nto have blood spurt on him".
+Dialogue: 0,0:24:43.96,0:24:45.48,Default,,0,0,0,,The defense stared at me.
+Dialogue: 0,0:24:46.33,0:24:48.12,Default,,0,0,0,,I wonder...
+Dialogue: 0,0:24:48.53,0:24:50.50,Default,,0,0,0,,Did Ueda Hiroshi really say that?
+Dialogue: 0,0:24:51.60,0:24:53.90,Default,,0,0,0,,I'm sure you wrote it accurately.
+Dialogue: 0,0:24:54.37,0:24:58.57,Default,,0,0,0,,But that part seems unnatural...\Nwhen read aloud.
+Dialogue: 0,0:24:59.94,0:25:05.07,Default,,0,0,0,,I have some doubts about\NHiroshi's confession.
+Dialogue: 0,0:25:06.95,0:25:08.74,Default,,0,0,0,,Otherwise I'd have never
+Dialogue: 0,0:25:08.98,0:25:10.75,Default,,0,0,0,,accepted his defense.
+Dialogue: 0,0:25:12.29,0:25:14.75,Default,,0,0,0,,I think this case is complicated.
+Dialogue: 0,0:25:15.76,0:25:18.16,Default,,0,0,0,,There's the wide decline in morality;
+Dialogue: 0,0:25:19.96,0:25:21.69,Default,,0,0,0,,Ueda Hiroshi was a good boy.
+Dialogue: 0,0:25:22.33,0:25:24.46,Default,,0,0,0,,The environment spoiled him.
+Dialogue: 0,0:25:27.57,0:25:29.19,Default,,0,0,0,,Those villages around Atsugi...
+Dialogue: 0,0:25:29.54,0:25:31.86,Default,,0,0,0,,...are still under the influence\Nof the U.S. Military base.
+Dialogue: 0,0:25:32.57,0:25:34.30,Default,,0,0,0,,Though it may seem a story of the past.
+Dialogue: 0,0:25:34.77,0:25:38.34,Default,,0,0,0,,There's still poison underneath.\NAnd it slowly seeps to the surface.
+Dialogue: 0,0:25:41.25,0:25:43.72,Default,,0,0,0,,Hiroshi's folks were once farmers...
+Dialogue: 0,0:25:44.75,0:25:48.35,Default,,0,0,0,,Now. They're just waiting for the price\Nof land to go up...
+Dialogue: 0,0:25:49.42,0:25:53.05,Default,,0,0,0,,After his wife died. Hiroshi's father...
+Dialogue: 0,0:25:53.53,0:25:56.02,Default,,0,0,0,,...took a {\i1}geisha{\i0} as his mistress.
+Dialogue: 0,0:25:57.20,0:25:59.63,Default,,0,0,0,,That kind of environment spoils people!
+Dialogue: 0,0:26:01.00,0:26:02.97,Default,,0,0,0,,Especially young people...
+Dialogue: 0,0:26:04.20,0:26:06.14,Default,,0,0,0,,A teacher's responsibility...
+Dialogue: 0,0:26:09.34,0:26:10.27,Default,,0,0,0,,As a teacher...
+Dialogue: 0,0:26:11.88,0:26:15.18,Default,,0,0,0,,- I feel...\N- That's enough lecturing for today!
+Dialogue: 0,0:26:15.65,0:26:17.41,Default,,0,0,0,,Will you help me?
+Dialogue: 0,0:26:17.68,0:26:21.81,Default,,0,0,0,,- Help you? In what way?\N- Ever been to that bar?
+Dialogue: 0,0:26:22.79,0:26:25.85,Default,,0,0,0,,No... I never go to such places.
+Dialogue: 0,0:26:26.16,0:26:27.29,Default,,0,0,0,,Really?
+Dialogue: 0,0:26:29.03,0:26:31.46,Default,,0,0,0,,Two customers are to be witnesses...
+Dialogue: 0,0:26:32.43,0:26:34.16,Default,,0,0,0,,...on Hiroshi's intent to kill.
+Dialogue: 0,0:26:34.33,0:26:36.17,Default,,0,0,0,,I want to check them up.
+Dialogue: 0,0:26:38.17,0:26:40.40,Default,,0,0,0,,- But I...\N- You can do it!
+Dialogue: 0,0:26:40.91,0:26:42.50,Default,,0,0,0,,You brought me into this.
+Dialogue: 0,0:26:42.91,0:26:46.74,Default,,0,0,0,,I have plenty of other cases to handle.
+Dialogue: 0,0:26:47.55,0:26:48.19,Default,,0,0,0,,I'll do my best!
+Dialogue: 0,0:26:51.05,0:26:52.21,Default,,0,0,0,,One of them is an {\i1}yakuza.{\i0}
+Dialogue: 0,0:26:53.59,0:26:56.65,Default,,0,0,0,,Miyauchi Tatsuzo lives in Chogo.
+Dialogue: 0,0:26:58.22,0:27:00.92,Default,,0,0,0,,Hatsuko met him before she was killed.
+Dialogue: 0,0:27:02.16,0:27:04.25,Default,,0,0,0,,The other one is Tada Saburo.
+Dialogue: 0,0:27:04.50,0:27:08.90,Default,,0,0,0,,See what you can find out.
+Dialogue: 0,0:27:09.37,0:27:13.57,Default,,0,0,0,,The family environment of Hiroshi.\NHatsuko and Yoshiko too.
+Dialogue: 0,0:27:19.05,0:27:20.41,Default,,0,0,0,,Come on. Pep up!
+Dialogue: 0,0:27:25.65,0:27:27.05,Default,,0,0,0,,Mister Hanai!\NJust a moment. Please!
+Dialogue: 0,0:27:30.72,0:27:35.35,Default,,0,0,0,,You went to Ueda Hiroshi's trial today.\NDidn't you?
+Dialogue: 0,0:27:35.76,0:27:36.46,Default,,0,0,0,,Yes.
+Dialogue: 0,0:27:37.06,0:27:38.59,Default,,0,0,0,,A former student of yours?
+Dialogue: 0,0:27:39.23,0:27:40.75,Default,,0,0,0,,Always quick to blame the environment!
+Dialogue: 0,0:27:42.30,0:27:45.93,Default,,0,0,0,,They're physically big.\NBut mentally immature.
+Dialogue: 0,0:27:46.77,0:27:50.54,Default,,0,0,0,,Besides. They are still young.
+Dialogue: 0,0:27:51.81,0:27:53.68,Default,,0,0,0,,They know the Juvenile Law protects them.
+Dialogue: 0,0:27:54.31,0:27:59.15,Default,,0,0,0,,They feel free to rebel!
+Dialogue: 0,0:28:01.25,0:28:03.15,Default,,0,0,0,,Take this Ueda Hiroshi case.
+Dialogue: 0,0:28:05.02,0:28:07.62,Default,,0,0,0,,Classic example of a youth...
+Dialogue: 0,0:28:08.13,0:28:10.22,Default,,0,0,0,,...who thinks he can do just anything!
+Dialogue: 0,0:28:11.23,0:28:13.36,Default,,0,0,0,,- Isn't that so?\N- Yes.
+Dialogue: 0,0:28:14.43,0:28:15.23,Default,,0,0,0,,Wait a moment!
+Dialogue: 0,0:28:17.04,0:28:22.17,Default,,0,0,0,,The parents must also be kept in mind.
+Dialogue: 0,0:28:23.08,0:28:23.77,Default,,0,0,0,,Be careful!
+Dialogue: 0,0:28:37.82,0:28:41.19,Default,,0,0,0,,Everyone seems to be criticizing\Nmy son only.
+Dialogue: 0,0:28:42.26,0:28:44.25,Default,,0,0,0,,The Sakai family also has\Nits share of the guilt.
+Dialogue: 0,0:28:46.90,0:28:51.89,Default,,0,0,0,,That mother has got herself\Na reputation as a flighty woman...
+Dialogue: 0,0:28:52.27,0:28:54.93,Default,,0,0,0,,Shortly after her husband died...
+Dialogue: 0,0:28:55.81,0:28:58.37,Default,,0,0,0,,...she got married to a real scoundrel!
+Dialogue: 0,0:28:59.25,0:29:01.11,Default,,0,0,0,,He pawned her belongings.
+Dialogue: 0,0:29:02.18,0:29:04.48,Default,,0,0,0,,And secretly sold part of the fields.
+Dialogue: 0,0:29:05.08,0:29:07.85,Default,,0,0,0,,In the end.\NHe ran away with a cabaret hostess.
+Dialogue: 0,0:29:08.72,0:29:09.42,Default,,0,0,0,,Please.
+Dialogue: 0,0:29:11.56,0:29:14.36,Default,,0,0,0,,Hatsuko was working then at the US base.
+Dialogue: 0,0:29:17.33,0:29:19.23,Default,,0,0,0,,One night. She came home all muddied.
+Dialogue: 0,0:29:20.00,0:29:23.23,Default,,0,0,0,,She had been attacked by 3 GI's.
+Dialogue: 0,0:29:24.04,0:29:27.27,Default,,0,0,0,,Her stepfather tried to rape her. Too.
+Dialogue: 0,0:29:27.91,0:29:30.64,Default,,0,0,0,,What a shame!
+Dialogue: 0,0:29:32.31,0:29:33.84,Default,,0,0,0,,Hiroshi and Yoshiko...
+Dialogue: 0,0:29:34.78,0:29:37.34,Default,,0,0,0,,I think Yoshiko seduced him.
+Dialogue: 0,0:29:47.03,0:29:49.43,Default,,0,0,0,,The pregnancy. I've accepted it.
+Dialogue: 0,0:29:51.16,0:29:52.06,Default,,0,0,0,,Sir...
+Dialogue: 0,0:29:52.90,0:29:55.33,Default,,0,0,0,,The baby is absolutely innocent.
+Dialogue: 0,0:29:57.17,0:30:01.61,Default,,0,0,0,,I just hope Hiroshi's sentence\Nwill be a very light one.
+Dialogue: 0,0:30:03.08,0:30:04.47,Default,,0,0,0,,I'm glad to hear you say that!
+Dialogue: 0,0:30:05.91,0:30:09.18,Default,,0,0,0,,I want to help him.
+Dialogue: 0,0:30:10.68,0:30:13.17,Default,,0,0,0,,Was your sister's bar sold quickly?
+Dialogue: 0,0:30:14.49,0:30:16.75,Default,,0,0,0,,Did she have any money saved up?
+Dialogue: 0,0:30:17.16,0:30:20.82,Default,,0,0,0,,Sis' didn't have any savings. Only debts!
+Dialogue: 0,0:30:21.89,0:30:23.99,Default,,0,0,0,,You always speak ill of her!
+Dialogue: 0,0:30:24.86,0:30:27.49,Default,,0,0,0,,Your sister wanted to pay for the abortion!
+Dialogue: 0,0:30:29.10,0:30:31.23,Default,,0,0,0,,If we had wanted an abortion...
+Dialogue: 0,0:30:32.21,0:30:34.07,Default,,0,0,0,,...Hiroshi would have paid!
+Dialogue: 0,0:30:36.48,0:30:39.60,Default,,0,0,0,,Hatsuko went into debt to open that bar.
+Dialogue: 0,0:30:40.98,0:30:45.97,Default,,0,0,0,,She used all the money she\Nhad earned in Tokyo.
+Dialogue: 0,0:30:47.62,0:30:50.18,Default,,0,0,0,,Later. A signed loan agreement for\N500.000 showed up!
+Dialogue: 0,0:30:51.22,0:30:52.99,Default,,0,0,0,,Miyauchi brought it.
+Dialogue: 0,0:30:53.83,0:30:54.72,Default,,0,0,0,,Miyauchi?
+Dialogue: 0,0:30:56.56,0:30:58.59,Default,,0,0,0,,The bar was sold for 2.000.000.
+Dialogue: 0,0:30:59.47,0:31:03.77,Default,,0,0,0,,But the money was also used\Nto settle other debts.
+Dialogue: 0,0:31:05.84,0:31:07.27,Default,,0,0,0,,All she had...
+Dialogue: 0,0:31:09.28,0:31:12.77,Default,,0,0,0,,was the 15.000 that were in her handbag\Nwhen she was killed.
+Dialogue: 0,0:31:14.61,0:31:15.91,Default,,0,0,0,,Nothing more.
+Dialogue: 0,0:31:18.28,0:31:23.22,Default,,0,0,0,,Is Miyauchi the man from whom\NHatsuko was collecting money?
+Dialogue: 0,0:31:24.39,0:31:26.36,Default,,0,0,0,,The {\i1}yakuza?{\i0} Miyauchi Tatsuzo?
+Dialogue: 0,0:31:27.06,0:31:32.02,Default,,0,0,0,,Yes... I can't believe sis' collected\Nmoney from him.
+Dialogue: 0,0:31:32.87,0:31:33.91,Default,,0,0,0,,Something must be wrong...
+Dialogue: 0,0:31:34.47,0:31:35.16,Default,,0,0,0,,Why?
+Dialogue: 0,0:31:36.27,0:31:37.96,Default,,0,0,0,,Their relationship...
+Dialogue: 0,0:31:38.37,0:31:39.10,Default,,0,0,0,,Lovers.
+Dialogue: 0,0:31:39.51,0:31:40.30,Default,,0,0,0,,What!
+Dialogue: 0,0:31:40.97,0:31:41.67,Default,,0,0,0,,Lovers.
+Dialogue: 0,0:31:41.71,0:31:44.27,Default,,0,0,0,,He was Hatsuko's man for a while.
+Dialogue: 0,0:31:45.34,0:31:49.61,Default,,0,0,0,,I think sis' was forced to seal\Na deed as severance pay.
+Dialogue: 0,0:32:04.80,0:32:05.63,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:32:06.13,0:32:08.69,Default,,0,0,0,,{\i1}Does Miyauchi Tatsuzo live around here?{\i0}
+Dialogue: 0,0:32:10.87,0:32:13.27,Default,,0,0,0,,Miyauchi? Upstairs.
+Dialogue: 0,0:32:15.61,0:32:16.23,Default,,0,0,0,,You see...
+Dialogue: 0,0:32:16.28,0:32:17.33,Default,,0,0,0,,Went out.
+Dialogue: 0,0:32:19.68,0:32:20.67,Default,,0,0,0,,Where?
+Dialogue: 0,0:32:20.95,0:32:21.71,Default,,0,0,0,,Don't know.
+Dialogue: 0,0:32:23.78,0:32:25.38,Default,,0,0,0,,It's about the trial.
+Dialogue: 0,0:32:26.19,0:32:27.55,Default,,0,0,0,,{\i1}Who are you?{\i0}
+Dialogue: 0,0:32:29.79,0:32:30.98,Default,,0,0,0,,Is Miyauchi absent?
+Dialogue: 0,0:32:31.79,0:32:34.92,Default,,0,0,0,,I'm a teacher at Tsuchida High School.
+Dialogue: 0,0:32:35.66,0:32:36.75,Default,,0,0,0,,A teacher?
+Dialogue: 0,0:32:37.56,0:32:41.26,Default,,0,0,0,,What can a teacher want from Miyauchi?
+Dialogue: 0,0:32:41.63,0:32:43.83,Default,,0,0,0,,Know where he is? I'll go there.
+Dialogue: 0,0:32:53.95,0:32:56.31,Default,,0,0,0,,What's that important?
+Dialogue: 0,0:32:57.48,0:32:58.61,Default,,0,0,0,,Are you a relative?
+Dialogue: 0,0:32:59.59,0:33:00.48,Default,,0,0,0,,A relative?
+Dialogue: 0,0:33:01.12,0:33:04.28,Default,,0,0,0,,That's funny...\NYes. Something like that.
+Dialogue: 0,0:33:04.66,0:33:05.65,Default,,0,0,0,,Living together?
+Dialogue: 0,0:33:06.03,0:33:07.01,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:33:07.83,0:33:11.92,Default,,0,0,0,,Detectives. Investigators.\NOne after the other!
+Dialogue: 0,0:33:17.90,0:33:21.27,Default,,0,0,0,,Miyauchi drifted in from Shinjuku.
+Dialogue: 0,0:33:22.14,0:33:23.70,Default,,0,0,0,,He was always hanging out at that bar.
+Dialogue: 0,0:33:25.14,0:33:28.64,Default,,0,0,0,,Eventually. "Cattleya" got known as a drag\Nplace and lost customers because of him.
+Dialogue: 0,0:33:29.72,0:33:31.08,Default,,0,0,0,,I liked Hatsuko.
+Dialogue: 0,0:33:31.38,0:33:36.52,Default,,0,0,0,,Always open-hearted and generous!
+Dialogue: 0,0:33:37.09,0:33:39.89,Default,,0,0,0,,The police questioned me as\Nif I were a criminal.
+Dialogue: 0,0:33:40.43,0:33:44.99,Default,,0,0,0,,They wanted to know about the night before.
+Dialogue: 0,0:33:46.57,0:33:48.43,Default,,0,0,0,,Tell me about it!
+Dialogue: 0,0:33:49.64,0:33:51.87,Default,,0,0,0,,I'll do that at the witness stand.
+Dialogue: 0,0:33:52.81,0:33:56.40,Default,,0,0,0,,I get all mixed up as well.
+Dialogue: 0,0:33:57.31,0:33:58.64,Default,,0,0,0,,I have to be careful!
+Dialogue: 0,0:33:59.11,0:34:03.55,Default,,0,0,0,,What was Hatsuko doing before\Ngetting killed?
+Dialogue: 0,0:34:05.52,0:34:06.51,Default,,0,0,0,,Well...
+Dialogue: 0,0:34:09.22,0:34:12.82,Default,,0,0,0,,She was writing in a notebook.\NAt the counter...
+Dialogue: 0,0:34:13.73,0:34:15.69,Default,,0,0,0,,...debit and credit items.
+Dialogue: 0,0:34:16.70,0:34:18.03,Default,,0,0,0,,A small red notebook.
+Dialogue: 0,0:34:25.74,0:34:27.60,Default,,0,0,0,,The notebook I asked\Nyou about on the phone...
+Dialogue: 0,0:34:27.94,0:34:28.63,Default,,0,0,0,,Sure.
+Dialogue: 0,0:34:35.38,0:34:36.58,Default,,0,0,0,,Are you looking for something?
+Dialogue: 0,0:34:36.88,0:34:38.25,Default,,0,0,0,,Just want to take a look.
+Dialogue: 0,0:34:40.25,0:34:45.78,Default,,0,0,0,,Do you want to surprise me with\Nsome new facts?
+Dialogue: 0,0:34:46.16,0:34:47.13,Default,,0,0,0,,Not at all!
+Dialogue: 0,0:34:48.16,0:34:49.39,Default,,0,0,0,,Can I borrow this?
+Dialogue: 0,0:34:49.90,0:34:50.86,Default,,0,0,0,,Of course.
+Dialogue: 0,0:35:00.41,0:35:03.43,Default,,0,0,0,,{\i1}I asked him where he had been.{\i0}
+Dialogue: 0,0:35:03.88,0:35:06.54,Default,,0,0,0,,"In Chogo. On an errand". He said.
+Dialogue: 0,0:35:07.38,0:35:08.07,Default,,0,0,0,,That's all.
+Dialogue: 0,0:35:09.68,0:35:11.45,Default,,0,0,0,,You may cross-examine the witness.
+Dialogue: 0,0:35:11.88,0:35:17.25,Default,,0,0,0,,The witness said that the defendant\Nwasn't looking well.
+Dialogue: 0,0:35:17.62,0:35:19.39,Default,,0,0,0,,Had you ever met him before?
+Dialogue: 0,0:35:19.63,0:35:21.79,Default,,0,0,0,,Yes... Many times.
+Dialogue: 0,0:35:22.43,0:35:26.30,Default,,0,0,0,,He used to run around there\Nwhen he was a kid.
+Dialogue: 0,0:35:26.83,0:35:30.39,Default,,0,0,0,,When had you last met him\Nbefore the incident?
+Dialogue: 0,0:35:31.64,0:35:32.90,Default,,0,0,0,,When?
+Dialogue: 0,0:35:33.41,0:35:36.14,Default,,0,0,0,,I wonder when that was...
+Dialogue: 0,0:35:37.91,0:35:39.43,Default,,0,0,0,,{\i1}You can't remember when that was?{\i0}
+Dialogue: 0,0:35:40.31,0:35:44.04,Default,,0,0,0,,I must have met him often in town...
+Dialogue: 0,0:35:44.28,0:35:47.38,Default,,0,0,0,,Then. Again. Perhaps not?
+Dialogue: 0,0:35:48.42,0:35:49.72,Default,,0,0,0,,Well...
+Dialogue: 0,0:35:49.86,0:35:52.92,Default,,0,0,0,,In fact. You didn't know how he\Nusually looked.
+Dialogue: 0,0:35:53.86,0:35:56.76,Default,,0,0,0,,{\i1}You have no basis for your judgment,{\i0}
+Dialogue: 0,0:35:56.76,0:36:00.36,Default,,0,0,0,,{\i1}that the defendant wasn't looking well!{\i0}
+Dialogue: 0,0:36:00.93,0:36:01.80,Default,,0,0,0,,I object!
+Dialogue: 0,0:36:02.33,0:36:05.43,Default,,0,0,0,,The witness is being asked for an opinion.
+Dialogue: 0,0:36:05.84,0:36:07.20,Default,,0,0,0,,It's irrelevant.
+Dialogue: 0,0:36:07.61,0:36:09.70,Default,,0,0,0,,It's related to the witness's credibility.
+Dialogue: 0,0:36:10.48,0:36:12.34,Default,,0,0,0,,It may be related to the incident.
+Dialogue: 0,0:36:12.95,0:36:14.74,Default,,0,0,0,,Objection overruled.
+Dialogue: 0,0:36:15.85,0:36:18.78,Default,,0,0,0,,The counsel for the defense will avoid\Ndisturbing questions.
+Dialogue: 0,0:36:18.98,0:36:19.71,Default,,0,0,0,,Very well. Sir.
+Dialogue: 0,0:36:20.75,0:36:24.92,Default,,0,0,0,,Did the defendant actually say\Nhe had been in Chogo?
+Dialogue: 0,0:36:25.16,0:36:26.15,Default,,0,0,0,,That's no mistake about that.
+Dialogue: 0,0:36:26.16,0:36:30.99,Default,,0,0,0,,- Wasn't he lying?\N- That road is a shortcut to Chogo!
+Dialogue: 0,0:36:31.03,0:36:35.30,Default,,0,0,0,,Thank you. So. The defendant\Ntold the truth about his actions?
+Dialogue: 0,0:36:36.17,0:36:37.97,Default,,0,0,0,,Except for having killed Hatsuko.
+Dialogue: 0,0:36:38.30,0:36:40.36,Default,,0,0,0,,How wide is that road?
+Dialogue: 0,0:36:41.91,0:36:42.77,Default,,0,0,0,,About 3 meters.
+Dialogue: 0,0:36:43.08,0:36:46.04,Default,,0,0,0,,He was pushing the bicycle.\NNot riding on it?
+Dialogue: 0,0:36:46.68,0:36:47.98,Default,,0,0,0,,Wasn't it strange?
+Dialogue: 0,0:36:49.01,0:36:51.38,Default,,0,0,0,,{\i1}A criminal would want to get away quickly.{\i0}
+Dialogue: 0,0:36:51.48,0:36:53.45,Default,,0,0,0,,{\i1}He' ride on the bicycle.{\i0}
+Dialogue: 0,0:36:54.29,0:36:56.75,Default,,0,0,0,,His knees must have been shaking.
+Dialogue: 0,0:36:57.16,0:37:01.32,Default,,0,0,0,,The witness is warned to answer\Nonly what is asked from him.
+Dialogue: 0,0:37:01.96,0:37:04.69,Default,,0,0,0,,When the witness found the body...
+Dialogue: 0,0:37:05.26,0:37:06.94,Default,,0,0,0,,...did he recognize it as being Hatsuko's?
+Dialogue: 0,0:37:07.43,0:37:08.76,Default,,0,0,0,,No. I didn't.
+Dialogue: 0,0:37:09.24,0:37:11.67,Default,,0,0,0,,I reported to the police at once!
+Dialogue: 0,0:37:12.10,0:37:14.07,Default,,0,0,0,,Did you know Hatsuko well?
+Dialogue: 0,0:37:14.57,0:37:16.67,Default,,0,0,0,,Since she was a child.
+Dialogue: 0,0:37:17.44,0:37:21.04,Default,,0,0,0,,Had you ever gone to the snack bar?
+Dialogue: 0,0:37:23.72,0:37:25.51,Default,,0,0,0,,Had you go or hadn't you?
+Dialogue: 0,0:37:27.22,0:37:29.08,Default,,0,0,0,,I had gone 2-3 times.
+Dialogue: 0,0:37:29.36,0:37:30.25,Default,,0,0,0,,Be more specific!
+Dialogue: 0,0:37:31.89,0:37:32.98,Default,,0,0,0,,Maybe 5 times in all.
+Dialogue: 0,0:37:34.03,0:37:34.89,Default,,0,0,0,,Objection!
+Dialogue: 0,0:37:35.96,0:37:40.56,Default,,0,0,0,,Time is being wasted with\Nimmaterial questions.
+Dialogue: 0,0:37:42.84,0:37:46.77,Default,,0,0,0,,What is the counsel for the defense\Ntrying to prove?
+Dialogue: 0,0:37:47.64,0:37:51.24,Default,,0,0,0,,This witness has been called\Nin order to establish...
+Dialogue: 0,0:37:51.51,0:37:54.45,Default,,0,0,0,,...that the defendant was present\Nat the time of the murder.
+Dialogue: 0,0:37:55.58,0:37:59.75,Default,,0,0,0,,The witness doesn't admit to being\Na regular customer.
+Dialogue: 0,0:38:01.15,0:38:04.59,Default,,0,0,0,,The defense proposes itself to prove that...
+Dialogue: 0,0:38:05.09,0:38:09.79,Default,,0,0,0,,...Hatsuko had intended to meet\Nwith the witness on that day.
+Dialogue: 0,0:38:18.64,0:38:20.54,Default,,0,0,0,,Does the prosecution accept this?
+Dialogue: 0,0:38:21.51,0:38:24.91,Default,,0,0,0,,If that is the line of questioning...
+Dialogue: 0,0:38:25.34,0:38:29.94,Default,,0,0,0,,...the defense may proceed.
+Dialogue: 0,0:38:31.38,0:38:33.48,Default,,0,0,0,,Your last visit to the bar?
+Dialogue: 0,0:38:35.15,0:38:36.42,Default,,0,0,0,,I don't remember exactly.
+Dialogue: 0,0:38:37.22,0:38:38.81,Default,,0,0,0,,End of January?
+Dialogue: 0,0:38:39.43,0:38:40.92,Default,,0,0,0,,Why didn't you go after that?
+Dialogue: 0,0:38:42.33,0:38:44.06,Default,,0,0,0,,No special reason.
+Dialogue: 0,0:38:45.10,0:38:49.30,Default,,0,0,0,,I guess I just didn't want rumors\Nspreading...
+Dialogue: 0,0:38:50.04,0:38:52.83,Default,,0,0,0,,...that I was chasing after Hatsuko.
+Dialogue: 0,0:38:53.61,0:38:56.10,Default,,0,0,0,,My old woman'd have pounced on me!
+Dialogue: 0,0:38:57.74,0:38:58.87,Default,,0,0,0,,Quiet!
+Dialogue: 0,0:38:59.51,0:39:00.74,Default,,0,0,0,,Did you pay in cash?
+Dialogue: 0,0:39:02.11,0:39:04.78,Default,,0,0,0,,Sometimes it was on credit.
+Dialogue: 0,0:39:05.18,0:39:08.42,Default,,0,0,0,,You owed 4.520 at the time of her death.
+Dialogue: 0,0:39:09.79,0:39:11.81,Default,,0,0,0,,Was Hatsuko pressing you to pay?
+Dialogue: 0,0:39:12.02,0:39:14.65,Default,,0,0,0,,Objection!\NHe's leading the witness!
+Dialogue: 0,0:39:15.63,0:39:19.89,Default,,0,0,0,,The defense is making a supposition only.
+Dialogue: 0,0:39:20.27,0:39:23.72,Default,,0,0,0,,The witness is refusing to testify on...
+Dialogue: 0,0:39:24.74,0:39:28.26,Default,,0,0,0,,...his relationship with the victim Hatsuko.
+Dialogue: 0,0:39:29.64,0:39:31.73,Default,,0,0,0,,A entry in the notebook in\NHatsuko's handbag...
+Dialogue: 0,0:39:31.74,0:39:36.51,Default,,0,0,0,,...shows that Omura Goichi owed her 4.520.
+Dialogue: 0,0:39:36.75,0:39:43.15,Default,,0,0,0,,We intend to use this entry in\Nthe notebook as evidence.
+Dialogue: 0,0:39:44.29,0:39:47.26,Default,,0,0,0,,I am offering a copy of it\Nto the prosecution.
+Dialogue: 0,0:39:54.40,0:39:57.16,Default,,0,0,0,,Does the witness know Miyauchi?
+Dialogue: 0,0:39:58.90,0:40:00.76,Default,,0,0,0,,The fellow that was always\Nhanging out at the bar?
+Dialogue: 0,0:40:00.81,0:40:02.74,Default,,0,0,0,,Did he know about your debt?
+Dialogue: 0,0:40:02.98,0:40:03.70,Default,,0,0,0,,Objection!
+Dialogue: 0,0:40:04.31,0:40:07.61,Default,,0,0,0,,The question is irrelevant.
+Dialogue: 0,0:40:08.61,0:40:10.95,Default,,0,0,0,,What is the counsel for the defense\Ntrying to prove?
+Dialogue: 0,0:40:11.38,0:40:16.62,Default,,0,0,0,,That the witness is being\Nintimidated by Miyauchi.
+Dialogue: 0,0:40:17.56,0:40:23.32,Default,,0,0,0,,Your Honor. This is a mere supposition!
+Dialogue: 0,0:40:23.86,0:40:26.56,Default,,0,0,0,,I ask that the statement be\Nstricken from the record...
+Dialogue: 0,0:40:26.90,0:40:32.43,Default,,0,0,0,,...and that no further questioning of this\Nwitness should be permitted.
+Dialogue: 0,0:40:34.24,0:40:36.67,Default,,0,0,0,,The objection appears well founded.
+Dialogue: 0,0:40:37.44,0:40:43.85,Default,,0,0,0,,But why not listen to the testimony\Na little further?
+Dialogue: 0,0:40:45.45,0:40:48.75,Default,,0,0,0,,The defense should not stray too far away.
+Dialogue: 0,0:40:50.49,0:40:54.62,Default,,0,0,0,,Did the witness ever drink\Nwith Miyauchi at the bar?
+Dialogue: 0,0:40:56.46,0:41:00.09,Default,,0,0,0,,He picked a quarrel with me there. Once.
+Dialogue: 0,0:41:00.23,0:41:03.17,Default,,0,0,0,,But we had a drink and\Nparted on friendly terms.
+Dialogue: 0,0:41:04.20,0:41:06.69,Default,,0,0,0,,The 5.420 bill was for that one time.
+Dialogue: 0,0:41:07.84,0:41:11.71,Default,,0,0,0,,Very expensive for 3 bottles\Nof {\i1}sake{\i0} and ham!
+Dialogue: 0,0:41:11.78,0:41:14.21,Default,,0,0,0,,But you promised to pay it!
+Dialogue: 0,0:41:15.01,0:41:16.17,Default,,0,0,0,,It's written in the notebook!
+Dialogue: 0,0:41:17.95,0:41:21.11,Default,,0,0,0,,- Yes. I promised to pay.\N- Did you contact her?
+Dialogue: 0,0:41:22.25,0:41:23.52,Default,,0,0,0,,In what way?
+Dialogue: 0,0:41:26.12,0:41:28.42,Default,,0,0,0,,- Telephone.\N- When did you promise to pay?
+Dialogue: 0,0:41:29.90,0:41:31.36,Default,,0,0,0,,- On the 28th.\N- Where?
+Dialogue: 0,0:41:33.03,0:41:34.52,Default,,0,0,0,,- At the station.\N- What time?
+Dialogue: 0,0:41:35.87,0:41:36.84,Default,,0,0,0,,- At 5pm.\N- At 5pm!?
+Dialogue: 0,0:41:38.90,0:41:41.81,Default,,0,0,0,,The time when Hatsuko was killed.
+Dialogue: 0,0:41:43.61,0:41:47.44,Default,,0,0,0,,Did you go to the station at the\Nappointed time?
+Dialogue: 0,0:41:50.22,0:41:52.18,Default,,0,0,0,,Didn't you meet her there?
+Dialogue: 0,0:41:52.89,0:41:56.12,Default,,0,0,0,,- You saw her being killed!\N- Of course not!
+Dialogue: 0,0:41:56.96,0:41:59.19,Default,,0,0,0,,It was 4 days later that...
+Dialogue: 0,0:41:59.53,0:42:00.69,Default,,0,0,0,,...I found the body!
+Dialogue: 0,0:42:01.23,0:42:02.02,Default,,0,0,0,,That's all.
+Dialogue: 0,0:42:06.57,0:42:10.33,Default,,0,0,0,,What's that lawyer got against me?
+Dialogue: 0,0:42:14.77,0:42:17.87,Default,,0,0,0,,{\i1}On March the 28th, at about 4pm.{\i0}
+Dialogue: 0,0:42:18.34,0:42:20.81,Default,,0,0,0,,{\i1}I worked at the store as usually.{\i0}
+Dialogue: 0,0:42:21.41,0:42:25.11,Default,,0,0,0,,A young man had a girl on the\Nback of his bicycle.
+Dialogue: 0,0:42:25.78,0:42:29.08,Default,,0,0,0,,They were quarreling as they passed by.
+Dialogue: 0,0:42:29.29,0:42:33.12,Default,,0,0,0,,Does the witness remember\Nwhat he looked like?
+Dialogue: 0,0:42:33.73,0:42:37.66,Default,,0,0,0,,- Of course.\N- Is he here. In this courtroom?
+Dialogue: 0,0:42:40.60,0:42:42.16,Default,,0,0,0,,It was Ueda Hiroshi.
+Dialogue: 0,0:42:43.77,0:42:45.74,Default,,0,0,0,,Do you also remember Hatsuko?
+Dialogue: 0,0:42:46.54,0:42:51.74,Default,,0,0,0,,I recognized her from the photo in the news.
+Dialogue: 0,0:42:52.74,0:42:55.68,Default,,0,0,0,,- That's all.\N- Cross-examination.
+Dialogue: 0,0:42:55.88,0:42:59.48,Default,,0,0,0,,How is your eyesight without glasses?
+Dialogue: 0,0:43:01.15,0:43:05.59,Default,,0,0,0,,I can read the newspaper without it.
+Dialogue: 0,0:43:05.92,0:43:10.69,Default,,0,0,0,,- Did you read about this murder?\N- I did. It was published in detail.
+Dialogue: 0,0:43:10.80,0:43:12.06,Default,,0,0,0,,Without eyeglasses.
+Dialogue: 0,0:43:12.53,0:43:14.09,Default,,0,0,0,,I put them on.
+Dialogue: 0,0:43:14.17,0:43:16.57,Default,,0,0,0,,You just said you didn't need them!
+Dialogue: 0,0:43:17.57,0:43:21.30,Default,,0,0,0,,Without glasses.\NI can only read the headlines.
+Dialogue: 0,0:43:24.08,0:43:26.84,Default,,0,0,0,,I don't understand difficult things.
+Dialogue: 0,0:43:27.15,0:43:28.43,Default,,0,0,0,,The headlines are enough for me.
+Dialogue: 0,0:43:29.98,0:43:33.65,Default,,0,0,0,,The witness should only reply\Nto questions. Please.
+Dialogue: 0,0:43:33.89,0:43:36.48,Default,,0,0,0,,They say she has a lover.
+Dialogue: 0,0:43:37.12,0:43:39.11,Default,,0,0,0,,Quiet. Please!
+Dialogue: 0,0:43:40.53,0:43:45.36,Default,,0,0,0,,This newspaper is from the morning\Nafter the body was found.
+Dialogue: 0,0:43:45.63,0:43:48.69,Default,,0,0,0,,That's the photo of Hatsuko that you saw?
+Dialogue: 0,0:43:49.27,0:43:54.30,Default,,0,0,0,,Yes. I saw it! I can read that kind of\Nphotograph even from 1 {\i1}Ken!{\i0}
+Dialogue: 0,0:43:55.14,0:43:57.67,Default,,0,0,0,,Was this the girl who passed by you?
+Dialogue: 0,0:43:58.61,0:44:04.14,Default,,0,0,0,,I didn't recognize her at first.\NBut I noticed a likeness.
+Dialogue: 0,0:44:04.72,0:44:06.81,Default,,0,0,0,,The girl on the bicycle...
+Dialogue: 0,0:44:07.32,0:44:10.52,Default,,0,0,0,,...which way was she facing?
+Dialogue: 0,0:44:11.52,0:44:16.36,Default,,0,0,0,,She was seated facing towards the right.
+Dialogue: 0,0:44:16.53,0:44:20.36,Default,,0,0,0,,- The right. In the travel direction?\N- Yes.
+Dialogue: 0,0:44:20.77,0:44:26.03,Default,,0,0,0,,Your store is on the left side of the road.
+Dialogue: 0,0:44:28.04,0:44:31.77,Default,,0,0,0,,So Hatsuko must have had\Nher back towards you.
+Dialogue: 0,0:44:32.98,0:44:34.95,Default,,0,0,0,,A face can be seen from any side!
+Dialogue: 0,0:44:39.05,0:44:43.15,Default,,0,0,0,,Wasn't it after you read the newspaper\Naccount about the two people...
+Dialogue: 0,0:44:43.72,0:44:46.49,Default,,0,0,0,,...that you thought you had seen them?
+Dialogue: 0,0:44:47.76,0:44:49.28,Default,,0,0,0,,That's not the case!
+Dialogue: 0,0:44:49.80,0:44:51.00,Default,,0,0,0,,The police brought pictures...
+Dialogue: 0,0:44:51.56,0:44:55.40,Default,,0,0,0,,...and asked if the two had passed by.
+Dialogue: 0,0:44:56.17,0:44:58.90,Default,,0,0,0,,I remembered them at once!
+Dialogue: 0,0:45:00.57,0:45:02.34,Default,,0,0,0,,So. It was after the police asked you...
+Dialogue: 0,0:45:03.51,0:45:06.31,Default,,0,0,0,,I thought you had reported to the police.
+Dialogue: 0,0:45:06.65,0:45:09.51,Default,,0,0,0,,Why should I had done that?
+Dialogue: 0,0:45:09.61,0:45:11.05,Default,,0,0,0,,I am very busy...
+Dialogue: 0,0:45:12.18,0:45:15.15,Default,,0,0,0,,Being called here and treated like a fool...
+Dialogue: 0,0:45:16.05,0:45:18.99,Default,,0,0,0,,How long did it take the bicycle\Nto pass by you?
+Dialogue: 0,0:45:19.83,0:45:21.92,Default,,0,0,0,,I wasn't keeping track.
+Dialogue: 0,0:45:22.03,0:45:25.09,Default,,0,0,0,,The witness should answer plainly.
+Dialogue: 0,0:45:27.67,0:45:29.22,Default,,0,0,0,,2 seconds at most?
+Dialogue: 0,0:45:29.53,0:45:31.09,Default,,0,0,0,,Were they having a fight?
+Dialogue: 0,0:45:32.64,0:45:34.33,Default,,0,0,0,,- Certainly seemed to.\N- Seemed?!
+Dialogue: 0,0:45:36.14,0:45:37.30,Default,,0,0,0,,You didn't hear their voices?
+Dialogue: 0,0:45:38.88,0:45:42.01,Default,,0,0,0,,A quarrel means a verbal dispute.
+Dialogue: 0,0:45:43.45,0:45:46.14,Default,,0,0,0,,You heard what they were\Nsaying in just 2 seconds?
+Dialogue: 0,0:45:47.22,0:45:48.24,Default,,0,0,0,,Objection!
+Dialogue: 0,0:45:48.99,0:45:51.92,Default,,0,0,0,,The defense's questioning implies...
+Dialogue: 0,0:45:52.62,0:45:55.96,Default,,0,0,0,,...unjust criticism of\Nthe police investigation.
+Dialogue: 0,0:45:56.23,0:45:57.99,Default,,0,0,0,,It is inappropriate.
+Dialogue: 0,0:45:58.70,0:46:03.86,Default,,0,0,0,,Is the counsel for the defense implying\Nthe witness didn't see the defendant?
+Dialogue: 0,0:46:04.40,0:46:06.30,Default,,0,0,0,,Not quite that far.
+Dialogue: 0,0:46:06.40,0:46:08.57,Default,,0,0,0,,Then this is a bit tedious.
+Dialogue: 0,0:46:09.04,0:46:11.34,Default,,0,0,0,,The witness may have seen them.
+Dialogue: 0,0:46:12.41,0:46:16.85,Default,,0,0,0,,What I want to clarify is if they're\Nreally quarreling.
+Dialogue: 0,0:46:17.15,0:46:18.95,Default,,0,0,0,,They were quarreling!
+Dialogue: 0,0:46:19.68,0:46:23.64,Default,,0,0,0,,That is speculation. It lacks credibility.
+Dialogue: 0,0:46:25.22,0:46:27.58,Default,,0,0,0,,The prosecution will not insist\Nthat the two were quarreling.
+Dialogue: 0,0:46:27.63,0:46:30.39,Default,,0,0,0,,They may have been chatting pleasantly.
+Dialogue: 0,0:46:31.26,0:46:34.53,Default,,0,0,0,,It may have been with sweet words...
+Dialogue: 0,0:46:34.83,0:46:40.24,Default,,0,0,0,,...that Hatsuko was taken there!
+Dialogue: 0,0:46:40.64,0:46:41.64,Default,,0,0,0,,The facts of the crime...
+Dialogue: 0,0:46:42.47,0:46:47.74,Default,,0,0,0,,{\i1}...that the prosecution intends\Nto prove remain unchanged.{\i0}
+Dialogue: 0,0:46:48.41,0:46:51.68,Default,,0,0,0,,Please. Put your seal on this.
+Dialogue: 0,0:46:52.98,0:46:53.88,Default,,0,0,0,,Right here.
+Dialogue: 0,0:46:54.22,0:46:55.58,Default,,0,0,0,,I know all about it.
+Dialogue: 0,0:46:58.06,0:47:01.08,Default,,0,0,0,,Everyone's acting so arrogantly!
+Dialogue: 0,0:47:05.60,0:47:08.07,Default,,0,0,0,,Tied up the entire day...
+Dialogue: 0,0:47:08.87,0:47:11.84,Default,,0,0,0,,A pittance of 1.750...
+Dialogue: 0,0:47:15.17,0:47:17.23,Default,,0,0,0,,You got Omura flustered!
+Dialogue: 0,0:47:18.64,0:47:19.74,Default,,0,0,0,,It was no big deal.
+Dialogue: 0,0:47:21.11,0:47:25.45,Default,,0,0,0,,How did you know Miyauchi\Nwas leaning on him?
+Dialogue: 0,0:47:26.48,0:47:27.25,Default,,0,0,0,,I didn't.
+Dialogue: 0,0:47:27.92,0:47:29.65,Default,,0,0,0,,Just a random guess.\NIt struck home.
+Dialogue: 0,0:47:30.26,0:47:31.98,Default,,0,0,0,,Miyauchi's that type.
+Dialogue: 0,0:47:32.99,0:47:34.39,Default,,0,0,0,,I thought he might have.
+Dialogue: 0,0:47:35.23,0:47:37.35,Default,,0,0,0,,It is strange to drink alone for so long.
+Dialogue: 0,0:47:40.57,0:47:44.00,Default,,0,0,0,,The defense seemed overeager\Nin questioning that woman.
+Dialogue: 0,0:47:44.67,0:47:46.43,Default,,0,0,0,,Adverse result for Hiroshi.
+Dialogue: 0,0:47:47.81,0:47:50.67,Default,,0,0,0,,What makes Kikuchi hustle so much?
+Dialogue: 0,0:47:50.88,0:47:53.00,Default,,0,0,0,,Not the money.
+Dialogue: 0,0:47:55.25,0:47:59.31,Default,,0,0,0,,No money in it.\NBut the case attracts the media.
+Dialogue: 0,0:47:59.85,0:48:02.12,Default,,0,0,0,,That's Rule No. 1 for a lawyer.
+Dialogue: 0,0:48:03.32,0:48:08.42,Default,,0,0,0,,You'd better keep that in mind.\NPreparing for the future.
+Dialogue: 0,0:48:32.25,0:48:33.68,Default,,0,0,0,,The witness's name?
+Dialogue: 0,0:48:33.99,0:48:35.42,Default,,0,0,0,,Miyauchi Tatsuzo.
+Dialogue: 0,0:48:36.22,0:48:37.02,Default,,0,0,0,,{\i1}Age?{\i0}
+Dialogue: 0,0:48:37.22,0:48:38.55,Default,,0,0,0,,33.
+Dialogue: 0,0:48:39.39,0:48:40.38,Default,,0,0,0,,{\i1}Occupation?{\i0}
+Dialogue: 0,0:48:40.63,0:48:41.52,Default,,0,0,0,,Unemployed.
+Dialogue: 0,0:48:42.23,0:48:45.16,Default,,0,0,0,,What was your relationship\Nwith Sakai Hatsuko?
+Dialogue: 0,0:48:46.60,0:48:48.26,Default,,0,0,0,,We were very intimate.
+Dialogue: 0,0:48:48.63,0:48:51.83,Default,,0,0,0,,{\i1}Since when? State it simply.{\i0}
+Dialogue: 0,0:48:53.81,0:48:57.61,Default,,0,0,0,,{\i1}I came to know her in a Shinjuku cabaret,\Nin August, 1974.{\i0}
+Dialogue: 0,0:48:58.14,0:49:04.21,Default,,0,0,0,,Later she returned to Tsuchida\Nand opened the snack bar in Atsugi.
+Dialogue: 0,0:49:04.95,0:49:10.62,Default,,0,0,0,,I moved in later with a friend of mine\Nliving in Atsugi.
+Dialogue: 0,0:49:11.09,0:49:12.22,Default,,0,0,0,,So we came together again.
+Dialogue: 0,0:49:13.43,0:49:15.92,Default,,0,0,0,,She asked for my advice about the bar.
+Dialogue: 0,0:49:16.39,0:49:18.16,Default,,0,0,0,,I acted as a caretaker. Too.
+Dialogue: 0,0:49:18.76,0:49:22.29,Default,,0,0,0,,At times I was asked to collect debts.
+Dialogue: 0,0:49:22.83,0:49:24.39,Default,,0,0,0,,{\i1}But never used threats.{\i0}
+Dialogue: 0,0:49:25.74,0:49:30.40,Default,,0,0,0,,Did you ever threaten Omura Goichi\Nto pay his debt?
+Dialogue: 0,0:49:30.64,0:49:32.80,Default,,0,0,0,,Wouldn't dream of such a thing.
+Dialogue: 0,0:49:32.94,0:49:33.81,Default,,0,0,0,,Liar!
+Dialogue: 0,0:49:34.71,0:49:35.87,Default,,0,0,0,,No outbursts here!
+Dialogue: 0,0:49:37.45,0:49:39.78,Default,,0,0,0,,On the night of March 20th.
+Dialogue: 0,0:49:39.95,0:49:43.68,Default,,0,0,0,,8 days before the killing.\NWere you at the bar?
+Dialogue: 0,0:49:44.12,0:49:48.75,Default,,0,0,0,,Yes. I was drinking there.
+Dialogue: 0,0:49:49.36,0:49:51.49,Default,,0,0,0,,{\i1}Hatsuko's sister, Yoshiko, came in.{\i0}
+Dialogue: 0,0:49:52.56,0:49:55.36,Default,,0,0,0,,{\i1}Hatsuko had told me that\NYoshiko was pregnant.{\i0}
+Dialogue: 0,0:49:56.03,0:50:00.49,Default,,0,0,0,,{\i1}She had called the two to urge them\Nfor an abortion.{\i0}
+Dialogue: 0,0:50:01.37,0:50:05.24,Default,,0,0,0,,They had refused.\NShe wanted to convince them.
+Dialogue: 0,0:50:06.11,0:50:10.55,Default,,0,0,0,,Their mother and Hiroshi's father\Nhadn't found out yet.
+Dialogue: 0,0:50:11.18,0:50:14.21,Default,,0,0,0,,Hatsuko said she was going\Nto inform the parents.
+Dialogue: 0,0:50:14.59,0:50:15.63,Default,,0,0,0,,An abortion was necessary.
+Dialogue: 0,0:50:16.32,0:50:23.09,Default,,0,0,0,,Couldn't let her sister marry\Na youth like that.
+Dialogue: 0,0:50:23.16,0:50:24.25,Default,,0,0,0,,I object!
+Dialogue: 0,0:50:25.16,0:50:28.62,Default,,0,0,0,,The testimony is nothing but hearsay.
+Dialogue: 0,0:50:29.60,0:50:33.63,Default,,0,0,0,,The witness is only telling us\Nwhat happened.
+Dialogue: 0,0:50:33.87,0:50:35.27,Default,,0,0,0,,Some parts of it.
+Dialogue: 0,0:50:35.77,0:50:39.40,Default,,0,0,0,,Such as the two having refused abortion.\NIs nothing but hearsay.
+Dialogue: 0,0:50:39.84,0:50:43.71,Default,,0,0,0,,And most detrimental for the defendant.
+Dialogue: 0,0:50:44.38,0:50:46.94,Default,,0,0,0,,Even if it were as the defense claims.
+Dialogue: 0,0:50:47.65,0:50:53.25,Default,,0,0,0,,It helps to explain what occurred\Non the night of March 20th.
+Dialogue: 0,0:50:54.03,0:50:55.89,Default,,0,0,0,,Why not hear a little more?
+Dialogue: 0,0:50:58.16,0:50:59.79,Default,,0,0,0,,Objection overruled.
+Dialogue: 0,0:51:01.00,0:51:02.99,Default,,0,0,0,,The testimony can continue.
+Dialogue: 0,0:51:06.24,0:51:10.11,Default,,0,0,0,,Where were the defendant and Yoshiko\Nseated in the bar?
+Dialogue: 0,0:51:10.38,0:51:12.71,Default,,0,0,0,,They were sitting at the counter.
+Dialogue: 0,0:51:13.14,0:51:16.05,Default,,0,0,0,,About that far away. I'd say.
+Dialogue: 0,0:51:17.12,0:51:19.78,Default,,0,0,0,,At first they talked in low voices.
+Dialogue: 0,0:51:20.25,0:51:21.95,Default,,0,0,0,,Then Hiroshi shouted:
+Dialogue: 0,0:51:22.85,0:51:25.72,Default,,0,0,0,,"Why don't you trust me?"
+Dialogue: 0,0:51:26.69,0:51:30.39,Default,,0,0,0,,{\i1}Hatsuko signaled to me with her eyes,{\i0}
+Dialogue: 0,0:51:30.80,0:51:35.56,Default,,0,0,0,,as if to say: "See the trouble I'm having?"
+Dialogue: 0,0:51:35.97,0:51:37.77,Default,,0,0,0,,I knew right away what was it\Nthat she wanted!
+Dialogue: 0,0:51:38.10,0:51:39.20,Default,,0,0,0,,And what was that?
+Dialogue: 0,0:51:39.37,0:51:42.40,Default,,0,0,0,,That Hiroshi's father should\Nbe told the whole thing.
+Dialogue: 0,0:51:43.71,0:51:46.34,Default,,0,0,0,,What did she say after:\N"Trouble I'm having"?
+Dialogue: 0,0:51:46.44,0:51:47.47,Default,,0,0,0,,Hatsuko?
+Dialogue: 0,0:51:47.95,0:51:49.97,Default,,0,0,0,,"Don't be stupid. Just do as I say!"
+Dialogue: 0,0:51:50.25,0:51:51.45,Default,,0,0,0,,"Go to the hospital tomorrow!"
+Dialogue: 0,0:51:51.72,0:51:54.41,Default,,0,0,0,,"No. I'm going to have the baby!"
+Dialogue: 0,0:51:54.85,0:51:56.51,Default,,0,0,0,,{\i1}Hiroshi wanted to leave.{\i0}
+Dialogue: 0,0:51:56.72,0:51:57.52,Default,,0,0,0,,{\i1}"Wait!"{\i0}
+Dialogue: 0,0:51:58.02,0:51:59.79,Default,,0,0,0,,{\i1}"What if I tell our parents?"{\i0}
+Dialogue: 0,0:52:00.29,0:52:02.78,Default,,0,0,0,,{\i1}"Stop meddling!"{\i0}
+Dialogue: 0,0:52:03.29,0:52:04.42,Default,,0,0,0,,{\i1}"What will you do?"{\i0}
+Dialogue: 0,0:52:05.20,0:52:08.29,Default,,0,0,0,,{\i1}That's how the conversation went.{\i0}
+Dialogue: 0,0:52:09.03,0:52:12.23,Default,,0,0,0,,I felt the situation was dangerous.
+Dialogue: 0,0:52:12.60,0:52:15.73,Default,,0,0,0,,What do you mean by dangerous?
+Dialogue: 0,0:52:16.71,0:52:20.64,Default,,0,0,0,,Punks often have fights around Atsugi.
+Dialogue: 0,0:52:21.35,0:52:24.32,Default,,0,0,0,,When Hiroshi said:\N"Stop meddling!".
+Dialogue: 0,0:52:25.38,0:52:26.98,Default,,0,0,0,,He looked just like one of them.
+Dialogue: 0,0:52:27.39,0:52:31.12,Default,,0,0,0,,Did it sound like he meant:\N"I'll kill you!"?
+Dialogue: 0,0:52:31.29,0:52:32.26,Default,,0,0,0,,I object!
+Dialogue: 0,0:52:32.89,0:52:36.09,Default,,0,0,0,,That really is leading the witness!
+Dialogue: 0,0:52:37.33,0:52:38.56,Default,,0,0,0,,Objection sustained.
+Dialogue: 0,0:52:39.76,0:52:42.76,Default,,0,0,0,,The people should reformulate the question.
+Dialogue: 0,0:52:43.70,0:52:48.26,Default,,0,0,0,,Did Hatsuko and the defendant\Nquarrel vehemently...
+Dialogue: 0,0:52:48.44,0:52:50.67,Default,,0,0,0,,...while you were there?
+Dialogue: 0,0:52:51.24,0:52:52.23,Default,,0,0,0,,Yes. They did.
+Dialogue: 0,0:52:53.24,0:52:53.97,Default,,0,0,0,,That's all.
+Dialogue: 0,0:52:55.71,0:52:57.61,Default,,0,0,0,,The defense may cross-examine.
+Dialogue: 0,0:52:57.75,0:53:03.98,Default,,0,0,0,,The witness first met Hatsuko in a\NShinjuku cabaret. In what way?
+Dialogue: 0,0:53:04.39,0:53:07.83,Default,,0,0,0,,I was a customer and we became intimate.
+Dialogue: 0,0:53:08.99,0:53:12.59,Default,,0,0,0,,- I moved in with Hatsuko.\N{\i1}- Since when?{\i0}
+Dialogue: 0,0:53:12.73,0:53:14.20,Default,,0,0,0,,October 1974.
+Dialogue: 0,0:53:14.73,0:53:18.13,Default,,0,0,0,,{\i1}- After meeting her in August?{\i0}\N- It was Hatsuko's idea!
+Dialogue: 0,0:53:18.37,0:53:19.45,Default,,0,0,0,,Were you working back then?
+Dialogue: 0,0:53:19.57,0:53:21.60,Default,,0,0,0,,- Unemployed.\N- Same as now. Isn't it?
+Dialogue: 0,0:53:22.77,0:53:26.57,Default,,0,0,0,,It means you were living off\NHatsuko's earnings?
+Dialogue: 0,0:53:26.84,0:53:31.30,Default,,0,0,0,,I don't need a woman Tu support me!\NI can earn my own money!
+Dialogue: 0,0:53:31.48,0:53:35.35,Default,,0,0,0,,By squeezing people to pay their debts.\NLike with Omura?
+Dialogue: 0,0:53:35.92,0:53:36.82,Default,,0,0,0,,Objection!
+Dialogue: 0,0:53:37.72,0:53:41.21,Default,,0,0,0,,Defense counsel's question is irrelevant.
+Dialogue: 0,0:53:41.73,0:53:44.19,Default,,0,0,0,,It defames the witness's character.
+Dialogue: 0,0:53:44.66,0:53:45.75,Default,,0,0,0,,Objection sustained!
+Dialogue: 0,0:53:46.86,0:53:50.16,Default,,0,0,0,,The counsel for the defense is asked\Nto re-frame his question.
+Dialogue: 0,0:53:51.07,0:53:57.34,Default,,0,0,0,,Hatsuko returned to Tsuchido in June 1976.
+Dialogue: 0,0:53:57.78,0:53:59.90,Default,,0,0,0,,- She opened a snack bar in August.\N- That is so.
+Dialogue: 0,0:54:00.14,0:54:01.84,Default,,0,0,0,,- Were you living with her?\N- Yes.
+Dialogue: 0,0:54:02.31,0:54:04.94,Default,,0,0,0,,Throughout?\NYou must answer frankly!
+Dialogue: 0,0:54:06.22,0:54:08.98,Default,,0,0,0,,We were separated for a while.
+Dialogue: 0,0:54:09.22,0:54:10.15,Default,,0,0,0,,{\i1}For how long?{\i0}
+Dialogue: 0,0:54:11.62,0:54:12.78,Default,,0,0,0,,A year or so.
+Dialogue: 0,0:54:13.39,0:54:14.98,Default,,0,0,0,,Where were you during this time?
+Dialogue: 0,0:54:15.63,0:54:16.46,Default,,0,0,0,,I object!
+Dialogue: 0,0:54:17.46,0:54:19.79,Default,,0,0,0,,{\i1}This question is immaterial!{\i0}
+Dialogue: 0,0:54:20.20,0:54:21.22,Default,,0,0,0,,In prison.
+Dialogue: 0,0:54:22.03,0:54:25.59,Default,,0,0,0,,I'm only asking where he was\Nduring that period!
+Dialogue: 0,0:54:25.70,0:54:26.97,Default,,0,0,0,,A waste of time!
+Dialogue: 0,0:54:27.21,0:54:28.19,Default,,0,0,0,,Objection sustained.
+Dialogue: 0,0:54:30.01,0:54:33.31,Default,,0,0,0,,The counsel for the defense will\Nre frame that question.
+Dialogue: 0,0:54:33.91,0:54:36.94,Default,,0,0,0,,Did the witness move with\NHatsuko to Tsuchida?
+Dialogue: 0,0:54:37.22,0:54:38.18,Default,,0,0,0,,I didn't.
+Dialogue: 0,0:54:38.75,0:54:44.31,Default,,0,0,0,,- Did you follow her there afterwards?\N- I went to my friend's house.
+Dialogue: 0,0:54:44.46,0:54:45.50,Default,,0,0,0,,Did you meet with Hatsuko?
+Dialogue: 0,0:54:45.56,0:54:47.08,Default,,0,0,0,,- Of course I did.\N- Why?
+Dialogue: 0,0:54:47.23,0:54:48.21,Default,,0,0,0,,She was my woman.
+Dialogue: 0,0:54:49.09,0:54:53.50,Default,,0,0,0,,But. In January of this year.\NYou moved away to Chogo.
+Dialogue: 0,0:54:54.57,0:54:55.29,Default,,0,0,0,,Why?
+Dialogue: 0,0:54:57.14,0:54:59.07,Default,,0,0,0,,There was some trouble.
+Dialogue: 0,0:54:59.94,0:55:00.78,Default,,0,0,0,,What kind of trouble?
+Dialogue: 0,0:55:00.84,0:55:02.74,Default,,0,0,0,,Trouble with Hatsuko.
+Dialogue: 0,0:55:03.04,0:55:03.77,Default,,0,0,0,,Objection!
+Dialogue: 0,0:55:04.58,0:55:09.48,Default,,0,0,0,,I have objected several times.\NAnd Your Honor has sustained me.
+Dialogue: 0,0:55:10.32,0:55:13.15,Default,,0,0,0,,- But the counsel for the defense insists.\N- No!
+Dialogue: 0,0:55:14.05,0:55:16.61,Default,,0,0,0,,The relationship between the witness\Nand Hatsuko...
+Dialogue: 0,0:55:16.72,0:55:22.06,Default,,0,0,0,,...has a vital bearing on the\Nbackground of this crime!
+Dialogue: 0,0:55:22.16,0:55:24.53,Default,,0,0,0,,The court wishes to hear it. Too.
+Dialogue: 0,0:55:25.40,0:55:26.99,Default,,0,0,0,,The prosecution must agree...
+Dialogue: 0,0:55:28.43,0:55:32.20,Default,,0,0,0,,It is natural for the defense to delve\Ninto the background...
+Dialogue: 0,0:55:33.04,0:55:36.47,Default,,0,0,0,,I respect the Court's search for truth.
+Dialogue: 0,0:55:36.81,0:55:39.74,Default,,0,0,0,,But there are way too many\Nimmaterial questions.
+Dialogue: 0,0:55:40.35,0:55:44.28,Default,,0,0,0,,And questions that defame\Nthe witness's character.
+Dialogue: 0,0:55:44.75,0:55:46.48,Default,,0,0,0,,That may be so.
+Dialogue: 0,0:55:47.19,0:55:51.49,Default,,0,0,0,,But the court desires to know more\Nabout this relationship.
+Dialogue: 0,0:55:53.32,0:55:54.24,Default,,0,0,0,,The judge is all right.
+Dialogue: 0,0:55:54.29,0:55:56.49,Default,,0,0,0,,We have learnt that...
+Dialogue: 0,0:55:56.96,0:56:01.86,Default,,0,0,0,,...Hatsuko was in your room on March 28th.\NFrom 2:30 to 3:30pm.
+Dialogue: 0,0:56:02.93,0:56:04.60,Default,,0,0,0,,What was she doing there?
+Dialogue: 0,0:56:04.87,0:56:05.89,Default,,0,0,0,,Drinking beer.
+Dialogue: 0,0:56:06.80,0:56:09.80,Default,,0,0,0,,You were drinking together?
+Dialogue: 0,0:56:10.01,0:56:11.74,Default,,0,0,0,,- Yes.\N- A lot?
+Dialogue: 0,0:56:13.08,0:56:16.31,Default,,0,0,0,,Just two bottles. Or maybe there were three.
+Dialogue: 0,0:56:16.55,0:56:19.61,Default,,0,0,0,,A whole hour to drink three bottles...
+Dialogue: 0,0:56:20.55,0:56:21.42,Default,,0,0,0,,Maybe four.
+Dialogue: 0,0:56:21.75,0:56:23.08,Default,,0,0,0,,Which was it. Three or four?
+Dialogue: 0,0:56:24.46,0:56:25.39,Default,,0,0,0,,Probably 4.
+Dialogue: 0,0:56:25.99,0:56:29.19,Default,,0,0,0,,Do you always have beer in your room?
+Dialogue: 0,0:56:32.13,0:56:35.46,Default,,0,0,0,,- Hatsuko brought it from her bar.\N- Don't lie!
+Dialogue: 0,0:56:38.10,0:56:42.06,Default,,0,0,0,,She got off the bus with only her handbag!
+Dialogue: 0,0:56:44.08,0:56:45.34,Default,,0,0,0,,Who brought the beer?
+Dialogue: 0,0:56:52.62,0:56:53.78,Default,,0,0,0,,There was someone else there.
+Dialogue: 0,0:56:54.39,0:56:56.11,Default,,0,0,0,,Why didn't you say so?
+Dialogue: 0,0:56:56.59,0:56:57.82,Default,,0,0,0,,I wasn't asked!
+Dialogue: 0,0:56:57.89,0:56:59.32,Default,,0,0,0,,{\i1}Was it a woman?{\i0}
+Dialogue: 0,0:57:01.03,0:57:02.05,Default,,0,0,0,,{\i1}Answer, please!{\i0}
+Dialogue: 0,0:57:03.39,0:57:05.12,Default,,0,0,0,,{\i1}On Mar 28th, at 2:30pm.{\i0}
+Dialogue: 0,0:57:05.86,0:57:09.06,Default,,0,0,0,,{\i1}A woman was in your room\Nwhen Hatsuko was killed?{\i0}
+Dialogue: 0,0:57:11.20,0:57:12.53,Default,,0,0,0,,That's right.
+Dialogue: 0,0:57:12.87,0:57:15.96,Default,,0,0,0,,Has she been living with you\Nsince Hatsuko's death?
+Dialogue: 0,0:57:16.17,0:57:17.64,Default,,0,0,0,,So what!
+Dialogue: 0,0:57:17.84,0:57:21.01,Default,,0,0,0,,The witness is asked to be more careful\Nhow he speaks.
+Dialogue: 0,0:57:23.21,0:57:28.05,Default,,0,0,0,,Describe what happened between\Nthat woman. Hatsuko and you.
+Dialogue: 0,0:57:29.55,0:57:32.22,Default,,0,0,0,,Kyoko.\NHer name is Sakurai Kyoko.
+Dialogue: 0,0:57:32.92,0:57:37.66,Default,,0,0,0,,Kyoko ordered the beer.\NWhile we were drinking. Hatsuko came.
+Dialogue: 0,0:57:38.33,0:57:40.46,Default,,0,0,0,,Were you expecting her?
+Dialogue: 0,0:57:40.63,0:57:41.83,Default,,0,0,0,,- I wasn't.\N- Why?
+Dialogue: 0,0:57:46.60,0:57:49.84,Default,,0,0,0,,She was going to meet Omura Goichi.
+Dialogue: 0,0:57:52.11,0:57:56.98,Default,,0,0,0,,She came just to say she was going\Nto collect from Omura?
+Dialogue: 0,0:57:58.38,0:57:59.44,Default,,0,0,0,,That's right.
+Dialogue: 0,0:57:59.65,0:58:02.92,Default,,0,0,0,,In your deposition to the prosecution...
+Dialogue: 0,0:58:03.86,0:58:07.88,Default,,0,0,0,,you've stated that Hatsuko came\Nto collect and you paid her 3.350.
+Dialogue: 0,0:58:08.76,0:58:10.09,Default,,0,0,0,,- Well?\N- I remember now!
+Dialogue: 0,0:58:11.80,0:58:12.82,Default,,0,0,0,,She came for the money.
+Dialogue: 0,0:58:14.03,0:58:14.93,Default,,0,0,0,,I paid her.
+Dialogue: 0,0:58:15.47,0:58:17.76,Default,,0,0,0,,Which was it?\NBe explicit. Please!
+Dialogue: 0,0:58:18.27,0:58:19.43,Default,,0,0,0,,To collect money.
+Dialogue: 0,0:58:19.80,0:58:23.26,Default,,0,0,0,,You were lovers. Why did you have to pay?
+Dialogue: 0,0:58:23.88,0:58:27.11,Default,,0,0,0,,Hatsuko was always strict about money.
+Dialogue: 0,0:58:28.38,0:58:31.78,Default,,0,0,0,,A debt was a debt. No matter what.
+Dialogue: 0,0:58:32.42,0:58:35.85,Default,,0,0,0,,When her family sold the bar.\NAfter her death.
+Dialogue: 0,0:58:36.65,0:58:39.65,Default,,0,0,0,,You showed a 500.000 loan agreement.
+Dialogue: 0,0:58:40.42,0:58:42.09,Default,,0,0,0,,You demanded repayment.
+Dialogue: 0,0:58:42.23,0:58:44.09,Default,,0,0,0,,If so. You were a creditor.
+Dialogue: 0,0:58:44.56,0:58:46.26,Default,,0,0,0,,Why did you pay her?
+Dialogue: 0,0:58:47.40,0:58:53.80,Default,,0,0,0,,That 500.000 was to be repaid\Nwhen the bar was sold.
+Dialogue: 0,0:58:55.21,0:58:58.33,Default,,0,0,0,,500.000 is a large sum of money.
+Dialogue: 0,0:58:59.64,0:59:01.94,Default,,0,0,0,,How did she get it?
+Dialogue: 0,0:59:02.51,0:59:04.91,Default,,0,0,0,,I lent it to her. So that she could...
+Dialogue: 0,0:59:05.62,0:59:06.95,Default,,0,0,0,,open up that bar.
+Dialogue: 0,0:59:07.39,0:59:08.08,Default,,0,0,0,,But...
+Dialogue: 0,0:59:08.49,0:59:11.75,Default,,0,0,0,,...you were away for 18 months\Nand couldn't return.
+Dialogue: 0,0:59:12.96,0:59:14.42,Default,,0,0,0,,How was the loan made?
+Dialogue: 0,0:59:23.63,0:59:26.93,Default,,0,0,0,,This is the document that the family had.
+Dialogue: 0,0:59:28.17,0:59:33.58,Default,,0,0,0,,You made Hatsuko write it two days\Nbefore you moved to Chogo.
+Dialogue: 0,0:59:35.05,0:59:39.07,Default,,0,0,0,,- For repayment if she had sold the bar...\N- You're lying!
+Dialogue: 0,0:59:41.12,0:59:42.21,Default,,0,0,0,,Your severance pay. Wasn't it?
+Dialogue: 0,0:59:42.22,0:59:44.71,Default,,0,0,0,,I'd never never do such a thing to a woman!
+Dialogue: 0,0:59:46.72,0:59:49.56,Default,,0,0,0,,Couldn't the counsel for the defense\Nspeak more moderately?
+Dialogue: 0,0:59:51.50,0:59:55.02,Default,,0,0,0,,You were drinking with Kyoko at that time.
+Dialogue: 0,0:59:56.23,0:59:57.93,Default,,0,0,0,,What did Hatsuko have to say?
+Dialogue: 0,0:59:59.04,1:00:01.87,Default,,0,0,0,,She asked me to pay the 3.350 debt.
+Dialogue: 0,1:00:02.74,1:00:05.73,Default,,0,0,0,,I paid her and said:\N"Let's have a drink".
+Dialogue: 0,1:00:06.44,1:00:09.74,Default,,0,0,0,,She thanked me. Saying she was not thirsty.
+Dialogue: 0,1:00:11.78,1:00:13.98,Default,,0,0,0,,Then left for her meeting with the old man.
+Dialogue: 0,1:00:14.39,1:00:18.52,Default,,0,0,0,,Your relationship with Kyoko...
+Dialogue: 0,1:00:18.89,1:00:20.58,Default,,0,0,0,,...Hatsuko must have known.
+Dialogue: 0,1:00:21.13,1:00:25.65,Default,,0,0,0,,She knew. But she didn't make a fuss.\NShe wasn't that stupid.
+Dialogue: 0,1:00:26.90,1:00:29.20,Default,,0,0,0,,One hour to drink a beer?
+Dialogue: 0,1:00:29.50,1:00:31.80,Default,,0,0,0,,No. Only about 15 minutes.
+Dialogue: 0,1:00:32.10,1:00:36.63,Default,,0,0,0,,You told the prosecutor she came at 2:30\Nand left at 3:30.
+Dialogue: 0,1:00:37.64,1:00:39.11,Default,,0,0,0,,Which story is correct?
+Dialogue: 0,1:00:40.48,1:00:43.04,Default,,0,0,0,,Upon thinking deeply. 15 minutes.
+Dialogue: 0,1:00:43.31,1:00:49.65,Default,,0,0,0,,Hatsuko arrived at Chogo Motor Co.\NAt a little after 3:30pm.
+Dialogue: 0,1:00:51.22,1:00:54.25,Default,,0,0,0,,{\i1}Less than 50 meters from your place.{\i0}
+Dialogue: 0,1:00:55.63,1:00:57.99,Default,,0,0,0,,If she stayed for only 15 minutes.
+Dialogue: 0,1:00:58.26,1:01:02.13,Default,,0,0,0,,Did it take her 45 minutes\Nto walk 50 meters?
+Dialogue: 0,1:01:02.37,1:01:05.06,Default,,0,0,0,,How could I know if she walked or ran?
+Dialogue: 0,1:01:06.87,1:01:10.17,Default,,0,0,0,,I'll end my cross-examination here.
+Dialogue: 0,1:01:11.74,1:01:15.27,Default,,0,0,0,,I would like to recall the witness later.
+Dialogue: 0,1:01:15.75,1:01:17.01,Default,,0,0,0,,As a defense witness.
+Dialogue: 0,1:01:20.28,1:01:21.38,Default,,0,0,0,,Just a moment!
+Dialogue: 0,1:01:21.45,1:01:22.92,Default,,0,0,0,,An interview!
+Dialogue: 0,1:01:24.86,1:01:26.35,Default,,0,0,0,,Who are you?
+Dialogue: 0,1:01:27.46,1:01:29.09,Default,,0,0,0,,I'm not on exhibit!
+Dialogue: 0,1:01:29.39,1:01:30.19,Default,,0,0,0,,Of course but...
+Dialogue: 0,1:01:30.96,1:01:34.92,Default,,0,0,0,,Be careful about what you write. Or else...
+Dialogue: 0,1:01:36.70,1:01:37.79,Default,,0,0,0,,A few words will do...
+Dialogue: 0,1:01:42.04,1:01:46.70,Default,,0,0,0,,What more does Kikuchi expect\Nto draw out from Miyauchi?
+Dialogue: 0,1:01:48.71,1:01:52.38,Default,,0,0,0,,The prosecution's choice\Nof the witness was bad...
+Dialogue: 0,1:01:53.38,1:01:56.72,Default,,0,0,0,,Using threats to collect debts...
+Dialogue: 0,1:01:56.75,1:01:58.72,Default,,0,0,0,,Very little credibility.
+Dialogue: 0,1:02:40.16,1:02:42.79,Default,,0,0,0,,Waiter! Over here!
+Dialogue: 0,1:03:04.49,1:03:05.35,Default,,0,0,0,,What are you doing?
+Dialogue: 0,1:03:06.69,1:03:07.82,Default,,0,0,0,,This is ridiculous!
+Dialogue: 0,1:03:08.16,1:03:10.65,Default,,0,0,0,,You're disagreeable!
+Dialogue: 0,1:03:29.08,1:03:32.21,Default,,0,0,0,,This is where I'm living.
+Dialogue: 0,1:03:32.75,1:03:33.51,Default,,0,0,0,,Here.
+Dialogue: 0,1:03:36.49,1:03:37.51,Default,,0,0,0,,You don't fool me!
+Dialogue: 0,1:03:38.72,1:03:39.81,Default,,0,0,0,,I'm surprised!
+Dialogue: 0,1:03:46.53,1:03:49.97,Default,,0,0,0,,You were lying to me. Weren't you?
+Dialogue: 0,1:03:50.27,1:03:51.20,Default,,0,0,0,,What about you?
+Dialogue: 0,1:03:53.14,1:03:54.26,Default,,0,0,0,,Why try to hide it?
+Dialogue: 0,1:03:57.84,1:03:59.32,Default,,0,0,0,,You're being very strange about this!
+Dialogue: 0,1:04:18.83,1:04:20.02,Default,,0,0,0,,You've spilled the beer!
+Dialogue: 0,1:07:08.83,1:07:10.60,Default,,0,0,0,,Come again. Hiro-cha.
+Dialogue: 0,1:07:25.78,1:07:26.88,Default,,0,0,0,,When...
+Dialogue: 0,1:07:39.06,1:07:43.30,Default,,0,0,0,,I came to know Ueda Hiroshi at the factory.
+Dialogue: 0,1:07:45.37,1:07:49.47,Default,,0,0,0,,I quit the factory last year.\NI'm helping my father.
+Dialogue: 0,1:07:50.24,1:07:54.73,Default,,0,0,0,,Hiroshi said he wanted to borrow\Na truck on March 28th.
+Dialogue: 0,1:07:55.11,1:07:56.70,Default,,0,0,0,,I told him he could.
+Dialogue: 0,1:07:57.61,1:08:00.45,Default,,0,0,0,,He came in the afternoon to talk it over.
+Dialogue: 0,1:08:01.09,1:08:04.89,Default,,0,0,0,,Did you ask what he was going to use it at?
+Dialogue: 0,1:08:05.26,1:08:06.15,Default,,0,0,0,,I didn't ask.
+Dialogue: 0,1:08:07.36,1:08:10.72,Default,,0,0,0,,When Hatsuko passed by.\NAt about 3:30.
+Dialogue: 0,1:08:11.36,1:08:14.23,Default,,0,0,0,,{\i1}Were you at your place with Hiroshi?{\i0}
+Dialogue: 0,1:08:14.77,1:08:15.53,Default,,0,0,0,,{\i1}Yes.{\i0}
+Dialogue: 0,1:08:15.83,1:08:18.96,Default,,0,0,0,,{\i1}What did Hiroshi say when he saw her?{\i0}
+Dialogue: 0,1:08:20.07,1:08:20.87,Default,,0,0,0,,{\i1}Well...{\i0}
+Dialogue: 0,1:08:21.67,1:08:23.66,Default,,0,0,0,,{\i1}He asked me not to mention about the truck.{\i0}
+Dialogue: 0,1:08:25.14,1:08:27.80,Default,,0,0,0,,He didn't want her to know about it?
+Dialogue: 0,1:08:28.45,1:08:30.64,Default,,0,0,0,,{\i1}- It seemed so...\N- And then?{\i0}
+Dialogue: 0,1:08:31.45,1:08:35.61,Default,,0,0,0,,{\i1}Hatsuko asked for a lift on\NHiroshi's bicycle.{\i0}
+Dialogue: 0,1:08:36.59,1:08:39.52,Default,,0,0,0,,{\i1}He said the bus would be faster,{\i0}
+Dialogue: 0,1:08:41.13,1:08:44.12,Default,,0,0,0,,{\i1}but she wanted to go back home.{\i0}
+Dialogue: 0,1:08:45.43,1:08:47.73,Default,,0,0,0,,When Hatsuko made her request...
+Dialogue: 0,1:08:48.53,1:08:50.36,Default,,0,0,0,,- was Hiroshi troubled?\N- No!
+Dialogue: 0,1:08:51.50,1:08:53.49,Default,,0,0,0,,They were getting along fine.
+Dialogue: 0,1:08:54.64,1:08:55.84,Default,,0,0,0,,Getting along fine. Were they?
+Dialogue: 0,1:08:56.47,1:08:58.77,Default,,0,0,0,,{\i1}Yes... That's how they appeared.{\i0}
+Dialogue: 0,1:09:01.24,1:09:04.54,Default,,0,0,0,,Do you know the snack bar "Ai"?
+Dialogue: 0,1:09:04.88,1:09:08.18,Default,,0,0,0,,Yes. It's about 50 meters from my place.
+Dialogue: 0,1:09:08.65,1:09:10.59,Default,,0,0,0,,Did she come from that direction?
+Dialogue: 0,1:09:11.82,1:09:12.69,Default,,0,0,0,,Yes. She did.
+Dialogue: 0,1:09:13.76,1:09:16.45,Default,,0,0,0,,On the way to your place...
+Dialogue: 0,1:09:17.16,1:09:20.60,Default,,0,0,0,,...Hiroshi bought a knife at the store.
+Dialogue: 0,1:09:21.23,1:09:22.96,Default,,0,0,0,,- Did you see it?\N- No. I didn't!
+Dialogue: 0,1:09:25.04,1:09:27.37,Default,,0,0,0,,He had something in his shirt pocket...
+Dialogue: 0,1:09:28.97,1:09:29.73,Default,,0,0,0,,What was it?
+Dialogue: 0,1:09:30.74,1:09:31.54,Default,,0,0,0,,Clothespins.
+Dialogue: 0,1:09:31.78,1:09:32.57,Default,,0,0,0,,{\i1}Clothespins?!{\i0}
+Dialogue: 0,1:09:32.98,1:09:33.67,Default,,0,0,0,,{\i1}Yes.{\i0}
+Dialogue: 0,1:09:33.98,1:09:36.38,Default,,0,0,0,,Are you sure? Clothespins?
+Dialogue: 0,1:09:37.21,1:09:42.41,Default,,0,0,0,,Yes. I am... Aluminum clothespins.
+Dialogue: 0,1:09:45.89,1:09:48.29,Default,,0,0,0,,When he came into the store.\NI knew at once...
+Dialogue: 0,1:09:49.13,1:09:52.58,Default,,0,0,0,,...he didn't live in Chogo.
+Dialogue: 0,1:09:53.36,1:09:56.16,Default,,0,0,0,,Did the defendant pick up a\Nnumber of knives?
+Dialogue: 0,1:09:57.30,1:09:58.03,Default,,0,0,0,,He did.
+Dialogue: 0,1:09:59.10,1:10:03.40,Default,,0,0,0,,Is it customary for customers\Nto test the blade?
+Dialogue: 0,1:10:04.88,1:10:09.61,Default,,0,0,0,,The defendant was\Nparticularly... enthusiastic.
+Dialogue: 0,1:10:10.51,1:10:15.42,Default,,0,0,0,,{\i1}He'd pick up a knife and test the blade\Ntime and time again.{\i0}
+Dialogue: 0,1:10:15.65,1:10:20.06,Default,,0,0,0,,He chose a mountaineering knife.\NDidn't he? A multipurpose one?
+Dialogue: 0,1:10:20.16,1:10:21.89,Default,,0,0,0,,That's correct.
+Dialogue: 0,1:10:22.63,1:10:25.36,Default,,0,0,0,,Is yours a cutlery store?
+Dialogue: 0,1:10:25.56,1:10:26.56,Default,,0,0,0,,Not only a cutlery store!
+Dialogue: 0,1:10:26.73,1:10:28.96,Default,,0,0,0,,- Isn't it?\N- No. No! A hardware store. Too!
+Dialogue: 0,1:10:29.40,1:10:33.80,Default,,0,0,0,,There isn't enough business in Chogo\Nfor a cutlery store alone.
+Dialogue: 0,1:10:34.30,1:10:36.90,Default,,0,0,0,,I also sell pots. Kettles. Buckets...
+Dialogue: 0,1:10:37.31,1:10:39.57,Default,,0,0,0,,{\i1}Stand face front when answering, please.{\i0}
+Dialogue: 0,1:10:41.28,1:10:43.71,Default,,0,0,0,,Then you sell clothespins. Too?
+Dialogue: 0,1:10:45.18,1:10:46.81,Default,,0,0,0,,I sell them.
+Dialogue: 0,1:10:47.75,1:10:49.65,Default,,0,0,0,,On the 28th. At about 2:30.
+Dialogue: 0,1:10:50.02,1:10:51.30,Default,,0,0,0,,Did you sell to the defendant...
+Dialogue: 0,1:10:51.66,1:10:56.29,Default,,0,0,0,,...the knife and clothespins?
+Dialogue: 0,1:11:02.30,1:11:04.20,Default,,0,0,0,,I sold him clothespins.
+Dialogue: 0,1:11:04.57,1:11:06.59,Default,,0,0,0,,Before. Or after the knife?
+Dialogue: 0,1:11:07.04,1:11:11.57,Default,,0,0,0,,{\i1}He handed the knife to me\Nand said that he wanted it,{\i0}
+Dialogue: 0,1:11:12.44,1:11:16.64,Default,,0,0,0,,{\i1}then, seeing the clothespins,\Nhe said: "These, too."{\i0}
+Dialogue: 0,1:11:17.38,1:11:19.51,Default,,0,0,0,,Let me ask your opinion.
+Dialogue: 0,1:11:20.85,1:11:23.88,Default,,0,0,0,,A multipurpose knife. Wasn't it?
+Dialogue: 0,1:11:24.55,1:11:30.19,Default,,0,0,0,,Couldn't the defendant have bought the\Nknife and clothespins for a new home?
+Dialogue: 0,1:11:30.49,1:11:34.66,Default,,0,0,0,,It is possible.
+Dialogue: 0,1:11:37.10,1:11:38.06,Default,,0,0,0,,I have no more question.
+Dialogue: 0,1:11:38.10,1:11:41.54,Default,,0,0,0,,Does the prosecution have other questions?
+Dialogue: 0,1:11:41.77,1:11:42.50,Default,,0,0,0,,Yes.
+Dialogue: 0,1:11:44.87,1:11:48.04,Default,,0,0,0,,So... After handing you the knife he wanted.
+Dialogue: 0,1:11:48.58,1:11:51.31,Default,,0,0,0,,He saw the clothespins hanging there...
+Dialogue: 0,1:11:51.75,1:11:53.74,Default,,0,0,0,,and he said: "These. Too?"
+Dialogue: 0,1:11:55.25,1:11:55.98,Default,,0,0,0,,Correct.
+Dialogue: 0,1:11:56.12,1:12:00.52,Default,,0,0,0,,Doesn't the witness think he might have\Ndone that on purpose?
+Dialogue: 0,1:12:02.09,1:12:04.75,Default,,0,0,0,,He wanted a knife to kill Hatsuko.
+Dialogue: 0,1:12:05.43,1:12:10.16,Default,,0,0,0,,But. In order to camouflage his intentions.
+Dialogue: 0,1:12:11.33,1:12:16.86,Default,,0,0,0,,To give the impression that it wasn't just\Nfor that that he had bought the knife.
+Dialogue: 0,1:12:17.81,1:12:19.93,Default,,0,0,0,,He bought the clothespins. Don't you think?
+Dialogue: 0,1:12:22.51,1:12:24.21,Default,,0,0,0,,{\i1}Objection!{\i0}
+Dialogue: 0,1:12:25.35,1:12:27.61,Default,,0,0,0,,We must be close to adjournment.
+Dialogue: 0,1:12:27.95,1:12:31.32,Default,,0,0,0,,And it is not my intention to waste\Nthe court's time.
+Dialogue: 0,1:12:32.29,1:12:37.25,Default,,0,0,0,,But this "camouflage" is nothing but\Nthe prosecution's inference.
+Dialogue: 0,1:12:37.89,1:12:40.12,Default,,0,0,0,,The prosecution can sum it up later;
+Dialogue: 0,1:12:41.00,1:12:44.83,Default,,0,0,0,,Seeking an opinion now.\NConfusing the witness.
+Dialogue: 0,1:12:45.40,1:12:48.13,Default,,0,0,0,,May harm the witness' credibility.
+Dialogue: 0,1:12:48.24,1:12:53.27,Default,,0,0,0,,It was the defense that first asked\Nfor an opinion.
+Dialogue: 0,1:12:53.41,1:12:56.97,Default,,0,0,0,,I just asked for an opinion in the same way!
+Dialogue: 0,1:12:57.21,1:12:58.65,Default,,0,0,0,,Wait a moment. Please.
+Dialogue: 0,1:13:00.15,1:13:03.59,Default,,0,0,0,,This is not a prosecution-defense\Nbattleground.
+Dialogue: 0,1:13:04.45,1:13:07.12,Default,,0,0,0,,The court wishes to hear everything.
+Dialogue: 0,1:13:07.96,1:13:10.32,Default,,0,0,0,,Including the opinion of this witness.
+Dialogue: 0,1:13:14.43,1:13:15.80,Default,,0,0,0,,Objection overruled!
+Dialogue: 0,1:13:19.50,1:13:26.07,Default,,0,0,0,,Don't you think that buying the\Nclothespins was intended...
+Dialogue: 0,1:13:26.58,1:13:28.81,Default,,0,0,0,,...to camouflage the knife\Nas a murder weapon?
+Dialogue: 0,1:13:29.61,1:13:33.57,Default,,0,0,0,,His purchase of clothespins\Ndidn't appear to be...
+Dialogue: 0,1:13:34.32,1:13:36.84,Default,,0,0,0,,a move to camouflage the knife.
+Dialogue: 0,1:13:39.06,1:13:40.72,Default,,0,0,0,,A knife to kill someone.
+Dialogue: 0,1:13:42.46,1:13:44.36,Default,,0,0,0,,That's a very positive assertion...
+Dialogue: 0,1:13:44.56,1:13:49.29,Default,,0,0,0,,You've hesitated earlier.\NAnd were unable to answer.
+Dialogue: 0,1:13:50.23,1:13:53.60,Default,,0,0,0,,It became clear while\NI was thinking it over.
+Dialogue: 0,1:13:53.77,1:13:54.90,Default,,0,0,0,,Is it so?
+Dialogue: 0,1:13:55.31,1:13:59.64,Default,,0,0,0,,But. In your deposition...\Nyou said you couldn't tell...
+Dialogue: 0,1:13:59.64,1:14:01.97,Default,,0,0,0,,...what every customer was thinking about...
+Dialogue: 0,1:14:03.75,1:14:04.98,Default,,0,0,0,,Quite inconsistent!
+Dialogue: 0,1:14:06.22,1:14:07.74,Default,,0,0,0,,{\i1}Your previous deposition stated...{\i0}
+Dialogue: 0,1:14:08.35,1:14:13.48,Default,,0,0,0,,...that the undue attention the defendant\Nhad given the blade had troubled you.
+Dialogue: 0,1:14:15.33,1:14:16.41,Default,,0,0,0,,That wasn't the only thing!
+Dialogue: 0,1:14:16.86,1:14:20.39,Default,,0,0,0,,He seemed so fascinated by the knife...
+Dialogue: 0,1:14:20.83,1:14:22.73,Default,,0,0,0,,...that I had begun to wonder...
+Dialogue: 0,1:14:23.80,1:14:29.00,Default,,0,0,0,,...if he hadn't... planned to steal it...
+Dialogue: 0,1:14:29.37,1:14:33.10,Default,,0,0,0,,The clothespins also made me think.
+Dialogue: 0,1:14:33.84,1:14:36.92,Default,,0,0,0,,I can say this from my own experience...\Nand it probably happened to you to...
+Dialogue: 0,1:14:37.25,1:14:42.24,Default,,0,0,0,,...when newly married.\NHousehold trifles often catch one's eyes.
+Dialogue: 0,1:14:42.85,1:14:43.94,Default,,0,0,0,,A wash basin...
+Dialogue: 0,1:14:44.09,1:14:46.35,Default,,0,0,0,,Did your impression change...
+Dialogue: 0,1:14:47.09,1:14:50.22,Default,,0,0,0,,...after reading in the newspapers...
+Dialogue: 0,1:14:51.29,1:14:53.56,Default,,0,0,0,,{\i1}...that the defendant had been living\Nwith Yoshiko?{\i0}
+Dialogue: 0,1:14:53.93,1:14:54.79,Default,,0,0,0,,Of course not!
+Dialogue: 0,1:14:55.73,1:14:56.82,Default,,0,0,0,,Not at all!
+Dialogue: 0,1:14:57.40,1:14:59.46,Default,,0,0,0,,I'm speaking from my own experience:
+Dialogue: 0,1:15:00.24,1:15:05.04,Default,,0,0,0,,He was really very happy\Nwhen buying that knife!
+Dialogue: 0,1:15:05.84,1:15:09.57,Default,,0,0,0,,He didn't strike me at all as\Nbuying a knife to kill someone!
+Dialogue: 0,1:15:10.15,1:15:13.12,Default,,0,0,0,,Then why didn't you say all that\Nfrom the beginning?
+Dialogue: 0,1:15:13.85,1:15:17.55,Default,,0,0,0,,Have you been lying in the\NProsecutor's office?
+Dialogue: 0,1:15:17.85,1:15:19.48,Default,,0,0,0,,Lying? No!
+Dialogue: 0,1:15:20.32,1:15:22.12,Default,,0,0,0,,What would I gain from lying?
+Dialogue: 0,1:15:22.66,1:15:27.53,Default,,0,0,0,,Then. The deposition you gave to the\Nprosecution was incomplete.
+Dialogue: 0,1:15:28.23,1:15:31.67,Default,,0,0,0,,Isn't it strange you're remembering it now?
+Dialogue: 0,1:15:34.84,1:15:36.10,Default,,0,0,0,,Don't know about that!
+Dialogue: 0,1:15:41.28,1:15:45.04,Default,,0,0,0,,- Has the defense anymore questions?\N- Yes. We have.
+Dialogue: 0,1:15:46.95,1:15:51.89,Default,,0,0,0,,Did the prosecutor ask you about\Nthe clothespins?
+Dialogue: 0,1:15:52.42,1:15:53.08,Default,,0,0,0,,No.
+Dialogue: 0,1:15:53.32,1:15:56.16,Default,,0,0,0,,- You didn't tell the prosecutor?\N- No.
+Dialogue: 0,1:15:58.23,1:16:02.86,Default,,0,0,0,,The prosecutor questioned you.
+Dialogue: 0,1:16:03.23,1:16:06.03,Default,,0,0,0,,But there never was such a question?
+Dialogue: 0,1:16:06.54,1:16:07.63,Default,,0,0,0,,{\i1}Never!{\i0}
+Dialogue: 0,1:16:07.70,1:16:09.73,Default,,0,0,0,,{\i1}So you didn't answer that?{\i0}
+Dialogue: 0,1:16:09.87,1:16:13.64,Default,,0,0,0,,That's right!\NHow could I answer. If I wasn't asked?
+Dialogue: 0,1:16:13.98,1:16:17.28,Default,,0,0,0,,When the defendant bought the knife.
+Dialogue: 0,1:16:18.38,1:16:21.71,Default,,0,0,0,,He didn't just look at the blade.
+Dialogue: 0,1:16:21.99,1:16:23.78,Default,,0,0,0,,He bought clothespins. Too.\NDidn't he?
+Dialogue: 0,1:16:23.92,1:16:24.72,Default,,0,0,0,,Yes.
+Dialogue: 0,1:16:25.32,1:16:27.98,Default,,0,0,0,,Then. What the prosecution has surmised.
+Dialogue: 0,1:16:28.79,1:16:33.42,Default,,0,0,0,,About camouflage. Didn't really exist.\NHe acted naturally?
+Dialogue: 0,1:16:33.86,1:16:37.03,Default,,0,0,0,,Yes. That's how it was.
+Dialogue: 0,1:16:37.53,1:16:39.90,Default,,0,0,0,,He was shopping in a pleasant manner.
+Dialogue: 0,1:16:42.51,1:16:43.49,Default,,0,0,0,,I see...
+Dialogue: 0,1:16:44.64,1:16:45.44,Default,,0,0,0,,That's all.
+Dialogue: 0,1:16:47.28,1:16:51.24,Default,,0,0,0,,The witness may return home.
+Dialogue: 0,1:16:54.88,1:16:57.75,Default,,0,0,0,,The case was brilliant!
+Dialogue: 0,1:16:59.82,1:17:03.76,Default,,0,0,0,,Prosecutor Okabe may find it difficult\Nto prove...
+Dialogue: 0,1:17:04.46,1:17:05.89,Default,,0,0,0,,...an intent to kill.
+Dialogue: 0,1:17:07.36,1:17:10.76,Default,,0,0,0,,We won't know that until the hearing ends.
+Dialogue: 0,1:17:13.54,1:17:18.63,Default,,0,0,0,,Is there a prospect for Hiroshi to get\Na lighter sentence?
+Dialogue: 0,1:17:20.44,1:17:21.91,Default,,0,0,0,,The defense counsel said so.
+Dialogue: 0,1:17:23.65,1:17:26.17,Default,,0,0,0,,I'm depending on you. From now on.
+Dialogue: 0,1:17:26.98,1:17:29.78,Default,,0,0,0,,I want {\i1}Hiroshi-san{\i0} and you to be happy.
+Dialogue: 0,1:17:35.46,1:17:37.39,Default,,0,0,0,,Hatsuko was unfortunate.
+Dialogue: 0,1:17:38.16,1:17:39.56,Default,,0,0,0,,But. It wasn't her fault.
+Dialogue: 0,1:17:40.70,1:17:42.03,Default,,0,0,0,,I'm the one to blame.
+Dialogue: 0,1:17:43.47,1:17:45.33,Default,,0,0,0,,That man was a scoundrel!
+Dialogue: 0,1:17:46.50,1:17:48.44,Default,,0,0,0,,I shouldn't have remarried!
+Dialogue: 0,1:17:49.47,1:17:52.46,Default,,0,0,0,,The relatives urged me to...
+Dialogue: 0,1:17:54.81,1:17:56.64,Default,,0,0,0,,but it was all my fault!
+Dialogue: 0,1:17:59.38,1:18:02.82,Default,,0,0,0,,Mommy.\NLet's stop talking about the past!
+Dialogue: 0,1:18:04.12,1:18:05.05,Default,,0,0,0,,{\i1}Good evening!{\i0}
+Dialogue: 0,1:18:08.12,1:18:09.79,Default,,0,0,0,,{\i1}It's so late...{\i0}
+Dialogue: 0,1:18:12.46,1:18:16.33,Default,,0,0,0,,There was a phone call for Yoshiko-san\Nfrom Prosecutor Okabe.
+Dialogue: 0,1:18:16.77,1:18:19.76,Default,,0,0,0,,He wants to see you tomorrow. At 10am.
+Dialogue: 0,1:18:20.70,1:18:21.76,Default,,0,0,0,,I wonder why...
+Dialogue: 0,1:18:22.34,1:18:25.47,Default,,0,0,0,,It must be something important...
+Dialogue: 0,1:18:26.71,1:18:29.58,Default,,0,0,0,,I don't like this prosecutor!
+Dialogue: 0,1:18:30.35,1:18:33.80,Default,,0,0,0,,{\i1}You' better go see him anyway.{\i0}
+Dialogue: 0,1:18:42.13,1:18:43.42,Default,,0,0,0,,"Yokohama Prosecutor's Office."
+Dialogue: 0,1:18:44.79,1:18:47.19,Default,,0,0,0,,Is the baby coming along fine?
+Dialogue: 0,1:18:48.56,1:18:49.33,Default,,0,0,0,,Yes.
+Dialogue: 0,1:18:51.03,1:18:56.80,Default,,0,0,0,,A high school teacher named Hanai\Nhelped a lot.
+Dialogue: 0,1:18:57.27,1:19:00.33,Default,,0,0,0,,Was Hanai your teacher?
+Dialogue: 0,1:19:01.64,1:19:03.20,Default,,0,0,0,,- Yes.\N- And your sister's?
+Dialogue: 0,1:19:03.98,1:19:04.67,Default,,0,0,0,,Yes.
+Dialogue: 0,1:19:04.81,1:19:08.08,Default,,0,0,0,,How much older was your sister?
+Dialogue: 0,1:19:09.29,1:19:10.15,Default,,0,0,0,,4 years older.
+Dialogue: 0,1:19:12.69,1:19:18.29,Default,,0,0,0,,What was the relationship between\Nyour sister and Ueda Hiroshi?
+Dialogue: 0,1:19:18.53,1:19:21.79,Default,,0,0,0,,We lived close to each other...
+Dialogue: 0,1:19:22.43,1:19:24.66,Default,,0,0,0,,They often played together. When children.
+Dialogue: 0,1:19:26.54,1:19:29.97,Default,,0,0,0,,{\i1}They were childhood friends...{\i0}
+Dialogue: 0,1:19:30.44,1:19:31.20,Default,,0,0,0,,{\i1}Yes.{\i0}
+Dialogue: 0,1:19:32.68,1:19:35.14,Default,,0,0,0,,Your sister quit school...
+Dialogue: 0,1:19:36.21,1:19:39.05,Default,,0,0,0,,...and worked in a restaurant.\NIsn't it so?
+Dialogue: 0,1:19:40.35,1:19:41.41,Default,,0,0,0,,That is correct.
+Dialogue: 0,1:19:42.05,1:19:45.71,Default,,0,0,0,,Then she quit.\NAnd became a hostess in Shinjuku...
+Dialogue: 0,1:19:47.16,1:19:48.52,Default,,0,0,0,,Why?
+Dialogue: 0,1:19:50.89,1:19:53.45,Default,,0,0,0,,The restaurant made some cutbacks...
+Dialogue: 0,1:19:54.03,1:19:55.02,Default,,0,0,0,,No other reason.
+Dialogue: 0,1:20:40.84,1:20:42.64,Default,,0,0,0,,What are you doing?
+Dialogue: 0,1:20:47.05,1:20:48.04,Default,,0,0,0,,{\i1}Please, Hatsuko!{\i0}
+Dialogue: 0,1:20:49.42,1:20:50.41,Default,,0,0,0,,Don't go away!
+Dialogue: 0,1:20:51.72,1:20:53.92,Default,,0,0,0,,What will you do in Tokyo?
+Dialogue: 0,1:20:54.16,1:20:55.78,Default,,0,0,0,,Please. Stay with me!
+Dialogue: 0,1:21:00.06,1:21:04.00,Default,,0,0,0,,I don't know anything about\Nher life in Shinjuku.
+Dialogue: 0,1:21:05.10,1:21:08.07,Default,,0,0,0,,But... she returned completely changed.
+Dialogue: 0,1:21:10.17,1:21:11.44,Default,,0,0,0,,In what way?
+Dialogue: 0,1:21:13.24,1:21:14.73,Default,,0,0,0,,As if she was a stranger.
+Dialogue: 0,1:21:16.18,1:21:18.17,Default,,0,0,0,,Even her voice had changed.
+Dialogue: 0,1:21:20.38,1:21:21.41,Default,,0,0,0,,So it seemed.
+Dialogue: 0,1:21:23.52,1:21:26.82,Default,,0,0,0,,What did you think about your sister...
+Dialogue: 0,1:21:27.36,1:21:28.45,Default,,0,0,0,,...and Miyauchi?
+Dialogue: 0,1:21:30.29,1:21:31.66,Default,,0,0,0,,I hate him.
+Dialogue: 0,1:21:32.86,1:21:36.89,Default,,0,0,0,,He was like a parasite.\NClinging to my sister.
+Dialogue: 0,1:21:39.20,1:21:42.83,Default,,0,0,0,,But my sister stayed in contact with him...
+Dialogue: 0,1:21:44.51,1:21:45.97,Default,,0,0,0,,...I don't understand!
+Dialogue: 0,1:21:47.48,1:21:51.47,Default,,0,0,0,,I may call you as a witness\Nat the next hearing...
+Dialogue: 0,1:21:52.58,1:21:53.57,Default,,0,0,0,,Please. Be there.
+Dialogue: 0,1:22:21.88,1:22:22.97,Default,,0,0,0,,I'm home!
+Dialogue: 0,1:22:27.18,1:22:28.67,Default,,0,0,0,,This was so heavy!
+Dialogue: 0,1:22:28.99,1:22:30.01,Default,,0,0,0,,Hatsuko!
+Dialogue: 0,1:22:33.72,1:22:34.88,Default,,0,0,0,,{\i1}Welcome home!{\i0}
+Dialogue: 0,1:22:35.49,1:22:40.43,Default,,0,0,0,,Yoshiko and I were just having lunch.\NWon't you eat with us?
+Dialogue: 0,1:22:43.70,1:22:44.69,Default,,0,0,0,,No place like home!
+Dialogue: 0,1:22:46.00,1:22:48.94,Default,,0,0,0,,Yoshiko. I brought you a present!
+Dialogue: 0,1:22:50.27,1:22:52.94,Default,,0,0,0,,Why are you staring? Open it!
+Dialogue: 0,1:23:04.05,1:23:04.71,Default,,0,0,0,,Hiroshi!
+Dialogue: 0,1:23:22.41,1:23:23.30,Default,,0,0,0,,{\i1}Yoshiko!{\i0}
+Dialogue: 0,1:23:45.43,1:23:48.19,Default,,0,0,0,,Hiroshi drinks here because he wants to!
+Dialogue: 0,1:23:48.66,1:23:49.66,Default,,0,0,0,,It's none of my business!
+Dialogue: 0,1:23:50.63,1:23:53.07,Default,,0,0,0,,{\i1}It's because you seduced him!{\i0}
+Dialogue: 0,1:23:53.24,1:23:55.47,Default,,0,0,0,,I seduced him?! Don't be silly!
+Dialogue: 0,1:23:56.01,1:23:56.90,Default,,0,0,0,,What are you saying?!
+Dialogue: 0,1:23:58.77,1:24:02.68,Default,,0,0,0,,Yoshiko... you. In love with Hiroshi?\NYou're just a child!
+Dialogue: 0,1:24:03.18,1:24:04.94,Default,,0,0,0,,{\i1}Don't take him away from me!{\i0}
+Dialogue: 0,1:24:08.42,1:24:10.85,Default,,0,0,0,,If you love him. Take him by force!
+Dialogue: 0,1:26:24.72,1:26:26.55,Default,,0,0,0,,The night before the incident...
+Dialogue: 0,1:26:27.06,1:26:33.22,Default,,0,0,0,,...did you go to drink at the bar?
+Dialogue: 0,1:26:33.70,1:26:34.22,Default,,0,0,0,,Yes.
+Dialogue: 0,1:26:34.50,1:26:36.43,Default,,0,0,0,,Tell us what happened. Please.
+Dialogue: 0,1:26:37.73,1:26:42.76,Default,,0,0,0,,When I entered.\NHatsuko was looking in her notebook.
+Dialogue: 0,1:26:44.57,1:26:47.47,Default,,0,0,0,,{\i1}The one in which she kept her accounts.{\i0}
+Dialogue: 0,1:26:49.01,1:26:52.85,Default,,0,0,0,,{\i1}I hadn't been there for a while.\NIt had changed...{\i0}
+Dialogue: 0,1:26:53.52,1:26:56.64,Default,,0,0,0,,{\i1}It seemed rather desolate...{\i0}
+Dialogue: 0,1:26:58.12,1:27:00.92,Default,,0,0,0,,{\i1}I asked about Miyauchi;\N"He's left", she said.{\i0}
+Dialogue: 0,1:27:01.19,1:27:03.49,Default,,0,0,0,,{\i1}"Let's drink till late tonight".{\i0}
+Dialogue: 0,1:27:05.09,1:27:07.65,Default,,0,0,0,,{\i1}Then, that young man came in.{\i0}
+Dialogue: 0,1:27:08.93,1:27:12.63,Default,,0,0,0,,{\i1}She introduced him to me\Nas her younger brother.{\i0}
+Dialogue: 0,1:27:13.54,1:27:15.87,Default,,0,0,0,,{\i1}They immediately went out.{\i0}
+Dialogue: 0,1:27:18.47,1:27:21.97,Default,,0,0,0,,{\i1}I went on drinking the beer in front of me.{\i0}
+Dialogue: 0,1:27:23.01,1:27:24.78,Default,,0,0,0,,{\i1}Hat-cha didn't return.{\i0}
+Dialogue: 0,1:27:25.48,1:27:26.61,Default,,0,0,0,,What did you do?
+Dialogue: 0,1:27:27.25,1:27:29.88,Default,,0,0,0,,I looked out of a small window.
+Dialogue: 0,1:27:30.79,1:27:33.45,Default,,0,0,0,,{\i1}How did the two appear to you?{\i0}
+Dialogue: 0,1:27:34.09,1:27:37.49,Default,,0,0,0,,{\i1}Lovers?\NOr, were they quarreling?{\i0}
+Dialogue: 0,1:27:37.66,1:27:40.75,Default,,0,0,0,,{\i1}Well...\NIt was dark, I couldn't see too well...{\i0}
+Dialogue: 0,1:27:43.33,1:27:50.40,Default,,0,0,0,,I didn't know about Hiroshi going\Nthere that night.
+Dialogue: 0,1:27:52.14,1:27:54.63,Default,,0,0,0,,Didn't the defendant tell you?
+Dialogue: 0,1:27:57.11,1:27:58.37,Default,,0,0,0,,No.
+Dialogue: 0,1:27:59.45,1:28:04.04,Default,,0,0,0,,But. I'm sure there was nothing special.
+Dialogue: 0,1:28:04.49,1:28:10.62,Default,,0,0,0,,You met Hiroshi on the road that\Nnight at 6:30pm, didn't you?
+Dialogue: 0,1:28:11.79,1:28:13.85,Default,,0,0,0,,Yes... I did.
+Dialogue: 0,1:28:14.26,1:28:19.53,Default,,0,0,0,,Was it to talk about when\Nto run away together?
+Dialogue: 0,1:28:21.34,1:28:22.30,Default,,0,0,0,,Yes.
+Dialogue: 0,1:28:25.27,1:28:28.80,Default,,0,0,0,,Did the defendant later go\Nto your sister's place?
+Dialogue: 0,1:28:30.58,1:28:35.14,Default,,0,0,0,,Please. Tell us what happened\Non the night of the 28th.
+Dialogue: 0,1:28:36.42,1:28:38.78,Default,,0,0,0,,Just as you told the prosecutor.
+Dialogue: 0,1:28:41.72,1:28:44.69,Default,,0,0,0,,On the night of March 28th.
+Dialogue: 0,1:28:45.79,1:28:49.39,Default,,0,0,0,,In front of the house. At about 7:30.
+Dialogue: 0,1:28:51.20,1:28:53.33,Default,,0,0,0,,Hiroshi seemed rather excited.
+Dialogue: 0,1:28:54.24,1:28:57.03,Default,,0,0,0,,I thought it natural.\NSince we were going to run away.
+Dialogue: 0,1:29:03.15,1:29:04.67,Default,,0,0,0,,I'll come at 10 o'clock.
+Dialogue: 0,1:29:05.58,1:29:07.57,Default,,0,0,0,,I'll bring the car here.
+Dialogue: 0,1:29:12.79,1:29:13.55,Default,,0,0,0,,{\i1}Hiroshi-san!{\i0}
+Dialogue: 0,1:29:31.94,1:29:33.13,Default,,0,0,0,,What were you doing?
+Dialogue: 0,1:29:34.01,1:29:35.27,Default,,0,0,0,,Is the hen-house closed?
+Dialogue: 0,1:29:37.48,1:29:38.71,Default,,0,0,0,,It's warm tonight!
+Dialogue: 0,1:29:40.12,1:29:41.55,Default,,0,0,0,,I wonder if it's goin' to rain...
+Dialogue: 0,1:29:47.32,1:29:48.29,Default,,0,0,0,,Looks like raining...
+Dialogue: 0,1:29:49.79,1:29:51.62,Default,,0,0,0,,{\i1}Your sister hardly ever comes home...{\i0}
+Dialogue: 0,1:29:53.10,1:29:54.36,Default,,0,0,0,,{\i1}Did you go to see her?{\i0}
+Dialogue: 0,1:29:55.76,1:29:56.63,Default,,0,0,0,,No.
+Dialogue: 0,1:29:58.37,1:29:59.86,Default,,0,0,0,,{\i1}I wonder how she is...{\i0}
+Dialogue: 0,1:30:05.87,1:30:12.21,Default,,0,0,0,,That night {\i1}Hiroshi-san{\i0} came for me\Nat 10 o'clock.
+Dialogue: 0,1:30:13.85,1:30:17.58,Default,,0,0,0,,I went with him to the apartment\Nin Yokohama.
+Dialogue: 0,1:30:19.19,1:30:20.95,Default,,0,0,0,,I'll ask about Yokohama.
+Dialogue: 0,1:30:21.79,1:30:24.49,Default,,0,0,0,,On April 4th. In the morning.
+Dialogue: 0,1:30:25.39,1:30:29.96,Default,,0,0,0,,The newspapers reported the finding\Nof your sister's body.
+Dialogue: 0,1:30:31.23,1:30:33.36,Default,,0,0,0,,What was the defendant's reaction?
+Dialogue: 0,1:31:06.64,1:31:09.04,Default,,0,0,0,,Go back to Tsuchida right away.
+Dialogue: 0,1:31:11.07,1:31:14.13,Default,,0,0,0,,But. They'll find out we've lived here.
+Dialogue: 0,1:31:16.18,1:31:17.77,Default,,0,0,0,,We'll worry about it when it happens.
+Dialogue: 0,1:31:26.66,1:31:27.71,Default,,0,0,0,,Good morning.
+Dialogue: 0,1:31:38.10,1:31:43.37,Default,,0,0,0,,You didn't notice any particular change\Nin the defendant's attitude?
+Dialogue: 0,1:31:45.77,1:31:49.80,Default,,0,0,0,,Even the workers at the shipyard...
+Dialogue: 0,1:31:50.18,1:31:51.67,Default,,0,0,0,,...noticed it.
+Dialogue: 0,1:31:56.99,1:31:59.58,Default,,0,0,0,,I asked when I went to see him...
+Dialogue: 0,1:32:00.76,1:32:04.75,Default,,0,0,0,,He said he hadn't had a single day of peace.
+Dialogue: 0,1:32:05.36,1:32:08.12,Default,,0,0,0,,You mean he had a guilty conscience?
+Dialogue: 0,1:32:09.60,1:32:11.50,Default,,0,0,0,,That was only natural
+Dialogue: 0,1:32:12.30,1:32:14.46,Default,,0,0,0,,I don't think he's inhuman!
+Dialogue: 0,1:32:15.07,1:32:19.37,Default,,0,0,0,,Yet. He lived brazenly with you.\NThe younger sister...
+Dialogue: 0,1:32:23.48,1:32:28.78,Default,,0,0,0,,In order to have the child.\NWe had to live together!
+Dialogue: 0,1:32:29.25,1:32:30.34,Default,,0,0,0,,{\i1}Is that all there is?{\i0}
+Dialogue: 0,1:32:31.39,1:32:34.84,Default,,0,0,0,,Wasn't it in order to enjoy a free\Nand wayward life?
+Dialogue: 0,1:32:36.99,1:32:43.69,Default,,0,0,0,,I was 3 months pregnant at that time!
+Dialogue: 0,1:32:45.17,1:32:46.79,Default,,0,0,0,,We had to be very careful!
+Dialogue: 0,1:32:47.57,1:32:49.37,Default,,0,0,0,,Hiroshi said I mustn't stumble!
+Dialogue: 0,1:32:49.81,1:32:51.97,Default,,0,0,0,,He did all the household work.
+Dialogue: 0,1:32:52.71,1:32:56.67,Default,,0,0,0,,{\i1}However, you two were enjoying life...{\i0}
+Dialogue: 0,1:32:59.68,1:33:02.78,Default,,0,0,0,,I don't know if that was the case...
+Dialogue: 0,1:33:04.79,1:33:08.31,Default,,0,0,0,,After the baby was conceived. We stopped...
+Dialogue: 0,1:33:08.79,1:33:09.72,Default,,0,0,0,,{\i1}Stopped what?{\i0}
+Dialogue: 0,1:33:10.09,1:33:10.92,Default,,0,0,0,,{\i1}Objection!{\i0}
+Dialogue: 0,1:33:11.36,1:33:12.33,Default,,0,0,0,,Having sex!
+Dialogue: 0,1:33:26.14,1:33:29.94,Default,,0,0,0,,About Hatsuko's relationship\Nwith Miyauchi...
+Dialogue: 0,1:33:31.35,1:33:33.91,Default,,0,0,0,,Did you know about the two?
+Dialogue: 0,1:33:36.59,1:33:38.95,Default,,0,0,0,,He's vulgar! A parasite...
+Dialogue: 0,1:33:39.52,1:33:41.89,Default,,0,0,0,,...who tore my sister to shreds!
+Dialogue: 0,1:33:43.69,1:33:46.75,Default,,0,0,0,,The witness should watch her language.
+Dialogue: 0,1:33:49.33,1:33:50.42,Default,,0,0,0,,That's my answer.
+Dialogue: 0,1:33:52.30,1:33:57.50,Default,,0,0,0,,Did your sister think the baby would stop\Nyou two from separating?
+Dialogue: 0,1:34:03.01,1:34:03.91,Default,,0,0,0,,I don't know.
+Dialogue: 0,1:34:05.21,1:34:07.20,Default,,0,0,0,,I understand how you feel.
+Dialogue: 0,1:34:07.92,1:34:09.51,Default,,0,0,0,,But answer truthfully.
+Dialogue: 0,1:34:12.72,1:34:16.71,Default,,0,0,0,,Could it have been that your\Nsister was jealous?
+Dialogue: 0,1:34:27.17,1:34:32.57,Default,,0,0,0,,She may have been somewhat envious...
+Dialogue: 0,1:34:33.11,1:34:34.91,Default,,0,0,0,,...I was the only one who got\Nthe happiness...
+Dialogue: 0,1:34:36.81,1:34:40.84,Default,,0,0,0,,...and she was so unhappy...
+Dialogue: 0,1:34:41.95,1:34:45.01,Default,,0,0,0,,She may have been sad...
+Dialogue: 0,1:34:46.19,1:34:48.82,Default,,0,0,0,,Did Miyauchi ever flirt with you?
+Dialogue: 0,1:35:03.07,1:35:03.66,Default,,0,0,0,,Sis'?
+Dialogue: 0,1:35:03.77,1:35:04.53,Default,,0,0,0,,Not here!
+Dialogue: 0,1:35:06.34,1:35:07.10,Default,,0,0,0,,What do you want?
+Dialogue: 0,1:35:11.55,1:35:12.24,Default,,0,0,0,,{\i1}Yo-cha...{\i0}
+Dialogue: 0,1:35:13.75,1:35:16.91,Default,,0,0,0,,You've quite grown up all of a\Nsudden recently...
+Dialogue: 0,1:35:18.42,1:35:20.22,Default,,0,0,0,,Having fun with Hiroshi?
+Dialogue: 0,1:35:21.42,1:35:22.70,Default,,0,0,0,,Won't you come to Tokyo with me?
+Dialogue: 0,1:35:26.70,1:35:30.65,Default,,0,0,0,,Don't you know Hiroshi's in love\Nwith Hatsuko?
+Dialogue: 0,1:35:31.40,1:35:33.89,Default,,0,0,0,,They go together to Spas...
+Dialogue: 0,1:35:36.81,1:35:38.10,Default,,0,0,0,,You didn't know?
+Dialogue: 0,1:35:39.27,1:35:41.30,Default,,0,0,0,,I guess ignorance is bliss...
+Dialogue: 0,1:35:54.99,1:36:00.95,Default,,0,0,0,,The people in town had spread rumors\Nabout Hiroshi and Hatsuko...
+Dialogue: 0,1:36:02.73,1:36:05.60,Default,,0,0,0,,They were simply talking nonsense.
+Dialogue: 0,1:36:07.44,1:36:09.37,Default,,0,0,0,,I don't believe it at all!
+Dialogue: 0,1:36:10.17,1:36:11.94,Default,,0,0,0,,Nothing like that happened!
+Dialogue: 0,1:36:14.38,1:36:19.21,Default,,0,0,0,,But... isn't it possible that your sister\Nloved Hiroshi?
+Dialogue: 0,1:36:22.62,1:36:24.18,Default,,0,0,0,,You can think what you like.
+Dialogue: 0,1:36:25.52,1:36:29.65,Default,,0,0,0,,I believe they never were that intimate!
+Dialogue: 0,1:36:31.43,1:36:35.45,Default,,0,0,0,,I'm certain of it from Hiroshi's attitude!
+Dialogue: 0,1:36:36.73,1:36:38.36,Default,,0,0,0,,I would have known!
+Dialogue: 0,1:36:38.97,1:36:44.10,Default,,0,0,0,,Still... the defendant met your sister\Nat the bar on the night of the 27th.
+Dialogue: 0,1:36:44.84,1:36:46.57,Default,,0,0,0,,He never told you.
+Dialogue: 0,1:36:48.24,1:36:49.07,Default,,0,0,0,,No.
+Dialogue: 0,1:36:49.91,1:36:51.34,Default,,0,0,0,,I heard that from you.
+Dialogue: 0,1:36:52.98,1:36:54.45,Default,,0,0,0,,I've said that already!
+Dialogue: 0,1:37:01.52,1:37:02.55,Default,,0,0,0,,I understand.
+Dialogue: 0,1:37:03.59,1:37:05.25,Default,,0,0,0,,I won't ask you about that any more.
+Dialogue: 0,1:37:06.43,1:37:10.42,Default,,0,0,0,,I've only been trying to discover the truth.
+Dialogue: 0,1:37:11.37,1:37:12.33,Default,,0,0,0,,Don't forget that.
+Dialogue: 0,1:37:13.44,1:37:14.46,Default,,0,0,0,,That's all.
+Dialogue: 0,1:37:20.71,1:37:25.65,Default,,0,0,0,,{\i1}You said you were drinking beer with\NKyoko when Hatsuko came.{\i0}
+Dialogue: 0,1:37:26.08,1:37:28.05,Default,,0,0,0,,{\i1}And that Hatsuko had left in 15 minutes.{\i0}
+Dialogue: 0,1:37:28.38,1:37:29.18,Default,,0,0,0,,{\i1}Was that true?{\i0}
+Dialogue: 0,1:37:29.65,1:37:30.91,Default,,0,0,0,,Was it?
+Dialogue: 0,1:37:31.79,1:37:33.85,Default,,0,0,0,,I'm not sure about the time.
+Dialogue: 0,1:37:34.19,1:37:36.09,Default,,0,0,0,,There was a fight...
+Dialogue: 0,1:37:36.22,1:37:39.72,Default,,0,0,0,,Last time you said everything\Nhad been pleasant.
+Dialogue: 0,1:37:39.96,1:37:41.66,Default,,0,0,0,,- Did you lie?\N- I didn't lie!
+Dialogue: 0,1:37:42.90,1:37:46.96,Default,,0,0,0,,She was in good spirits when she left.
+Dialogue: 0,1:37:47.90,1:37:49.20,Default,,0,0,0,,Describe what happened. Please.
+Dialogue: 0,1:37:51.04,1:37:54.07,Default,,0,0,0,,Finding me drinking with Kyoko must have...
+Dialogue: 0,1:37:54.58,1:37:55.98,Default,,0,0,0,,...made Hatsuko angry.
+Dialogue: 0,1:37:57.25,1:38:00.58,Default,,0,0,0,,She all of a sudden demanded\Npayment of the bill.
+Dialogue: 0,1:38:02.28,1:38:05.34,Default,,0,0,0,,You owe me 3.350. Pay it!
+Dialogue: 0,1:38:05.85,1:38:07.45,Default,,0,0,0,,I should pay you?
+Dialogue: 0,1:38:10.76,1:38:14.63,Default,,0,0,0,,Don't have that much dough now.\NHave a drink.
+Dialogue: 0,1:38:16.87,1:38:20.13,Default,,0,0,0,,You start drinking in the afternoon\Nbut you have no money!
+Dialogue: 0,1:38:20.50,1:38:21.49,Default,,0,0,0,,Take this and leave!
+Dialogue: 0,1:38:22.77,1:38:27.30,Default,,0,0,0,,You only wanted to see Miyauchi. Didn't you?
+Dialogue: 0,1:38:27.64,1:38:31.94,Default,,0,0,0,,Don't be silly!\NI pay 500.000 to get rid of him!
+Dialogue: 0,1:38:32.35,1:38:34.65,Default,,0,0,0,,Hiroshi switched over to your sister!
+Dialogue: 0,1:38:44.99,1:38:46.76,Default,,0,0,0,,Stop it!
+Dialogue: 0,1:38:51.03,1:38:52.02,Default,,0,0,0,,Go fight outside!
+Dialogue: 0,1:38:52.23,1:38:55.50,Default,,0,0,0,,You're going to be dumped soon. Too!
+Dialogue: 0,1:39:01.41,1:39:02.90,Default,,0,0,0,,Stop it!
+Dialogue: 0,1:39:04.48,1:39:06.04,Default,,0,0,0,,I said. Stop it!
+Dialogue: 0,1:39:25.73,1:39:31.30,Default,,0,0,0,,- Did you hit Hatsuko often?\N- No. It was because I was sore.
+Dialogue: 0,1:39:31.47,1:39:33.13,Default,,0,0,0,,Hatsuko must have understood.
+Dialogue: 0,1:39:34.01,1:39:35.94,Default,,0,0,0,,Seeing you there with Kyoko.
+Dialogue: 0,1:39:37.28,1:39:38.37,Default,,0,0,0,,{\i1}. Guess so.{\i0}
+Dialogue: 0,1:39:39.28,1:39:43.74,Default,,0,0,0,,She said: "You left on your own.\NThis is separation money."
+Dialogue: 0,1:39:44.99,1:39:47.22,Default,,0,0,0,,So it was separation money...
+Dialogue: 0,1:39:50.26,1:39:52.02,Default,,0,0,0,,I wouldn't have taken it if she hadn't died!
+Dialogue: 0,1:39:52.09,1:39:53.75,Default,,0,0,0,,I meant to return it!
+Dialogue: 0,1:39:53.93,1:39:54.69,Default,,0,0,0,,Return the note?
+Dialogue: 0,1:39:56.93,1:39:58.87,Default,,0,0,0,,You made her write it!
+Dialogue: 0,1:39:59.17,1:40:00.79,Default,,0,0,0,,No! Hatsuko wrote it herself!
+Dialogue: 0,1:40:01.57,1:40:03.37,Default,,0,0,0,,{\i1}She was deeply in love with Hiroshi.{\i0}
+Dialogue: 0,1:40:05.07,1:40:06.10,Default,,0,0,0,,{\i1}This is a new twist!{\i0}
+Dialogue: 0,1:40:06.91,1:40:08.90,Default,,0,0,0,,At the last hearing. You said...
+Dialogue: 0,1:40:09.64,1:40:11.70,Default,,0,0,0,,...Hiroshi was in love with Yoshiko.
+Dialogue: 0,1:40:12.38,1:40:13.31,Default,,0,0,0,,Which is true?
+Dialogue: 0,1:40:14.75,1:40:16.11,Default,,0,0,0,,Both. Maybe.
+Dialogue: 0,1:40:16.82,1:40:18.31,Default,,0,0,0,,Anyway. Hatsuko loved Hiroshi.
+Dialogue: 0,1:40:19.15,1:40:21.45,Default,,0,0,0,,A woman in love looks different!
+Dialogue: 0,1:40:22.16,1:40:25.39,Default,,0,0,0,,Weren't you Hatsuko's lover?
+Dialogue: 0,1:40:25.73,1:40:29.25,Default,,0,0,0,,I could tell most things about her.
+Dialogue: 0,1:40:29.66,1:40:31.56,Default,,0,0,0,,She was always fickle.
+Dialogue: 0,1:40:31.93,1:40:34.23,Default,,0,0,0,,So she didn't understand much about me!
+Dialogue: 0,1:40:34.77,1:40:36.63,Default,,0,0,0,,Let's return to the 28th.
+Dialogue: 0,1:40:37.74,1:40:38.83,Default,,0,0,0,,How did the fight end?
+Dialogue: 0,1:40:39.94,1:40:44.81,Default,,0,0,0,,We're all like relatives.\NNot much sense in quarreling.
+Dialogue: 0,1:40:45.35,1:40:46.97,Default,,0,0,0,,Did it last over 15 minutes?
+Dialogue: 0,1:40:47.58,1:40:48.78,Default,,0,0,0,,More like an hour.
+Dialogue: 0,1:40:49.35,1:40:52.45,Default,,0,0,0,,Why did you follow Hatsuko afterwards?
+Dialogue: 0,1:41:02.83,1:41:04.70,Default,,0,0,0,,You did. Didn't you?
+Dialogue: 0,1:41:05.43,1:41:07.90,Default,,0,0,0,,Why should I have followed her?
+Dialogue: 0,1:41:08.40,1:41:09.50,Default,,0,0,0,,{\i1}There was a reason.{\i0}
+Dialogue: 0,1:41:10.14,1:41:13.67,Default,,0,0,0,,You knew that she was going\Nto meet Omura Goichi.
+Dialogue: 0,1:41:15.24,1:41:18.64,Default,,0,0,0,,You didn't want to be left out in any way!
+Dialogue: 0,1:41:19.98,1:41:22.75,Default,,0,0,0,,You thought of intimidating Omura later?
+Dialogue: 0,1:41:23.12,1:41:23.88,Default,,0,0,0,,Objection!
+Dialogue: 0,1:41:24.59,1:41:27.65,Default,,0,0,0,,This question is based on\Nsuppositions alone.
+Dialogue: 0,1:41:28.39,1:41:29.82,Default,,0,0,0,,It is unreasonable!
+Dialogue: 0,1:41:30.96,1:41:33.22,Default,,0,0,0,,The prosecution's objection is well taken.
+Dialogue: 0,1:41:34.30,1:41:38.89,Default,,0,0,0,,But the Court would like to hear the\Nwitness's answer to this question.
+Dialogue: 0,1:41:40.87,1:41:42.27,Default,,0,0,0,,The witness will answer. Please.
+Dialogue: 0,1:41:45.94,1:41:48.47,Default,,0,0,0,,Did you follow her. Or didn't you?
+Dialogue: 0,1:41:56.89,1:41:57.68,Default,,0,0,0,,I followed her.
+Dialogue: 0,1:42:42.26,1:42:43.75,Default,,0,0,0,,{\i1}Farther ahead!{\i0}
+Dialogue: 0,1:42:45.17,1:42:46.43,Default,,0,0,0,,{\i1}Farther!{\i0}
+Dialogue: 0,1:42:48.37,1:42:49.67,Default,,0,0,0,,Where it turns to the right!
+Dialogue: 0,1:42:50.31,1:42:52.50,Default,,0,0,0,,Around there!
+Dialogue: 0,1:42:54.48,1:42:56.17,Default,,0,0,0,,I was watching from here.
+Dialogue: 0,1:42:57.71,1:43:00.11,Default,,0,0,0,,Approximately 70 meters.
+Dialogue: 0,1:43:04.12,1:43:06.55,Default,,0,0,0,,Could you hear their voices?
+Dialogue: 0,1:43:06.62,1:43:07.99,Default,,0,0,0,,Couldn't hear a thing!
+Dialogue: 0,1:43:08.96,1:43:12.22,Default,,0,0,0,,- Were they quarreling?\N- It seemed so.
+Dialogue: 0,1:43:13.46,1:43:17.12,Default,,0,0,0,,Hatsuko was pressing for an answer.
+Dialogue: 0,1:43:17.83,1:43:18.80,Default,,0,0,0,,Am I wrong?
+Dialogue: 0,1:43:20.94,1:43:23.96,Default,,0,0,0,,Was it possible to tell?
+Dialogue: 0,1:43:24.51,1:43:26.17,Default,,0,0,0,,Did Hatsuko start walking?
+Dialogue: 0,1:43:26.57,1:43:27.51,Default,,0,0,0,,Which way?
+Dialogue: 0,1:43:44.29,1:43:45.38,Default,,0,0,0,,This is the place!
+Dialogue: 0,1:43:46.19,1:43:47.89,Default,,0,0,0,,I was watching like this.
+Dialogue: 0,1:43:50.40,1:43:52.49,Default,,0,0,0,,Go and stand over there.
+Dialogue: 0,1:44:15.02,1:44:16.58,Default,,0,0,0,,Did they look like sweethearts?
+Dialogue: 0,1:44:18.59,1:44:20.31,Default,,0,0,0,,Yes. But like having some kind of a dispute.
+Dialogue: 0,1:44:20.33,1:44:22.49,Default,,0,0,0,,Kind of a lovers' quarrel?
+Dialogue: 0,1:44:24.43,1:44:27.33,Default,,0,0,0,,I was surprised to see the knife coming out.
+Dialogue: 0,1:44:47.49,1:44:48.82,Default,,0,0,0,,Hiroshi's knife...
+Dialogue: 0,1:44:49.49,1:44:50.98,Default,,0,0,0,,...it was like this.
+Dialogue: 0,1:44:51.46,1:44:52.69,Default,,0,0,0,,You saw the knife?
+Dialogue: 0,1:44:54.10,1:44:55.69,Default,,0,0,0,,{\i1}You couldn't have seen the knife then!{\i0}
+Dialogue: 0,1:44:57.03,1:44:58.59,Default,,0,0,0,,Hatsuko was in the way.
+Dialogue: 0,1:45:00.90,1:45:01.70,Default,,0,0,0,,The knife?
+Dialogue: 0,1:45:03.04,1:45:06.23,Default,,0,0,0,,I couldn't see it 'cause it was behind\Nher body! That's why I didn't stop her!
+Dialogue: 0,1:45:07.18,1:45:08.51,Default,,0,0,0,,What did Hatsuko do?
+Dialogue: 0,1:45:08.78,1:45:13.84,Default,,0,0,0,,She suddenly embraced Hiroshi.
+Dialogue: 0,1:45:14.62,1:45:16.41,Default,,0,0,0,,How? Show us!
+Dialogue: 0,1:45:20.12,1:45:20.95,Default,,0,0,0,,Like this.
+Dialogue: 0,1:45:42.21,1:45:43.61,Default,,0,0,0,,What's the matter?
+Dialogue: 0,1:45:46.95,1:45:49.78,Default,,0,0,0,,Are you sure Hatsuko moved first?
+Dialogue: 0,1:45:49.88,1:45:50.68,Default,,0,0,0,,Yes.
+Dialogue: 0,1:45:51.62,1:45:56.45,Default,,0,0,0,,All of a sudden...\NI had no chance to do anything.
+Dialogue: 0,1:45:59.16,1:46:04.06,Default,,0,0,0,,{\i1}You say you don't recall the moment\Nwhen the knife thrust in.{\i0}
+Dialogue: 0,1:46:05.17,1:46:06.93,Default,,0,0,0,,{\i1}But you told the investigating prosecutor...{\i0}
+Dialogue: 0,1:46:07.04,1:46:14.70,Default,,0,0,0,,{\i1}...you held Hatsuko and were careful\Nabout the spurting blood.{\i0}
+Dialogue: 0,1:46:16.11,1:46:19.05,Default,,0,0,0,,How were you able to describe\Nsuch minute details?
+Dialogue: 0,1:46:21.55,1:46:25.61,Default,,0,0,0,,There was practically no blood on my jumper.
+Dialogue: 0,1:46:26.82,1:46:30.69,Default,,0,0,0,,While explaining why.\NIt came out that way.
+Dialogue: 0,1:46:32.16,1:46:34.09,Default,,0,0,0,,{\i1}I couldn't remember well.{\i0}
+Dialogue: 0,1:46:34.93,1:46:36.40,Default,,0,0,0,,{\i1}But no one believed me.{\i0}
+Dialogue: 0,1:46:37.07,1:46:40.06,Default,,0,0,0,,You made sure Hatsuko was dead.
+Dialogue: 0,1:46:40.80,1:46:42.70,Default,,0,0,0,,Do you remember that?
+Dialogue: 0,1:46:43.47,1:46:48.67,Default,,0,0,0,,When I came back to my senses.\N{\i1}Hatsuko-san{\i0} was lying on the ground.
+Dialogue: 0,1:46:48.91,1:46:51.67,Default,,0,0,0,,You conveniently remember only\Nbeginning from there...
+Dialogue: 0,1:46:52.78,1:46:58.05,Default,,0,0,0,,You say the investigating prosecutor's\Nquestions led you on.
+Dialogue: 0,1:46:58.72,1:47:03.12,Default,,0,0,0,,Please. Tell us exactly what did the\Ninvestigating prosecutor ask you?
+Dialogue: 0,1:47:05.33,1:47:08.52,Default,,0,0,0,,I don't remember all the questions.
+Dialogue: 0,1:47:08.80,1:47:10.23,Default,,0,0,0,,That can't be true!
+Dialogue: 0,1:47:11.70,1:47:15.47,Default,,0,0,0,,{\i1}This is a very critical moment for you.{\i0}
+Dialogue: 0,1:47:16.07,1:47:18.23,Default,,0,0,0,,{\i1}Don't try to be evasive!{\i0}
+Dialogue: 0,1:47:19.57,1:47:20.80,Default,,0,0,0,,But it's the truth!
+Dialogue: 0,1:47:22.74,1:47:25.80,Default,,0,0,0,,I was confused. Very tired. Too.
+Dialogue: 0,1:47:26.91,1:47:29.71,Default,,0,0,0,,When the investigating prosecutor asked\Nme those questions.
+Dialogue: 0,1:47:30.75,1:47:32.52,Default,,0,0,0,,I felt completely terrified.
+Dialogue: 0,1:47:33.82,1:47:35.81,Default,,0,0,0,,I can't recall what I said.
+Dialogue: 0,1:47:37.09,1:47:40.55,Default,,0,0,0,,You became aware of the\Ngravity of your crime?
+Dialogue: 0,1:47:41.43,1:47:45.13,Default,,0,0,0,,But. For 6 days after having killed Hatsuko.
+Dialogue: 0,1:47:45.37,1:47:47.80,Default,,0,0,0,,You went on living brazenly with her sister.
+Dialogue: 0,1:47:49.74,1:47:55.47,Default,,0,0,0,,{\i1}Why didn't you try to help Hatsuko\Nas she lay fallen there?{\i0}
+Dialogue: 0,1:47:56.01,1:47:57.34,Default,,0,0,0,,I thought she was dead.
+Dialogue: 0,1:47:58.08,1:48:01.48,Default,,0,0,0,,{\i1}You didn't think she could have been saved?{\i0}
+Dialogue: 0,1:48:01.98,1:48:02.61,Default,,0,0,0,,No.
+Dialogue: 0,1:48:03.25,1:48:03.95,Default,,0,0,0,,{\i1}That's all.{\i0}
+Dialogue: 0,1:48:05.82,1:48:07.65,Default,,0,0,0,,{\i1}The defense may cross-examine.{\i0}
+Dialogue: 0,1:48:09.16,1:48:13.22,Default,,0,0,0,,Miyauchi has testified that Hatsuko\Nhad embraced you.
+Dialogue: 0,1:48:14.76,1:48:17.49,Default,,0,0,0,,Were you surprised when she did so?
+Dialogue: 0,1:48:33.18,1:48:36.15,Default,,0,0,0,,Her expression changed as she drew near.
+Dialogue: 0,1:48:37.29,1:48:38.27,Default,,0,0,0,,Her expression?
+Dialogue: 0,1:48:38.89,1:48:42.58,Default,,0,0,0,,She had been scolding me until then.
+Dialogue: 0,1:48:43.96,1:48:45.95,Default,,0,0,0,,Suddenly. Her expression altered.
+Dialogue: 0,1:48:59.47,1:49:00.20,Default,,0,0,0,,How did she look?
+Dialogue: 0,1:49:01.48,1:49:02.31,Default,,0,0,0,,For instance...
+Dialogue: 0,1:49:03.31,1:49:04.90,Default,,0,0,0,,...as if she was loving you...
+Dialogue: 0,1:49:05.65,1:49:06.77,Default,,0,0,0,,{\i1}...or hating you?{\i0}
+Dialogue: 0,1:49:09.65,1:49:12.52,Default,,0,0,0,,{\i1}What did you talk about?{\i0}
+Dialogue: 0,1:49:14.22,1:49:17.78,Default,,0,0,0,,{\i1}Hatsuko-san{\i0} asked me to say\Nclearly if I loved her.
+Dialogue: 0,1:49:18.76,1:49:23.36,Default,,0,0,0,,{\i1}Because she didn't intend to run after\Na man who didn't want her.{\i0}
+Dialogue: 0,1:49:23.90,1:49:24.66,Default,,0,0,0,,{\i1}And then?{\i0}
+Dialogue: 0,1:49:25.07,1:49:27.19,Default,,0,0,0,,I told her I didn't love her.
+Dialogue: 0,1:49:28.70,1:49:32.70,Default,,0,0,0,,{\i1}"Love me or not,\NI won't let you two go to Yokohama."{\i0}
+Dialogue: 0,1:49:33.77,1:49:38.11,Default,,0,0,0,,{\i1}"Do you think I can endure a wretched\Nlife here, alone?"{\i0}
+Dialogue: 0,1:49:39.41,1:49:40.25,Default,,0,0,0,,That's what she said.
+Dialogue: 0,1:49:41.28,1:49:43.61,Default,,0,0,0,,Then her expression changed...
+Dialogue: 0,1:49:45.32,1:49:50.85,Default,,0,0,0,,You told the prosecuting investigator you\Ntook out the knife to scare her.
+Dialogue: 0,1:49:51.73,1:49:55.29,Default,,0,0,0,,That doesn't seem to have been necessary.
+Dialogue: 0,1:49:56.33,1:50:00.36,Default,,0,0,0,,I felt afraid of Hatsuko. Then.
+Dialogue: 0,1:50:02.40,1:50:04.27,Default,,0,0,0,,I didn't know what she might have done.
+Dialogue: 0,1:50:04.64,1:50:06.23,Default,,0,0,0,,Why would she have done anything?
+Dialogue: 0,1:50:07.07,1:50:09.70,Default,,0,0,0,,She seems to have been fond of you.
+Dialogue: 0,1:50:10.78,1:50:14.87,Default,,0,0,0,,Did you have sexual intercourse\Nwith Hatsuko?
+Dialogue: 0,1:50:15.75,1:50:16.84,Default,,0,0,0,,{\i1}Answer clearly, please!{\i0}
+Dialogue: 0,1:50:17.39,1:50:18.08,Default,,0,0,0,,I didn't!
+Dialogue: 0,1:50:19.12,1:50:20.42,Default,,0,0,0,,Don't hide anything!
+Dialogue: 0,1:50:21.39,1:50:22.82,Default,,0,0,0,,It'll come out.
+Dialogue: 0,1:50:23.39,1:50:24.26,Default,,0,0,0,,No. I didn't!
+Dialogue: 0,1:50:25.96,1:50:27.36,Default,,0,0,0,,Not even once?
+Dialogue: 0,1:50:27.93,1:50:28.86,Default,,0,0,0,,Never!
+Dialogue: 0,1:50:30.23,1:50:31.16,Default,,0,0,0,,That's all.
+Dialogue: 0,1:50:31.53,1:50:32.46,Default,,0,0,0,,Your honor...
+Dialogue: 0,1:50:33.17,1:50:37.23,Default,,0,0,0,,...the defense would like to call\NMiyauchi again.
+Dialogue: 0,1:50:44.58,1:50:45.60,Default,,0,0,0,,I accept.
+Dialogue: 0,1:50:46.58,1:50:49.14,Default,,0,0,0,,When I first went to the bar.
+Dialogue: 0,1:50:50.02,1:50:54.08,Default,,0,0,0,,Hatsuko and Hiroshi were the\Nonly ones there.
+Dialogue: 0,1:50:54.69,1:50:59.13,Default,,0,0,0,,Hatsuko said he was only a child.
+Dialogue: 0,1:51:00.23,1:51:03.20,Default,,0,0,0,,{\i1}But even after we took up living together...{\i0}
+Dialogue: 0,1:51:04.10,1:51:05.83,Default,,0,0,0,,{\i1}...she still went on seeing Hiroshi.{\i0}
+Dialogue: 0,1:51:06.77,1:51:12.26,Default,,0,0,0,,That's when you told Yoshiko that\NHiroshi loved Hatsuko?
+Dialogue: 0,1:51:14.44,1:51:19.54,Default,,0,0,0,,I thought of spilling the goods so I put\Nsome pressure on them.
+Dialogue: 0,1:51:20.15,1:51:24.81,Default,,0,0,0,,I kept watch outside a hotel; I took\NYoshiko to show her what was goin' on.
+Dialogue: 0,1:51:58.42,1:52:01.79,Default,,0,0,0,,I was the one who went there\Nwith {\i1}Hiroshi-san!{\i0}
+Dialogue: 0,1:52:02.79,1:52:06.42,Default,,0,0,0,,Miyauchi mistook me for my sister.
+Dialogue: 0,1:52:07.70,1:52:13.22,Default,,0,0,0,,Miyauchi said the two of you saw\Nthe defendant and your sister...
+Dialogue: 0,1:52:14.04,1:52:15.04,Default,,0,0,0,,...coming out of a hotel!
+Dialogue: 0,1:52:15.10,1:52:15.93,Default,,0,0,0,,That's a lie!
+Dialogue: 0,1:52:16.80,1:52:18.86,Default,,0,0,0,,Everything he says is a lie!
+Dialogue: 0,1:52:21.54,1:52:25.77,Default,,0,0,0,,Either you or Miyauchi are committing\Nperjury!
+Dialogue: 0,1:52:26.18,1:52:27.61,Default,,0,0,0,,Your Honor... Please!
+Dialogue: 0,1:52:28.65,1:52:30.62,Default,,0,0,0,,No comments from the gallery!
+Dialogue: 0,1:52:32.55,1:52:37.01,Default,,0,0,0,,Your Honor.\NI'd like to recall the defendant.
+Dialogue: 0,1:52:37.43,1:52:39.12,Default,,0,0,0,,There's no need for that.
+Dialogue: 0,1:52:39.96,1:52:40.82,Default,,0,0,0,,That's all.
+Dialogue: 0,1:52:41.83,1:52:43.49,Default,,0,0,0,,Does the prosecution have any questions?
+Dialogue: 0,1:52:45.60,1:52:46.40,Default,,0,0,0,,No more.
+Dialogue: 0,1:52:47.77,1:52:49.53,Default,,0,0,0,,The witness may withdraw.
+Dialogue: 0,1:53:13.49,1:53:14.26,Default,,0,0,0,,Defendant.
+Dialogue: 0,1:53:21.20,1:53:24.07,Default,,0,0,0,,The next hearing will be on June 3rd.
+Dialogue: 0,1:53:24.94,1:53:29.64,Default,,0,0,0,,The prosecutor's summation\Nwill be made then.
+Dialogue: 0,1:53:31.35,1:53:32.71,Default,,0,0,0,,Court adjourned.
+Dialogue: 0,1:54:00.54,1:54:01.74,Default,,0,0,0,,This is my summation.
+Dialogue: 0,1:54:04.11,1:54:06.31,Default,,0,0,0,,Murder and abandonment of a corpse.
+Dialogue: 0,1:54:07.41,1:54:12.68,Default,,0,0,0,,The prosecution's views on this case\Nconsist of the following.
+Dialogue: 0,1:54:13.79,1:54:16.59,Default,,0,0,0,,Juvenile crimes are on the increase;
+Dialogue: 0,1:54:17.09,1:54:22.69,Default,,0,0,0,,Especially crimes against the basic\Nright of others to live...
+Dialogue: 0,1:54:23.33,1:54:27.70,Default,,0,0,0,,...are being committed with\Nalarming frequency.
+Dialogue: 0,1:54:28.37,1:54:31.43,Default,,0,0,0,,{\i1}From the standpoint of crime prevention,{\i0}
+Dialogue: 0,1:54:32.01,1:54:34.98,Default,,0,0,0,,{\i1}this case cannot be regarded lightly.{\i0}
+Dialogue: 0,1:54:35.68,1:54:41.34,Default,,0,0,0,,The "Getting rid of those in the way"\Nidea has been displayed.
+Dialogue: 0,1:54:41.98,1:54:45.32,Default,,0,0,0,,The defendant is legally not an adult.
+Dialogue: 0,1:54:46.12,1:54:51.02,Default,,0,0,0,,{\i1}But this does not mean a reduction\Nof the gravity of the crime.{\i0}
+Dialogue: 0,1:54:53.49,1:54:56.66,Default,,0,0,0,,Prosecutor's summation has just ended.
+Dialogue: 0,1:54:58.13,1:55:02.13,Default,,0,0,0,,A sentence of from 8 to 10 years\Nhas demanded for the accused.
+Dialogue: 0,1:55:04.44,1:55:06.10,Default,,0,0,0,,The defense's summation is next.
+Dialogue: 0,1:55:06.84,1:55:09.33,Default,,0,0,0,,The defendant in this case may have...
+Dialogue: 0,1:55:10.88,1:55:15.25,Default,,0,0,0,,...meant to threaten.\NBut there was no intent to kill.
+Dialogue: 0,1:55:16.65,1:55:20.11,Default,,0,0,0,,The cause was the victim's\Nunforeseen action.
+Dialogue: 0,1:55:21.39,1:55:23.86,Default,,0,0,0,,The defendant was not responsible...
+Dialogue: 0,1:55:24.79,1:55:30.46,Default,,0,0,0,,...for murder. Injury causing death.\NOr accidental manslaughter.
+Dialogue: 0,1:55:32.50,1:55:34.36,Default,,0,0,0,,It was purely an accident!
+Dialogue: 0,1:55:35.60,1:55:40.91,Default,,0,0,0,,I affirm that he was only guilty\Nof abandonment of a corpse.
+Dialogue: 0,1:56:19.21,1:56:21.98,Default,,0,0,0,,Why. It's you. Hiroshi!
+Dialogue: 0,1:56:22.42,1:56:23.35,Default,,0,0,0,,You've come back?
+Dialogue: 0,1:56:25.45,1:56:29.05,Default,,0,0,0,,Why're you staring at me?\NI've changed. Haven't?
+Dialogue: 0,1:56:29.96,1:56:31.48,Default,,0,0,0,,The countryside is so nice!
+Dialogue: 0,1:56:34.19,1:56:35.22,Default,,0,0,0,,How was Shinjuku?
+Dialogue: 0,1:56:35.33,1:56:36.63,Default,,0,0,0,,I grew tired of it.
+Dialogue: 0,1:56:39.37,1:56:40.99,Default,,0,0,0,,That house has been rebuilt. Hasn't it?
+Dialogue: 0,1:56:42.57,1:56:44.16,Default,,0,0,0,,They must have made a lot of money!
+Dialogue: 0,1:56:45.94,1:56:46.80,Default,,0,0,0,,Thanks!
+Dialogue: 0,1:56:56.08,1:56:59.61,Default,,0,0,0,,I'll be opening a bar soon. Be sure to come!
+Dialogue: 0,1:56:59.69,1:57:00.52,Default,,0,0,0,,Goodbye for now!
+Dialogue: 0,1:58:33.85,1:58:35.47,Default,,0,0,0,,Are you all right?
+Dialogue: 0,1:58:39.42,1:58:40.11,Default,,0,0,0,,I'm going.
+Dialogue: 0,1:58:40.32,1:58:41.98,Default,,0,0,0,,- Stay a little longer!\N- I'm leaving!
+Dialogue: 0,1:58:46.33,1:58:48.29,Default,,0,0,0,,You'd better not move around!
+Dialogue: 0,1:58:51.87,1:58:53.73,Default,,0,0,0,,Just sit here.
+Dialogue: 0,1:58:56.70,1:58:57.64,Default,,0,0,0,,D'you want some water?
+Dialogue: 0,1:59:14.86,1:59:15.65,Default,,0,0,0,,What is it?
+Dialogue: 0,1:59:25.50,1:59:28.56,Default,,0,0,0,,Hiroshi... I love you.
+Dialogue: 0,2:01:55.58,2:01:56.71,Default,,0,0,0,,Don't be stupid. Yoshiko!
+Dialogue: 0,2:01:58.35,2:01:59.55,Default,,0,0,0,,Just do as I say!
+Dialogue: 0,2:02:00.15,2:02:02.55,Default,,0,0,0,,I'll take you to the hospital.
+Dialogue: 0,2:02:03.96,2:02:04.46,Default,,0,0,0,,No!
+Dialogue: 0,2:02:05.36,2:02:06.99,Default,,0,0,0,,- I'm going to have the baby.\N- No way!
+Dialogue: 0,2:02:07.36,2:02:08.52,Default,,0,0,0,,You're just a child yourself!
+Dialogue: 0,2:02:08.73,2:02:11.13,Default,,0,0,0,,We don't need your help!
+Dialogue: 0,2:02:11.93,2:02:12.56,Default,,0,0,0,,Let's go!
+Dialogue: 0,2:02:12.87,2:02:13.59,Default,,0,0,0,,Wait!
+Dialogue: 0,2:02:14.87,2:02:16.80,Default,,0,0,0,,Our mother and your father\Ndon't know about this.
+Dialogue: 0,2:02:18.17,2:02:19.30,Default,,0,0,0,,Stop interfering or...
+Dialogue: 0,2:02:19.51,2:02:21.67,Default,,0,0,0,,Or what? What'll you do?
+Dialogue: 0,2:02:26.21,2:02:27.87,Default,,0,0,0,,{\i1}I'm tired of everything!{\i0}
+Dialogue: 0,2:02:29.82,2:02:32.11,Default,,0,0,0,,This bar is hopeless. Too!
+Dialogue: 0,2:02:36.59,2:02:43.22,Default,,0,0,0,,I'd like to sell the bar and go with you\Nsomewhere far away!
+Dialogue: 0,2:02:44.13,2:02:45.19,Default,,0,0,0,,Don't lose your hope.
+Dialogue: 0,2:02:50.90,2:02:51.80,Default,,0,0,0,,Help me!
+Dialogue: 0,2:02:52.31,2:02:55.07,Default,,0,0,0,,Won't you help me. Please!
+Dialogue: 0,2:03:07.09,2:03:08.42,Default,,0,0,0,,You've become so cold!
+Dialogue: 0,2:03:57.64,2:04:01.37,Default,,0,0,0,,I know why Yoshiko won't have an abortion.
+Dialogue: 0,2:04:02.04,2:04:04.77,Default,,0,0,0,,She became pregnant to take you\Naway from me.
+Dialogue: 0,2:04:08.25,2:04:09.58,Default,,0,0,0,,Please. Don't talk about that!
+Dialogue: 0,2:04:10.55,2:04:11.54,Default,,0,0,0,,I've heard enough!
+Dialogue: 0,2:04:17.92,2:04:18.79,Default,,0,0,0,,Listen. Hiroshi...
+Dialogue: 0,2:04:20.83,2:04:24.16,Default,,0,0,0,,Aren't you and Yoshiko planning\Nto run away somewhere?
+Dialogue: 0,2:04:28.34,2:04:29.43,Default,,0,0,0,,What'll become of me?
+Dialogue: 0,2:04:37.44,2:04:41.61,Default,,0,0,0,,Why don't you take me away from Miyauchi?
+Dialogue: 0,2:04:42.68,2:04:43.65,Default,,0,0,0,,It's too late!
+Dialogue: 0,2:04:44.72,2:04:46.20,Default,,0,0,0,,There's nothing that can be done now.
+Dialogue: 0,2:04:55.20,2:04:57.03,Default,,0,0,0,,Tell me once and for all if you love me!
+Dialogue: 0,2:04:58.50,2:05:00.59,Default,,0,0,0,,I won't run after a man who doesn't want me!
+Dialogue: 0,2:05:02.27,2:05:03.13,Default,,0,0,0,,I don't love you!
+Dialogue: 0,2:05:05.14,2:05:06.33,Default,,0,0,0,,I don't love you!
+Dialogue: 0,2:05:09.54,2:05:11.14,Default,,0,0,0,,What ever happened between us it's over!
+Dialogue: 0,2:05:12.08,2:05:13.20,Default,,0,0,0,,I'm going away with Yoshiko.
+Dialogue: 0,2:05:15.58,2:05:16.48,Default,,0,0,0,,To live in Yokohama.
+Dialogue: 0,2:05:17.88,2:05:19.11,Default,,0,0,0,,I'll tell her about us!
+Dialogue: 0,2:05:19.25,2:05:21.62,Default,,0,0,0,,No! You can't do this!
+Dialogue: 0,2:05:22.69,2:05:23.68,Default,,0,0,0,,You mustn't!
+Dialogue: 0,2:05:24.79,2:05:25.66,Default,,0,0,0,,You'll regret it!
+Dialogue: 0,2:05:31.50,2:05:32.36,Default,,0,0,0,,What's that?
+Dialogue: 0,2:05:32.83,2:05:33.63,Default,,0,0,0,,You mustn't!
+Dialogue: 0,2:05:35.10,2:05:39.54,Default,,0,0,0,,All right. But love me or not.\NI won't let you two go to Yokohama!
+Dialogue: 0,2:05:40.14,2:05:45.01,Default,,0,0,0,,Do you think I can endure a wretched\Nlife here. Alone?
+Dialogue: 0,2:05:45.88,2:05:46.64,Default,,0,0,0,,Stop it!
+Dialogue: 0,2:07:18.04,2:07:20.03,Default,,0,0,0,,I believe it is murder.
+Dialogue: 0,2:07:21.11,2:07:23.01,Default,,0,0,0,,No matter how.
+Dialogue: 0,2:07:23.34,2:07:25.46,Default,,0,0,0,,Hatsuko's action alone couldn't have\Nled to her death.
+Dialogue: 0,2:07:26.61,2:07:30.81,Default,,0,0,0,,The defendant had his knife out.
+Dialogue: 0,2:07:31.85,2:07:34.51,Default,,0,0,0,,She may have tried to grab the knife.
+Dialogue: 0,2:07:35.99,2:07:39.08,Default,,0,0,0,,The body was dragged cruelly.
+Dialogue: 0,2:07:40.09,2:07:42.43,Default,,0,0,0,,It reveals Hiroshi's character.
+Dialogue: 0,2:07:43.20,2:07:45.99,Default,,0,0,0,,He hid the body and the weapon.
+Dialogue: 0,2:07:46.40,2:07:48.92,Default,,0,0,0,,Then lived brazenly with the sister.
+Dialogue: 0,2:07:50.70,2:07:54.57,Default,,0,0,0,,It is an act of murder.
+Dialogue: 0,2:07:55.84,2:07:58.00,Default,,0,0,0,,I wonder about that...
+Dialogue: 0,2:07:58.38,2:08:02.84,Default,,0,0,0,,There isn't a strong enough motive\Nfor murder.
+Dialogue: 0,2:08:03.95,2:08:07.68,Default,,0,0,0,,Dragging the body may. Off hand. Seem cruel.
+Dialogue: 0,2:08:08.19,2:08:11.09,Default,,0,0,0,,But there was no other way to move it.
+Dialogue: 0,2:08:11.39,2:08:14.55,Default,,0,0,0,,Even if the victim moved towards him first.
+Dialogue: 0,2:08:14.89,2:08:18.19,Default,,0,0,0,,Hiroshi didn't pull back the knife.
+Dialogue: 0,2:08:18.53,2:08:24.16,Default,,0,0,0,,The victim's action at the crime scene\Nis the crucial point.
+Dialogue: 0,2:08:24.94,2:08:28.27,Default,,0,0,0,,I agree with your opinion on that.
+Dialogue: 0,2:08:30.14,2:08:33.98,Default,,0,0,0,,But the fact that Miyauchi was\Nwatching became known...
+Dialogue: 0,2:08:34.55,2:08:37.95,Default,,0,0,0,,...after the trial started.
+Dialogue: 0,2:08:38.89,2:08:43.95,Default,,0,0,0,,Doubt also arose about Hatsuko\Nand Hiroshi's relationship.
+Dialogue: 0,2:08:44.62,2:08:47.06,Default,,0,0,0,,The investigation was incomplete.
+Dialogue: 0,2:08:47.76,2:08:52.79,Default,,0,0,0,,Miyauchi's testimony may not have\Nbeen entirely reliable.
+Dialogue: 0,2:08:53.70,2:08:56.13,Default,,0,0,0,,But. If certain facts had been known.
+Dialogue: 0,2:08:56.57,2:09:00.53,Default,,0,0,0,,The defendant might have been\Nexamined differently.
+Dialogue: 0,2:09:02.21,2:09:04.30,Default,,0,0,0,,If. As Miyauchi said.
+Dialogue: 0,2:09:05.01,2:09:07.07,Default,,0,0,0,,Hatsuko and Hiroshi\Nhad a special relationship.
+Dialogue: 0,2:09:08.11,2:09:12.21,Default,,0,0,0,,Then it was a love triangle.
+Dialogue: 0,2:09:14.22,2:09:16.19,Default,,0,0,0,,{\i1}That psychology is complex.{\i0}
+Dialogue: 0,2:09:16.66,2:09:20.06,Default,,0,0,0,,{\i1}This case might have been\Nhandled differently.{\i0}
+Dialogue: 0,2:09:21.46,2:09:25.83,Default,,0,0,0,,Of course.\NYoshiko pretends she doesn't believe...
+Dialogue: 0,2:09:26.20,2:09:28.72,Default,,0,0,0,,...there was anything between the two.
+Dialogue: 0,2:09:31.27,2:09:34.37,Default,,0,0,0,,But... Hatsuko is dead;
+Dialogue: 0,2:09:34.64,2:09:36.77,Default,,0,0,0,,It has become difficult to find out\Nthe truth.
+Dialogue: 0,2:09:37.98,2:09:40.57,Default,,0,0,0,,Finding the truth is of interest.
+Dialogue: 0,2:09:41.48,2:09:45.38,Default,,0,0,0,,But a judge is unable to probe\Ndeeper into this.
+Dialogue: 0,2:09:45.99,2:09:49.15,Default,,0,0,0,,The court's confirmation of the truth\Nmust be based...
+Dialogue: 0,2:09:49.59,2:09:53.15,Default,,0,0,0,,...on the actual evidence throughout!
+Dialogue: 0,2:09:54.46,2:09:56.12,Default,,0,0,0,,The confession is not ignored.
+Dialogue: 0,2:09:57.16,2:10:01.22,Default,,0,0,0,,But you know how it is obtained.
+Dialogue: 0,2:10:02.24,2:10:06.26,Default,,0,0,0,,About the depositions presented\Nby the prosecution...
+Dialogue: 0,2:10:06.81,2:10:11.64,Default,,0,0,0,,the judge must decide for himself.\NNo matter what!
+Dialogue: 0,2:10:14.25,2:10:22.25,Default,,0,0,0,,The motive is insufficient.
+Dialogue: 0,2:10:34.40,2:10:35.39,Default,,0,0,0,,Intent to kill is hard to recognize.
+Dialogue: 0,2:10:35.40,2:10:36.39,Default,,0,0,0,,No attempt to help.\NAbandonment of the corpse.
+Dialogue: 0,2:10:36.40,2:10:37.75,Default,,0,0,0,,Whatever the circumstances.\NThis is a serious crime.
+Dialogue: 0,2:10:37.80,2:10:43.30,Default,,0,0,0,,Then. Living with the deceased's\Nyounger sister for six days...
+Dialogue: 0,2:10:44.98,2:10:48.21,Default,,0,0,0,,...this must surely be morally condemnable.
+Dialogue: 0,2:10:52.29,2:10:53.27,Default,,0,0,0,,What do you think?
+Dialogue: 0,2:10:55.39,2:10:57.45,Default,,0,0,0,,Not involuntary manslaughter.
+Dialogue: 0,2:10:59.69,2:11:02.68,Default,,0,0,0,,But bodily injury resulting in death.
+Dialogue: 0,2:11:04.06,2:11:07.50,Default,,0,0,0,,In the case of the defendant Ueda\NHiroshi charged with...
+Dialogue: 0,2:11:08.23,2:11:11.17,Default,,0,0,0,,...murder and abandonment of a corpse.
+Dialogue: 0,2:11:11.54,2:11:12.97,Default,,0,0,0,,The Court will give its decision.
+Dialogue: 0,2:11:14.57,2:11:16.30,Default,,0,0,0,,- Defendant.\N- Yes.
+Dialogue: 0,2:11:33.26,2:11:39.29,Default,,0,0,0,,The defendant is sentenced to a prison\Nterm of 2-4 years.
+Dialogue: 0,2:12:11.83,2:12:12.59,Default,,0,0,0,,Forgive me!
+Dialogue: 0,2:12:17.54,2:12:19.87,Default,,0,0,0,,I failed to raise my boy the right way!
+Dialogue: 0,2:12:28.41,2:12:30.21,Default,,0,0,0,,Hatsuko was to blame!
+Dialogue: 0,2:12:30.58,2:12:32.64,Default,,0,0,0,,After she returned here.
+Dialogue: 0,2:12:33.49,2:12:35.48,Default,,0,0,0,,She inveigled all the men around!
+Dialogue: 0,2:12:36.22,2:12:37.45,Default,,0,0,0,,Hiroshi became a victim. Too!
+Dialogue: 0,2:12:38.49,2:12:42.33,Default,,0,0,0,,I'm going to sell this house!
+Dialogue: 0,2:12:49.00,2:12:52.40,Default,,0,0,0,,Abortion might have been better.\NAs Hatsuko said.
+Dialogue: 0,2:12:55.84,2:12:56.60,Default,,0,0,0,,Why?
+Dialogue: 0,2:12:59.01,2:13:01.00,Default,,0,0,0,,Why do you say that now?
+Dialogue: 0,2:13:04.15,2:13:07.45,Default,,0,0,0,,We endured hardship in order\Nto have this child!
+Dialogue: 0,2:13:10.76,2:13:14.16,Default,,0,0,0,,Mom has started to say that.
+Dialogue: 0,2:13:14.96,2:13:18.29,Default,,0,0,0,,Hatsuko was partly to blame\Nfor what happened.
+Dialogue: 0,2:13:18.90,2:13:21.59,Default,,0,0,0,,I'm not fit to be the child's father!
+Dialogue: 0,2:13:22.80,2:13:24.06,Default,,0,0,0,,That's not so!
+Dialogue: 0,2:13:26.61,2:13:31.34,Default,,0,0,0,,Atonement will restore you\Nto your former self!
+Dialogue: 0,2:13:33.61,2:13:36.64,Default,,0,0,0,,Can this crime be erased in 2 or 3 years?
+Dialogue: 0,2:13:39.52,2:13:45.36,Default,,0,0,0,,Maybe I really thought\Nabout killing {\i1}Hatsuko-san!{\i0}
+Dialogue: 0,2:13:50.16,2:13:54.29,Default,,0,0,0,,Everything would've gone smoothly\Nwith her out of the way!
+Dialogue: 0,2:13:56.14,2:13:57.69,Default,,0,0,0,,{\i1}I spend nights thinking about it.{\i0}
+Dialogue: 0,2:13:59.24,2:14:02.11,Default,,0,0,0,,You're wrong. It wasn't like that at all!
+Dialogue: 0,2:14:04.11,2:14:05.63,Default,,0,0,0,,You didn't carry it out!
+Dialogue: 0,2:14:06.18,2:14:07.31,Default,,0,0,0,,Anyone can daydream!
+Dialogue: 0,2:14:11.62,2:14:14.35,Default,,0,0,0,,You always had a strong sense\Nof responsibility.
+Dialogue: 0,2:14:15.39,2:14:16.38,Default,,0,0,0,,Hence this delusion.
+Dialogue: 0,2:14:17.36,2:14:18.88,Default,,0,0,0,,It's not at all a delusion.
+Dialogue: 0,2:14:20.19,2:14:21.63,Default,,0,0,0,,I've always been bad.
+Dialogue: 0,2:14:22.93,2:14:26.83,Default,,0,0,0,,Outwardly I appeared docile\Nand fooled everyone.
+Dialogue: 0,2:14:28.60,2:14:30.28,Default,,0,0,0,,Yoshiko's pregnancy was really bothersome.
+Dialogue: 0,2:14:31.17,2:14:37.60,Default,,0,0,0,,My relations with her were\Nbecoming a burden.
+Dialogue: 0,2:14:37.88,2:14:39.00,Default,,0,0,0,,There's no use...
+Dialogue: 0,2:14:40.98,2:14:42.64,Default,,0,0,0,,...thinking in such a way now!
+Dialogue: 0,2:14:44.55,2:14:45.35,Default,,0,0,0,,Sir!
+Dialogue: 0,2:14:46.92,2:14:49.22,Default,,0,0,0,,These hands are bloodied. One human life...
+Dialogue: 0,2:14:50.09,2:14:51.45,Default,,0,0,0,,...has been lost forever.
+Dialogue: 0,2:14:54.86,2:14:55.99,Default,,0,0,0,,Even if by mistake.
+Dialogue: 0,2:14:58.13,2:14:59.36,Default,,0,0,0,,I killed a human being!
+Dialogue: 0,2:15:03.40,2:15:04.73,Default,,0,0,0,,When {\i1}Hatsuko-san{\i0} advanced.
+Dialogue: 0,2:15:06.91,2:15:08.35,Default,,0,0,0,,I should have pulled back the knife!
+Dialogue: 0,2:15:12.85,2:15:14.40,Default,,0,0,0,,I killed her with this hand!
+Dialogue: 0,2:15:17.98,2:15:20.18,Default,,0,0,0,,Hatsuko will never come back now!
+Dialogue: 0,2:15:30.23,2:15:32.20,Default,,0,0,0,,Why don't they kill me. Once and for all!?
+Dialogue: 0,2:15:39.47,2:15:40.63,Default,,0,0,0,,{\i1}I'm surprised.{\i0}
+Dialogue: 0,2:15:41.37,2:15:46.28,Default,,0,0,0,,It might be a reaction to the\Nrather lenient sentence.
+Dialogue: 0,2:15:48.38,2:15:51.84,Default,,0,0,0,,At heart. He must be glad it was so light.
+Dialogue: 0,2:15:52.72,2:15:56.68,Default,,0,0,0,,It embarrasses him\Nand he exaggerates the crime.
+Dialogue: 0,2:15:57.22,2:15:58.19,Default,,0,0,0,,That often happens.
+Dialogue: 0,2:15:58.89,2:16:02.83,Default,,0,0,0,,But. Hiroshi says he daydreamed\Nabout killing her.
+Dialogue: 0,2:16:03.76,2:16:04.82,Default,,0,0,0,,A daydream is nothing.
+Dialogue: 0,2:16:06.23,2:16:08.33,Default,,0,0,0,,Different from an actual deed.
+Dialogue: 0,2:16:09.37,2:16:13.57,Default,,0,0,0,,There's nothing we can say\Nto one suffering from guilt.
+Dialogue: 0,2:16:14.57,2:16:16.10,Default,,0,0,0,,He must solve it by himself.
+Dialogue: 0,2:16:17.21,2:16:19.37,Default,,0,0,0,,I must leave now for an arraignment.
+Dialogue: 0,2:16:24.95,2:16:25.51,Default,,0,0,0,,Goodbye.
+Dialogue: 0,2:16:47.37,2:16:48.34,Default,,0,0,0,,It's been a long time!
+Dialogue: 0,2:16:50.21,2:16:51.01,Default,,0,0,0,,Where are you going?
+Dialogue: 0,2:16:51.78,2:16:53.21,Default,,0,0,0,,To see Hiroshi.
+Dialogue: 0,2:16:54.41,2:16:55.29,Default,,0,0,0,,Bringing him supplies?
+Dialogue: 0,2:16:55.88,2:16:56.85,Default,,0,0,0,,Just a few things.
+Dialogue: 0,2:16:57.05,2:16:57.78,Default,,0,0,0,,How's he doing?
+Dialogue: 0,2:17:01.89,2:17:03.19,Default,,0,0,0,,Are you going to move?
+Dialogue: 0,2:17:04.59,2:17:07.18,Default,,0,0,0,,He's in the prison at Kawagoe.
+Dialogue: 0,2:17:07.73,2:17:08.56,Default,,0,0,0,,I will move there.
+Dialogue: 0,2:17:14.13,2:17:15.21,Default,,0,0,0,,Looks like he's on the way.
+Dialogue: 0,2:17:17.74,2:17:20.73,Default,,0,0,0,,A cute face. But some woman you are!
+Dialogue: 0,2:17:22.78,2:17:24.77,Default,,0,0,0,,I'm not a liar like you.
+Dialogue: 0,2:17:25.24,2:17:29.34,Default,,0,0,0,,Look who's talking about lying!
+Dialogue: 0,2:17:31.25,2:17:32.18,Default,,0,0,0,,Anyway. Take care.
+Dialogue: 0,2:17:33.22,2:17:34.12,Default,,0,0,0,,Have a healthy baby.
+Dialogue: 0,2:17:34.92,2:17:35.79,Default,,0,0,0,,Thank you.
