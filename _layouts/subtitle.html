@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="page-subtitle">
+    {% for tag in page.tags %}
+        {% if page.tags.first == tag %}
+            <b>[</b>
+        {% endif %}
+        <a href="{{site.url}}{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
+        {% if page.tags.last == tag %}
+            <b>]</b>
+        {% else %}
+            ,
+        {% endif %}
+    {% endfor %}
+</div>
+
+<hr>
+
+<div>
+<strong>
+注意:
+<br>
+字幕仅供个人兴趣学习，不得商业化和付费。如有其他字幕翻译是基于我提供的字幕，敬请标明出处。
+<br>
+<br>
+
+Note:
+<br>
+Subtitles are only for personal use, no commercialized purpose or distribution for money. If you want to share them, please include proper ciation(s) to my site.
+If you want to translate to other languages based on the subtitles I provide, please cite the source in your subtitle. Thanks.
+</strong>
+</div>
+
+
+{{content}}
+
+
