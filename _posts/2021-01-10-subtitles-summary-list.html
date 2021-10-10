@@ -1,0 +1,30 @@
+---
+layout: post
+title: "[Pinned] Movie Subtitle Summary List by Coralsundy"
+subtitle: "[Pinned] Movie Subtitle Summary List by Coralsundy"
+pinned: true
+tags: [subtitle, movie]
+---
+
+This post maintains a list of subtitles from my projects, either by myself or work with others.
+All the subtitles provided here are free of charge.
+You can have it for personal use only, no commercialized purpose or distribution without citation to my site.
+
+<hr>
+<br>
+
+ {% for post in site.posts %}
+        {% if post.pinned != true %}
+            {% for tag in post.tags %}
+                 {% if tag == "subtitle" %}
+
+                     <div class="archive-item">
+                         <span class="movie-year archive-date fs-4">{{ post.movie-year }}:</span>
+                         <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
+                     </div>
+                 {% endif %}
+            {% endfor %}
+        {% endif %}
+ {% endfor %}
+
+

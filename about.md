@@ -24,3 +24,4 @@ You can find all the links related to my projects and hobbies <a href="/links/">
 * GitHub: <https://github.com/coralsundy>
 * Twitter: <https://twitter.com/coralsundy>
 * Email: [coralsundy@gmail.com](mailto:coralsundy@gmail.com)
+
