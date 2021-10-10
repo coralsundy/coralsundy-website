@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[Pinned] Movie Subtitle Summary List by Coralsundy"
-subtitle: "[Pinned] Movie Subtitle Summary List by Coralsundy"
+title: "[Pinned] Movie Subtitles Summary List by Coralsundy"
+subtitle: "[Pinned] Movie Subtitles Summary List by Coralsundy"
 pinned: true
 tags: [subtitle, movie]
 ---
@@ -18,18 +18,27 @@ You can have it for personal use only, no commercialized purpose or distribution
 <hr>
 <br>
 
- {% for post in site.posts %}
-        {% if post.pinned != true %}
-            {% for tag in post.tags %}
-                 {% if tag == "subtitle" %}
 
-                     <div class="archive-item">
-                         <span class="movie-year archive-date fs-4">{{ post.movie-year }}:</span>
-                         <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
-                     </div>
-                 {% endif %}
-            {% endfor %}
-        {% endif %}
- {% endfor %}
+
+
+{% assign sorted = site.posts | sort: "movie_year" %}
+
+{% for post in sorted %}
+
+       {% if post.pinned != true %}
+           {% for tag in post.tags %}
+                {% if tag == "subtitle" %}
+
+                    <div class="archive-item">
+                        <span class="movie-year archive-date fs-4">{{ post.movie_year }}:</span>
+                        <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
+                    </div>
+                {% endif %}
+           {% endfor %}
+       {% endif %}
+
+{% endfor %}
+
+
 
 

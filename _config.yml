@@ -21,6 +21,8 @@ sass:
     style: compressed
     sass_dir: css
 
+encoding: utf-8
+
 exclude:
 - _examples
 - _drafts
