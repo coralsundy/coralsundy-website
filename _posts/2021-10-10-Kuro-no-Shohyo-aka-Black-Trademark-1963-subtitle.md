@@ -2,6 +2,7 @@
 layout: subtitle
 title: "黒の商標 / Kuro no Shohyo aka Black Trademark 1963 Subtitle (English)"
 subtitle: "黒の商標 / Kuro no Shohyo aka Black Trademark 1963 Subtitle (English)"
+author: coralsundy
 movie_year: 1963
 tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 ---

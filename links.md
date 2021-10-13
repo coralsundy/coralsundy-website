@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /links/
-title: ":link: Links :link:"
+title: Links
 ---
 
 

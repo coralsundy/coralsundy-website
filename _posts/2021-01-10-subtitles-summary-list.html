@@ -2,6 +2,7 @@
 layout: post
 title: "[Pinned] Movie Subtitles Summary List by Coralsundy"
 subtitle: "[Pinned] Movie Subtitles Summary List by Coralsundy"
+author: coralsundy
 pinned: true
 tags: [subtitle, movie]
 ---
@@ -30,7 +31,7 @@ You can have it for personal use only, no commercialized purpose or distribution
                 {% if tag == "subtitle" %}
 
                     <div class="archive-item">
-                        <span class="movie-year archive-date fs-4">{{ post.movie_year }}:</span>
+                        <span class="movie-year archive-date fs-4">{{ post.movie_year }} &raquo; </span>
                         <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
                     </div>
                 {% endif %}

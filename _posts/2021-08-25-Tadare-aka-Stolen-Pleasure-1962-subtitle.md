@@ -2,6 +2,7 @@
 layout: subtitle
 title: 烂 / 爛 / Tadare aka Stolen Pleasure 1962 Subtitle (English)
 subtitle: 烂 / 爛 / Tadare aka Stolen Pleasure 1962 Subtitle (English)
+author: coralsundy
 movie_year: 1962
 tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 ---

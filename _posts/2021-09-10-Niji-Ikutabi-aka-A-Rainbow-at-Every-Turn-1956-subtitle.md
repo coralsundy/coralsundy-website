@@ -2,6 +2,7 @@
 layout: subtitle
 title: "虹いくたび / Niji Ikutabi aka A Rainbow at Every Turn 1956 Subtitle (English)"
 subtitle: "虹いくたび / Niji Ikutabi aka A Rainbow at Every Turn 1956 Subtitle (English)"
+author: coralsundy
 movie_year: 1956
 tags: [subtitle, movie, jap_movie, eng_subtitle, 1950s]
 ---
