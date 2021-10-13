@@ -2,6 +2,7 @@
 layout: subtitle
 title: "黒の死球 / Kuro no Shikyu aka Black Death Ball 1963 Subtitle (English)"
 subtitle: "黒の死球 / Kuro no Shikyu aka Black Death Ball 1963 Subtitle (English)"
+author: coralsundy
 movie_year: 1963
 tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 ---

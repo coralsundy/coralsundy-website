@@ -2,6 +2,7 @@
 layout: subtitle
 title: "今年の恋 / Kotoshi no Koi aka This Year's Love 1962 Subtitle (English)"
 subtitle: "今年の恋 / Kotoshi no Koi aka This Year's Love 1962 Subtitle (English)"
+author: coralsundy
 movie_year: 1962
 tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 ---

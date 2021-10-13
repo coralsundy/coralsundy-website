@@ -1,12 +1,15 @@
 ---
 layout: default
+title: Tags
 permalink: /tags/
 ---
 
+{% assign sorted = site.tags | sort %}
+
 <ul>
-    {% for tag in site.tags %}
+    {% for tag in sorted %}
         <li id="{{ tag[0] }}">
-            <b>{{ tag[0] }}</b>
+            <b>&#128278;<a href="{{site.url}}{{site.baseurl}}/tags/#{{tag[0]}}">{{ tag[0] }}</b></a>
         </li>
         {% for post in tag[1] %}
         {% if post.private == true %}
@@ -19,3 +22,4 @@ permalink: /tags/
         <br>
     {% endfor %}
 </ul>
+

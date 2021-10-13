@@ -3,11 +3,12 @@ layout: default
 ---
 
 <div class="page-subtitle">
+    &#128279;<a href="{{site.url}}{{ site.baseurl }}/about/">{{ page.author }}</a>
     {% for tag in page.tags %}
         {% if page.tags.first == tag %}
             <b>[</b>
         {% endif %}
-        <a href="{{site.url}}{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
+            &#128278;<a href="{{site.url}}{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
         {% if page.tags.last == tag %}
             <b>]</b>
         {% else %}
