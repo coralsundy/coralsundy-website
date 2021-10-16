@@ -21,7 +21,8 @@ All files in `subtitles` directory are non-commercial, personal use only. If the
 # Other files
 
 Some files are under the license of the original creator, as this website take code from [rahul-bothra](https://github.com/rahul-bothra/parchment) and [andrewhwanpark](https://github.com/andrewhwanpark/brutalist-blog) jekyll theme repositories.
-As well as the original License file of [Nowaker](https://gitlab.com/Nowaker/nowaker-blog/blob/master/LICENSE.md)
+As well as the original License file of [Nowaker](https://gitlab.com/Nowaker/nowaker-blog/blob/master/LICENSE.md).
+The Simple Jekyll Search JS from [christian-fei](https://github.com/christian-fei/Simple-Jekyll-Search).
 Rest of the code are under MIT License.
 
 

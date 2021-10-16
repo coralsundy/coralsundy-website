@@ -1,9 +1,11 @@
 ---
 layout: subtitle
+date: 2021-09-14
 title: 松川事件 / Matsukawa Jiken aka The Matsukawa Incident 1961 Subtitle (Chinese)
 subtitle: 松川事件 / Matsukawa Jiken aka The Matsukawa Incident 1961 Subtitle (Chinese)
 author: coralsundy
 movie_year: 1961
+category: subtitle
 tags: [subtitle, movie, jap_movie, chs_subtitle, 1960s]
 ---
 

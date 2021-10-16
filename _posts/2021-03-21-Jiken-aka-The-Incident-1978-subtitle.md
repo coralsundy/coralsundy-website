@@ -1,9 +1,11 @@
 ---
 layout: subtitle
+date: 2021-03-21
 title: 事件 / Jiken aka The Incident 1978 Subtitle (Chinese/English)
 subtitle: 事件 / Jiken aka The Incident 1978 Subtitle (Chinese/English)
 author: coralsundy
 movie_year: 1978
+category: subtitle
 tags: [subtitle, movie, jap_movie, eng_subtitle, chs_subtitle, 1970s]
 ---
 

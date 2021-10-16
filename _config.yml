@@ -23,6 +23,8 @@ sass:
 
 encoding: utf-8
 
+timezone: "America/Los_Angeles"
+
 exclude:
 - _examples
 - _drafts
@@ -34,6 +36,8 @@ navbar:
    link: "links"
  - name: "Tags"
    link: "tags"
+ - name: "Search"
+   link: "search"
 
 plugins:
 - jemoji
