@@ -4,6 +4,7 @@ title: 信浓川 / しなの川 / Shinano Gawa aka Shinano River 1973 Subtitle (
 subtitle: 信浓川 / しなの川 / Shinano Gawa aka Shinano River 1973 Subtitle (Chinese)
 author: coralsundy
 movie_year: 1973
+category: subtitle
 tags: [subtitle, movie, jap_movie, chs_subtitle, 1970s]
 ---
 

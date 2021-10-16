@@ -4,6 +4,7 @@ title: 胁迫 / 脅迫 / Odoshi aka The Threat 1966 Subtitle (Chinese)
 subtitle: 胁迫 / 脅迫 / Odoshi aka The Threat 1966 Subtitle (Chinese)
 author: coralsundy
 movie_year: 1966
+category: subtitle
 tags: [subtitle, movie, jap_movie, chs_subtitle, 1960s]
 ---
 

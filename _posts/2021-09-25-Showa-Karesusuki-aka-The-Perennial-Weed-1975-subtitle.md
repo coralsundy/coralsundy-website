@@ -4,6 +4,7 @@ title: 昭和枯草哀歌 / 昭和枯れすすき / Shôwa Karesusuki aka The Pe
 subtitle: 昭和枯草哀歌 / 昭和枯れすすき / Shôwa Karesusuki aka The Perennial Weed 1975 Subtitle (Chinese)
 author: coralsundy
 movie_year: 1975
+category: subtitle
 tags: [subtitle, movie, jap_movie, chs_subtitle, 1970s]
 ---
 

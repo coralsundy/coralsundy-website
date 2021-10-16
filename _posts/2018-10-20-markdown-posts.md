@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Example Markdown
-subtitle: This post explains how you can write posts using Markdown.
+subtitle: "This post explains how you can write posts using Markdown"
+category: tutorial
 tags: [guide, markdown]
 ---
 

@@ -4,6 +4,7 @@ title: "黒の札束 / Kuro no satsutaba aka Black Money 1963 Subtitle (English)
 subtitle: "黒の札束 / Kuro no satsutaba aka Black Money 1963 Subtitle (English)"
 author: coralsundy
 movie_year: 1963
+category: subtitle
 tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 ---
 
