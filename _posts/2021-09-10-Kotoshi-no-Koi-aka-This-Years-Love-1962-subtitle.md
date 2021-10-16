@@ -1,5 +1,6 @@
 ---
 layout: subtitle
+date: 2021-09-10
 title: "今年の恋 / Kotoshi no Koi aka This Year's Love 1962 Subtitle (English)"
 subtitle: "今年の恋 / Kotoshi no Koi aka This Year's Love 1962 Subtitle (English)"
 author: coralsundy

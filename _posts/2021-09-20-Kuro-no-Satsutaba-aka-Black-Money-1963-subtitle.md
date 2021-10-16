@@ -1,5 +1,6 @@
 ---
 layout: subtitle
+date: 2021-09-20
 title: "黒の札束 / Kuro no satsutaba aka Black Money 1963 Subtitle (English)"
 subtitle: "黒の札束 / Kuro no satsutaba aka Black Money 1963 Subtitle (English)"
 author: coralsundy

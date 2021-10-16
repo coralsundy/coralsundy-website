@@ -1,5 +1,6 @@
 ---
 layout: subtitle
+date: 2021-09-10
 title: "虹いくたび / Niji Ikutabi aka A Rainbow at Every Turn 1956 Subtitle (English)"
 subtitle: "虹いくたび / Niji Ikutabi aka A Rainbow at Every Turn 1956 Subtitle (English)"
 author: coralsundy

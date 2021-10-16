@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2018-10-20
 title: Example Markdown
 subtitle: "This post explains how you can write posts using Markdown"
 category: tutorial

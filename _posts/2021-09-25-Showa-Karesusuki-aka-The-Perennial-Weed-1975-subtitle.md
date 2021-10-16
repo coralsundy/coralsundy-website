@@ -1,5 +1,6 @@
 ---
 layout: subtitle
+date: 2021-09-25
 title: 昭和枯草哀歌 / 昭和枯れすすき / Shôwa Karesusuki aka The Perennial Weed 1975 Subtitle (Chinese)
 subtitle: 昭和枯草哀歌 / 昭和枯れすすき / Shôwa Karesusuki aka The Perennial Weed 1975 Subtitle (Chinese)
 author: coralsundy

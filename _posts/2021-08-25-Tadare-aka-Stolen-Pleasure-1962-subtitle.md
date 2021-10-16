@@ -1,5 +1,6 @@
 ---
 layout: subtitle
+date: 2021-08-25
 title: 烂 / 爛 / Tadare aka Stolen Pleasure 1962 Subtitle (English)
 subtitle: 烂 / 爛 / Tadare aka Stolen Pleasure 1962 Subtitle (English)
 author: coralsundy

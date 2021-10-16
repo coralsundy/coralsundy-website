@@ -1,5 +1,6 @@
 ---
 layout: subtitle
+date: 2021-10-02
 title: "黒の死球 / Kuro no Shikyu aka Black Death Ball 1963 Subtitle (English)"
 subtitle: "黒の死球 / Kuro no Shikyu aka Black Death Ball 1963 Subtitle (English)"
 author: coralsundy
