@@ -243,7 +243,8 @@ input[type="text"] {
     img {
         text-align: center;
         #margin: 10px 10px 10px 10px;
-        max-width: $small-width;
+        max-width: 100%;
+        height: auto;
     }
 
     .color-red {
