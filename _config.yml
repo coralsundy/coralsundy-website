@@ -1,4 +1,4 @@
-title: "Coralsundy: Mod/Subtitle/Review"
+title: "Coralsundy: Mods/Subtitles/Reviews"
 author: Coralsundy
 subtitle: Coralsundy's Home Page
 
@@ -36,8 +36,8 @@ navbar:
    link: "links"
  - name: "Tags"
    link: "tags"
- - name: "Search"
-   link: "search"
+# - name: "Search"
+#   link: "search"
 
 plugins:
 - jemoji
