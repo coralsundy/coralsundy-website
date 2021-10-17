@@ -16,8 +16,29 @@
         </div>
         <div class="content">
             {{ content }}
+
+            {% if page.id %}
+
+                <hr>
+                <br>
+                {% if page.previous.url %}
+                    <a href="{{ page.previous.url }}">
+                      <div>&laquo;<i> Prev Post: <strong>{{ page.previous.title }}</strong></i></div>
+                    </a>
+                {% endif %}
+
+                {% if page.next.url %}
+                    <a href="{{ page.next.url }}">
+                      <div>&raquo;<i> Next Post: <strong>{{ page.next.title }}</strong></i></div>
+                    </a>
+                {% endif %}
+
+            {% endif %}
         </div>
         {% include footer.html %}
     </div>
+
+
+
 </body>
 </html>
