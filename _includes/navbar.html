@@ -1,6 +1,7 @@
+<base href="/">
+
 <div class="navbar">
     <a class="site-title" href="{{ site.url }}{{ site.baseurl}}">{{ site.title }}</a>
-
     <ul class="pull-right">
         {% for x in site.navbar %}
         <li class="pull-left">
@@ -13,7 +14,29 @@
             {% if forloop.last == false %}{% endif %}
         </li>
         {% endfor %}
+
+        <!-- Search Bar Inputs -->
+        <li>
+            <input type="text" id="search-bar-inputs" size="16" placeholder="search...">
+        </li>
+
     </ul>
 
+    <!-- Search Results List -->
+    <ul id="search-results-list"></ul>
+    
+    <!-- Search JS Scripts -->
+    <script src="js/search.js" type="text/javascript"></script>
+    
+    <!-- Simple Jekyll Search -->
+    <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-bar-inputs'),
+      resultsContainer: document.getElementById('search-results-list'),
+      json: '/search.json'
+    })
+    </script>
+
     <hr>
+
 </div>

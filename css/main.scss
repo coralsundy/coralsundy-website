@@ -28,6 +28,7 @@ a:hover {
     color: black;
 }
 hr {
+    clear:both;
     margin: 5px;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
@@ -35,6 +36,11 @@ hr {
 code {
     background-color: #d8e7ff;
     color: #002b72;
+}
+
+input[type="text"] {
+   display: block;
+   margin : 0 auto;
 }
 
 // divs
@@ -57,8 +63,9 @@ code {
         display: inline-block;
         font-weight: bold;
         margin: 0;
-        padding: 10px 0 10px 0;
+        padding: 0px 0 10px 0;
         margin-left: 10px;
+        #margin-bottom: 1em;
     }
     li {
         list-style-type: none;
