@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2021-09-20
-title: "黒の札束 / Kuro no satsutaba aka Black Money 1963 Subtitle (English)"
-subtitle: "黒の札束 / Kuro no satsutaba aka Black Money 1963 Subtitle (English)"
+title: "黑色钱币 / 黒の札束 / Kuro no satsutaba aka Black Money 1963 Subtitle (English)"
+subtitle: "黑色钱币 / 黒の札束 / Kuro no satsutaba aka Black Money 1963 Subtitle (English)"
 author: coralsundy
 movie_year: 1963
 category: subtitle
@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-黒の札束 (Black Money) 是村山三男于1963年导演的电影，大映<黑色系列>的第3作。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:32:58的版本。
+黑色钱币 / 黒の札束 (Black Money) 是村山三男于1963年导演的电影，大映<黑色系列>的第3作。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:32:58的版本。
 
 ------
 
