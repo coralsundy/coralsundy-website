@@ -3,6 +3,7 @@ layout: subtitle
 date: 2021-10-22
 title: 伟大征程 / 大いなる旅路 / Oinaru Tabiji aka Great Journey 1960 Subtitle (Chinese)
 subtitle: 伟大征程 / 大いなる旅路 / Oinaru Tabiji aka Great Journey 1960 Subtitle (Chinese)
+author: coralsundy
 movie_year: 1960
 category: subtitle
 tags: [subtitle, movie, jap_movie, chs_subtitle, 1960s]
