@@ -30,7 +30,7 @@ Kuro no Kyoki / Black Weapon (1964) is the 9th installment of the "Black Series"
 ------
 
 **中文字幕**: 尚无<br>
-**English Subtitle**: [Kuro.no.Kyoki.aka.Black.Weapon.1964.eng.01-28-53.BYjls001999.rev1](../subtitles/Kuro.no.Kyoki.aka.Black.Weapon.1964.eng.01-28-53.BYjls001999.rev1)
+**English Subtitle**: [Kuro.no.Kyoki.aka.Black.Weapon.1964.eng.01-28-53.BYjls001999.rev1.srt](../subtitles/Kuro.no.Kyoki.aka.Black.Weapon.1964.eng.01-28-53.BYjls001999.rev1.srt)
 
 ------
 
