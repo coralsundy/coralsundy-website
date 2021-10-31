@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2021-10-31
-title: "黒の凶器 / 黑色凶器/ Kuro no Kyoki aka Black.Weapon 1964 Subtitle (English)"
-subtitle: "黒の凶器 / 黑色凶器/ Kuro no Kyoki aka Black.Weapon 1964 Subtitle (English)"
+title: "黑色凶器 / 黒の凶器 / Kuro no Kyoki aka Black.Weapon 1964 Subtitle (English)"
+subtitle: "黑色凶器 / 黒の凶器 / Kuro no Kyoki aka Black.Weapon 1964 Subtitle (English)"
 author: coralsundy
 movie_year: 1964
 category: subtitle
@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-黒の凶器 / 黑色凶器 (Black Weapon) 是井上昭于1964年导演，田宮二郎/滨田优子/金子信雄主演的电影。大映<黑色系列>的第9作。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:28:53的版本。
+黑色凶器 / 黒の凶器 (Black Weapon) 是井上昭于1964年导演，田宮二郎/滨田优子/金子信雄主演的电影。大映<黑色系列>的第9作。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:28:53的版本。
 
 ------
 
