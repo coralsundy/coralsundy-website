@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2021-10-31
-title: "黑色凶器 / 黒の凶器 / Kuro no Kyoki aka Black.Weapon 1964 Subtitle (English)"
-subtitle: "黑色凶器 / 黒の凶器 / Kuro no Kyoki aka Black.Weapon 1964 Subtitle (English)"
+title: "黑色凶器 / 黒の凶器 / Kuro no Kyoki aka Black Weapon 1964 Subtitle (English)"
+subtitle: "黑色凶器 / 黒の凶器 / Kuro no Kyoki aka Black Weapon 1964 Subtitle (English)"
 author: coralsundy
 movie_year: 1964
 category: subtitle
