@@ -29,7 +29,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1960s]
 
 ------
 
-**中文字幕**: [Oinaru.Tabiji.aka.Great.Journey1960.chs.01-35-34.BYnoela09.rev1.srt](../subtitles/Oinaru.Tabiji.aka.Great.Journey1960.chs.01-35-34.BYnoela09.rev1.srt)<br>
+**中文字幕**: [Oinaru.Tabiji.aka.Great.Journey.1960.chs.01-35-34.BYnoela09.rev1.srt](../subtitles/Oinaru.Tabiji.aka.Great.Journey.1960.chs.01-35-34.BYnoela09.rev1.srt)<br>
 **English Subtitle**: None
 
 ------
