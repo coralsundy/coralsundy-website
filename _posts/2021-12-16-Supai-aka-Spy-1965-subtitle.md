@@ -11,7 +11,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-<img src="../assets/t0258228.jpg" alt="t0258228_cover_art" />
+<img src="../assets/tt0258228.jpg" alt="tt0258228_cover_art" />
 
 ------
 
@@ -35,7 +35,7 @@ Supai / Spy is (1965) a 1965 movie directed by Satsuo Yamamoto, with notable sta
 ------
 
 **SUBHD**: <https://subhd.tv/a/527988><br>
-**IMDB**: <https://www.imdb.com/title/t0258228/><br>
+**IMDB**: <https://www.imdb.com/title/tt0258228/><br>
 **DOUBAN**: <https://movie.douban.com/subject/5140686/>
 
 ------
