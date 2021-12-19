@@ -29,8 +29,10 @@ Supai / Spy is (1965) a 1965 movie directed by Satsuo Yamamoto, with notable sta
 
 ------
 
+* Update to rev2 with some text improvements
+
 **中文字幕**: 尚无<br>
-**English Subtitle**: [Supai.aka.Spy.1965.eng.01-35-22.BYjls001999.rev1.srt](../subtitles/Supai.aka.Spy.1965.eng.01-35-22.BYjls001999.rev1.srt)
+**English Subtitle**: [Supai.aka.Spy.1965.eng.01-35-22.BYjls001999.rev2.srt](../subtitles/Supai.aka.Spy.1965.eng.01-35-22.BYjls001999.rev2.srt)
 
 ------
 
