@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-Supai / Spy is (1965) a 1965 movie directed by Satsuo Yamamoto, with notable stars Jiro Tamiya and Mayumi Ogawa.
+Supai / Spy (1965) is a 1965 movie directed by Satsuo Yamamoto, with notable stars Jiro Tamiya and Mayumi Ogawa.
 
 ------
 
