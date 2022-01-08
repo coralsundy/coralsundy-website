@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1950s]
 
 ------
 
-最后关头/どたんば (Dotanba / The Eleventh Hour) 是内田吐梦于1957年执导，与桥本忍合作脚本， 江原真二郎/中村雅子/冈田英次/加藤嘉/东野英治郎/志村乔主演的电影。中文字幕由coralsundy自费出资，neola09听译制作。适用于01:47:45的版本。
+最后关头/どたんば (Dotanba / The Eleventh Hour) 是内田吐梦于1957年执导，与桥本忍合作脚本，江原真二郎/中村雅子/冈田英次/加藤嘉/东野英治郎/志村乔主演的电影。中文字幕由coralsundy自费出资，neola09听译制作。适用于01:47:45的版本。
 
 ------
 
