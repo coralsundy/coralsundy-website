@@ -12,6 +12,8 @@ footer_url_twitter: "https://twitter.com/coralsundy"
 footer_text_twitter: "Twitter"
 footer_url_email: "mailto:coralsundy@gmail.com"
 footer_text_email: "Email"
+footer_url_license: "https://github.com/coralsundy/coralsundy-website/blob/main/LICENSE"
+footer_text_email: "License"
 
 #profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
@@ -36,8 +38,6 @@ navbar:
    link: "links"
  - name: "Tags"
    link: "tags"
-# - name: "Search"
-#   link: "search"
 
 plugins:
 - jemoji
