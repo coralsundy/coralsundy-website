@@ -32,4 +32,12 @@
     <meta name="twitter:title" content="{{ title }}" />
     <meta name="twitter:description" content="{{ desc }}" />
     <meta name="twitter:image" content="{{ favicon_location }}" />
+
+    <!-- Visits Counter -->
+    <script>
+        function coralsundyCallbackName(response) {
+            document.getElementById('visits').innerText = response.value;
+        }
+    </script>
+    <script async src="https://api.countapi.xyz/hit/coralsundy.com/visits?callback=coralsundyCallbackName"></script>
 </head>
