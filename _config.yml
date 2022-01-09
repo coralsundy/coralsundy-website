@@ -12,7 +12,7 @@ footer_url_twitter: "https://twitter.com/coralsundy"
 footer_text_twitter: "Twitter"
 footer_url_email: "mailto:coralsundy@gmail.com"
 footer_text_email: "Email"
-footer_url_license: "https://github.com/coralsundy/coralsundy-website/blob/main/LICENSE"
+footer_url_license: "https://github.com/coralsundy/coralsundy-website/blob/main/LICENSE.md"
 footer_text_license: "License"
 
 #profile-picture: assets/profile.jpg
