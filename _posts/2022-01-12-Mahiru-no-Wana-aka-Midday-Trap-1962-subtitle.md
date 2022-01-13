@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-01-12
-title: "真昼の罠 / 午间陷阱 / Mahiru no Wana aka Midday Trap 1962 Subtitle (English)"
-subtitle: "真昼の罠 / 午间陷阱 / Mahiru no Wana aka Midday Trap 1962 Subtitle (English)"
+title: "午间陷阱 / 真昼の罠 / Mahiru no Wana aka Midday Trap 1962 Subtitle (English)"
+subtitle: "午间陷阱 / 真昼の罠 / Mahiru no Wana aka Midday Trap 1962 Subtitle (English)"
 author: coralsundy
 movie_year: 1962
 category: subtitle
@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-真昼の罠/午间陷阱 (Mahiru no Wana) 是富本壮吉于1962年导演，改编自黒岩重吾原作小说，田宫二郎/叶顺子主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:29:33的版本。
+午间陷阱/真昼の罠 (Mahiru no Wana) 是富本壮吉于1962年导演，改编自黒岩重吾原作小说，田宫二郎/叶顺子主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:29:33的版本。
 
 ------
 
