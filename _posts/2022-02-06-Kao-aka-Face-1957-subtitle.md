@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-02-06
-title: 顔 / 颜 / Kao aka Face 1957 Subtitle (Chinese)
-subtitle: 顔 / 颜 / Kao aka Face 1957 Subtitle (Chinese)
+title: 颜 / 顔 / Kao aka Face 1957 Subtitle (Chinese)
+subtitle: 颜 / 顔 / Kao aka Face 1957 Subtitle (Chinese)
 author: coralsundy
 movie_year: 1957
 category: subtitle
@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1950s]
 
 ------
 
-颜/顔 (Kao/Face) 是大曽根辰保于1957年执导，改编自松本清张小说，岡田茉莉子/大木実/笠智衆主演的电影。中文字幕由coralsundy自费出资，neola09听译制作。适用于01:45:16的版本。字幕仅供个人兴趣学习，不得商业化和付费。
+颜 / 顔 (Kao / Face) 是大曽根辰保于1957年执导，改编自松本清张小说，岡田茉莉子/大木実/笠智衆主演的电影。中文字幕由coralsundy自费出资，neola09听译制作。适用于01:45:16的版本。字幕仅供个人兴趣学习，不得商业化和付费。
 
 ------
 
