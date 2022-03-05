@@ -30,7 +30,7 @@ Rikugun Nakano Gakko Kumoichigo Shirei / The School of Spies 2 (1966) is a 1966 
 ------
 
 **中文字幕**: 尚无<br>
-**English Subtitle**: [Rikugun.Nakano.Gakko.Kumoichigo.Shirei.aka.The.School.of.Spies.2‎.1966.eng.01-20-39.BYjls001999.rev1.srt](../subtitles/Rikugun.Nakano.Gakko.Kumoichigo.Shirei.aka.The.School.of.Spies.2‎.1966.eng.01-20-39.BYjls001999.rev1.srt)
+**English Subtitle**: [Rikugun.Nakano.Gakko.Kumoichigo.Shirei.aka.The.School.of.Spies.2.1966.eng.01-20-39.BYjls001999.rev1.srt](../subtitles/Rikugun.Nakano.Gakko.Kumoichigo.Shirei.aka.The.School.of.Spies.2.1966.eng.01-20-39.BYjls001999.rev1.srt)
 
 <br><br>
 **Rikugun Nakano Gakko / The School of Spies 1 subtitle**: <https://subhd.tv/a/530832> (Take from the internet I can remove it if the sub creator complains)
