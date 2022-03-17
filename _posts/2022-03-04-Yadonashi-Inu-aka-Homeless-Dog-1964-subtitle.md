@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-03-04
-title: "宿無し犬 / Yadonashi Inu aka Homeless Dog Subtitle (English)"
-subtitle: "宿無し犬 / Yadonashi Inu aka Homeless Dog Subtitle (English)"
+title: "宿無し犬 / Yadonashi Inu aka Homeless Dog 1964 Subtitle (English)"
+subtitle: "宿無し犬 / Yadonashi Inu aka Homeless Dog 1964 Subtitle (English)"
 author: coralsundy
 movie_year: 1964
 category: subtitle

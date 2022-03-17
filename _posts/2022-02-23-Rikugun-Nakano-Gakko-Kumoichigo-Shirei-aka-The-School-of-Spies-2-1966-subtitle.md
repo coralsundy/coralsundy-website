@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-02-23
-title: "陆军中野学校·云一号指令 / 陸軍中野学校·雲一号指令 / Rikugun Nakano Gakko Kumoichigo Shirei aka The School of Spies 2 Subtitle (English)"
-subtitle: "陆军中野学校·云一号指令 / 陸軍中野学校·雲一号指令 / Rikugun Nakano Gakko Kumoichigo Shirei aka The School of Spies 2 Subtitle (English)"
+title: "陆军中野学校·云一号指令 / 陸軍中野学校·雲一号指令 / Rikugun Nakano Gakko Kumoichigo Shirei aka The School of Spies 2 1966 Subtitle (English)"
+subtitle: "陆军中野学校·云一号指令 / 陸軍中野学校·雲一号指令 / Rikugun Nakano Gakko Kumoichigo Shirei aka The School of Spies 2 1966 Subtitle (English)"
 author: coralsundy
 movie_year: 1966
 category: subtitle
