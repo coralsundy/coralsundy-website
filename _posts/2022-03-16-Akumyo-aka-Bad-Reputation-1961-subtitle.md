@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-03-16
-title: "悪名 / Akumyo aka Bad Reputation 1961 Subtitle (English)"
-subtitle: "悪名 / Akumyo aka Bad Reputation 1961 Subtitle (English)"
+title: "恶名 / 悪名 / Akumyo aka Bad Reputation 1961 Subtitle (English)"
+subtitle: "恶名 / 悪名 / Akumyo aka Bad Reputation 1961 Subtitle (English)"
 author: coralsundy
 movie_year: 1961
 category: subtitle
