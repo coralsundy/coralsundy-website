@@ -27,6 +27,8 @@ encoding: utf-8
 
 timezone: "America/Los_Angeles"
 
+future: true
+
 exclude:
 - _examples
 - _drafts
