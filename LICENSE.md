@@ -34,6 +34,9 @@ The Counter on website is using this API [https://countapi.xyz/](https://countap
 The Counter on GitHub is using this tool [https://hits.seeyoufarm.com/](https://hits.seeyoufarm.com/) from [gjbae1212](https://github.com/gjbae1212/).
 
 
+The RSS Feed template from [yyyc514](https://github.com/yyyc514) in this [post](http://runningblind.com/2018/12/22/jekyll-jekyll-feed-you-don-t-need-it/).
+
+
 Rest of the code are under MIT License.
 
 

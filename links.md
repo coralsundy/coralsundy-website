@@ -17,6 +17,8 @@ This page gathers all the links related to my projects and hobbies:
   * **SUBHD (Chinese Website)**: <https://subhd.tv/u/coralsundy>
   * **GitHub**: <https://github.com/coralsundy/coralsundy-website/tree/main/subtitles>
 
-#### My Home Page:
-  * <a href='/'>{{ site.url }}</a>
+#### My Website:
+  * **Home Page**: <a href='/'>{{ site.url }}</a>
+  * **RSS XML (Recent 30 Posts)**: <a href='/'>{{ site.url }}/feed.xml</a>
+  * **RSS JSON (Recent 30 Posts)**: <a href='/'>{{ site.url }}/feed.json</a>
 

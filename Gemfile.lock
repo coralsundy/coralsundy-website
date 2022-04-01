@@ -276,6 +276,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (= 3.9.0)
+  jekyll-feed
   jekyll-paginate
   jekyll-sitemap
   jemoji
