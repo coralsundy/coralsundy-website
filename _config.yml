@@ -14,6 +14,10 @@ footer_url_email: "mailto:coralsundy@gmail.com"
 footer_text_email: "Email"
 footer_url_license: "https://github.com/coralsundy/coralsundy-website/blob/main/LICENSE.md"
 footer_text_license: "License"
+footer_url_rss_xml: "/feed.xml"
+footer_text_rss_xml: "RSS(xml)"
+footer_url_rss_json: "/feed.json"
+footer_text_rss_json: "RSS(json)"
 
 #profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
@@ -42,6 +46,7 @@ navbar:
    link: "tags"
 
 plugins:
-- jemoji
-- jekyll-sitemap
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-feed
 
