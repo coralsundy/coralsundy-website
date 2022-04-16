@@ -1,6 +1,6 @@
 ---
 layout: subtitle
-date: 2022-04-16
+date: 2022-04-17
 title: "陆军中野学校·龙三号指令 / 陸軍中野学校·竜三号指令 / Rikugun Nakano Gakko Ryu Sango Shirei aka The School of Spies 3 1967 Subtitle (English)"
 subtitle: "陆军中野学校·龙三号指令 / 陸軍中野学校·竜三号指令 / Rikugun Nakano Gakko Ryu Sango Shirei aka The School of Spies 3 1967 Subtitle (English)"
 author: coralsundy
@@ -34,7 +34,7 @@ Rikugun Nakano Gakko Ryu Sango Shirei / The School of Spies 3 (1967) is a 1967 m
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/533607><br>
+**SUBHD**: <https://subhd.tv/a/533608><br>
 **IMDB**: <https://www.imdb.com/title/tt0329542/><br>
 **DOUBAN**: <https://movie.douban.com/subject/25952938/>
 
