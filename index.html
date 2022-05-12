@@ -32,11 +32,11 @@ layout: default
             {% assign postDateTemp = postYear -%}
 
             <h1 class="archive-year">{{ postYear }}</h1>
-        {%- if postYear != currYear -%}
-            <details>
-        {%- else -%}
-            <details open>
-        {%- endif -%}
+            {%- if postYear != currYear -%}
+                <details>
+            {%- else -%}
+                <details open>
+            {%- endif -%}
             <summary class="summary-item">Click to hide or show all the posts from year {{ postYear }}</summary>
 
         {%- endif -%}
