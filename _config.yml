@@ -29,6 +29,9 @@ sass:
 
 encoding: utf-8
 
+#github: [metadata]
+#export JEKYLL_GITHUB_TOKEN=<PAT> to remove the github auth metadata warning
+
 timezone: "America/Los_Angeles"
 
 future: true

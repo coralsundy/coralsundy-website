@@ -3,29 +3,46 @@ layout: default
 ---
 
 <div class="archive">
+
     <h1 class="archive-year">Pinned</h1>
-    {% for post in site.posts %} 
-        {% if post.pinned == true %}
+    <details open>
+    <summary class="summary-item">Click to hide or show all the pinned posts</summary>
+    {%- for post in site.posts -%} 
+        {%- if post.pinned == true -%}
             <div class="archive-item">
                 <span class="post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; </span>
                 <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
             </div>
-        {% endif %}
-    {% endfor %}
+        {%- endif -%}
+    {%- endfor -%}
+    </details>
 
-    {% for post in site.posts %} 
-        {% assign currDate = post.date | date: "%Y" %}
-        {% if post.private == true %}
-              {% continue %}
-        {% endif %}
+    {%- for post in site.posts -%} 
+        {% assign postYear = post.date | date: "%Y" -%}
+        {% assign currYear = 'now' | date: "%Y" -%}
+        {%- if post.private == true -%}
+              {%- continue -%}
+        {%- endif -%}
 
-        {% if currDate != date %}
-            <h1 class="archive-year">{{ currDate }}</h1>
-            {% assign date = currDate %}
-        {% endif %}
+        {%- if postYear != postDateTemp -%}
+            {%- if postDateTemp != nil -%}
+            </details>
+            {%- endif -%}
+
+            {% assign postDateTemp = postYear -%}
+
+            <h1 class="archive-year">{{ postYear }}</h1>
+        {%- if postYear != currYear -%}
+            <details>
+        {%- else -%}
+            <details open>
+        {%- endif -%}
+            <summary class="summary-item">Click to hide or show all the posts from year {{ postYear }}</summary>
+
+        {%- endif -%}
             <div class="archive-item">
                 <span class="post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; </span>
                 <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
             </div>
-    {% endfor %}
+    {%- endfor -%}
 </div>

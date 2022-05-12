@@ -307,3 +307,14 @@ table tr th :first-child, table tr td :first-child {
 table tr th :last-child, table tr td :last-child {
     margin: 0;
 }
+
+// More Users
+.summary-item {
+    color: gray;
+}
+.summary-item:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: black;
+
+}
