@@ -1,6 +1,6 @@
 ---
 layout: subtitle
-date: 2022-03-04
+date: 2022-05-11
 title: "喧嘩犬 / Kenka Inu aka Fighting Dog 1964 Subtitle (English)"
 subtitle: "喧嘩犬 / Kenka Inu aka Fighting Dog 1964 Subtitle (English)"
 author: coralsundy
