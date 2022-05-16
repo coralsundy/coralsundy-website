@@ -98,7 +98,7 @@ You'll do an x-ray later.
 
 24
 00:04:18,219 --> 00:04:19,188
-Mr.
+Arita
 
 25
 00:04:20,797 --> 00:04:22,750
@@ -130,7 +130,7 @@ But I still love my wife
 
 32
 00:04:47,547 --> 00:04:48,328
-Mr.
+Arita
 
 33
 00:04:53,469 --> 00:04:55,313
@@ -142,11 +142,11 @@ I see
 
 35
 00:04:58,438 --> 00:05:00,555
-
+Is it still working?
 
 36
 00:05:08,422 --> 00:05:12,383
-X-rays showed that Ms. Omiya's back pain was fine.
+X-rays showed that Omiya's back pain was fine.
 
 37
 00:05:13,094 --> 00:05:14,906
@@ -582,7 +582,7 @@ Please
 
 143
 00:12:29,375 --> 00:12:33,868
-The next day I and Mr. Omiya headed for a new mission
+The next day I and Omiya headed for a new mission
 
 144
 00:12:34,547 --> 00:12:37,203
@@ -590,7 +590,7 @@ We are leaving the hospital
 
 145
 00:13:33,180 --> 00:13:38,633
-420 units are about 1 km west
+422 units are about 1 km west
 
 146
 00:13:39,133 --> 00:13:41,383
@@ -1410,7 +1410,7 @@ Please!
 
 349
 00:29:29,693 --> 00:29:34,060
-Since then, Mr. Omiya has been given a special job.
+Since then, Omiya has been given a special job.
 
 350
 00:29:34,482 --> 00:29:38,068
@@ -1434,7 +1434,7 @@ I'm sorry, sir.
 
 355
 00:29:52,958 --> 00:29:55,568
-I'm the reincarnation of Mr. Omiya.
+I'm the reincarnation of Omiya.
 
 356
 00:29:56,161 --> 00:30:03,029
@@ -1869,7 +1869,7 @@ Let's take a bath together
 
 463
 00:36:24,380 --> 00:36:27,458
-Where did Mr. Yagi go?
+Where did Yagi go?
 
 464
 00:36:27,483 --> 00:36:30,021
@@ -2238,7 +2238,7 @@ Women are mysterious creatures
 
 555
 00:42:25,474 --> 00:42:27,724
-If Mr. Iwanami finds out, it will be very serious.
+If Iwanami finds out, it will be very serious.
 
 556
 00:42:29,654 --> 00:42:33,443
@@ -2546,7 +2546,7 @@ I said you are stupid
 
 632
 00:48:36,510 --> 00:48:39,205
-It's my choice to like Mr. Yagi.
+It's my choice to like Yagi.
 
 633
 00:48:40,854 --> 00:48:41,541
@@ -2940,7 +2940,7 @@ What the hell?
 
 730
 00:57:54,134 --> 00:57:58,641
-I'm here to get even with you, Mr. Arai.
+I'm here to get even with you, Arai.
 
 731
 00:57:59,695 --> 00:58:01,274
@@ -3297,7 +3297,7 @@ I was punished for seven days for insubordination to a Corporal.
 
 818
 01:08:05,046 --> 01:08:08,593
-Mr. Okada and Mr. Ishikawa were punished for 10 days because they escaped from prisoners of war.
+Okada and Ishikawa were punished for 10 days because they escaped from prisoners of war.
 
 819
 01:08:10,258 --> 01:08:11,742
@@ -3382,7 +3382,7 @@ I don't want to give up my precious life
 
 839
 01:09:19,344 --> 01:09:23,375
-Did you see Mr. Yagi's corpse?
+Did you see Yagi's corpse?
 
 840
 01:09:23,820 --> 01:09:25,445
@@ -3400,7 +3400,7 @@ Someone on our side killed him
 
 843
 01:09:38,851 --> 01:09:44,976
-You said earlier that Mr. Iwanami and Mr. Yagi had a fight over a female issue
+You said earlier that Iwanami and Yagi had a fight over a female issue
 
 844
 01:09:46,523 --> 01:09:50,531
@@ -3412,11 +3412,11 @@ Iwanami leader?
 
 846
 01:09:54,469 --> 01:09:56,031
-He may have killed Mr. Yagi
+He may have killed Yagi
 
 847
 01:09:58,804 --> 01:10:03,250
-He may have killed Mr. Yagi
+He may have killed Yagi
 
 848
 01:10:04,258 --> 01:10:06,062
@@ -3428,7 +3428,7 @@ You can see who killed by looking at the ammunition
 
 850
 01:10:10,914 --> 01:10:15,492
-Can I get Mr. Iwanami's pistol?
+Can I get Iwanami's pistol?
 
 851
 01:10:18,101 --> 01:10:19,179
@@ -3833,7 +3833,7 @@ Leader, Kyoko is here
 949
 01:18:41,397 --> 01:18:43,077
 I see.
-So you are upset
+So you are happy
 
 950
 01:18:43,530 --> 01:18:46,952
@@ -4198,7 +4198,7 @@ Look at this
 
 1039
 01:24:44,529 --> 01:24:49,193
-The bullet from this pistol is the one that pierced Mr. Yagi's back through his heart.
+The bullet from this pistol is the one that pierced Yagi's back through his heart.
 
 1040
 01:24:50,193 --> 01:24:53,286
@@ -4283,7 +4283,7 @@ I'll beat him
 
 1060
 01:27:06,732 --> 01:27:08,763
-I'm going to avenge Mr. Yagi.
+I'm going to avenge Yagi.
 
 1061
 01:27:10,700 --> 01:27:11,755
@@ -4303,7 +4303,7 @@ I will have you tried by court-martial.
 
 1065
 01:27:31,419 --> 01:27:33,263
-We are going back
+We are getting away
 
 1066
 01:27:46,794 --> 01:27:48,052
