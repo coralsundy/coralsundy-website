@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1980s]
 
 ------
 
-Yabanjin no Youni / Like A Barbarian / Like A Savage (1985) is a 1985 movie directed and written by Toru Kawashima, with notable stars Hiroko Yakushimaru and Kyohei Shibata. 
+Yabanjin no Youni / Like A Barbarian / Like A Savage (1985) is a 1985 movie directed and written by Toru Kawashima, with notable stars Hiroko Yakushimaru and Kyohei Shibata.
 
 ------
 
