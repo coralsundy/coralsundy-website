@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1980s]
 
 ------
 
-像野蛮人一样 / 野蛮人のように (Yabanjin no Youni / Like A Barbarian) 是川岛透于1985年自编自导(貌似这原本是导演自己写的小说)，药师丸博子/柴田恭兵主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:47:49的版本。
+像野蛮人一样 / 野蛮人のように (Yabanjin no Youni / Like A Barbarian / Like A Savage) 是川岛透于1985年自编自导，加藤和彦配乐，药师丸博子/柴田恭兵主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:47:49的版本。
 
 ------
 
