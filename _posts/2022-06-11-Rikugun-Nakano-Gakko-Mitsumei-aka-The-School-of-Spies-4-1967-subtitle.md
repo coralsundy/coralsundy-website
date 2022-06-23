@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-06-11
-title: "陆军中野学校密命 / 陸軍中野学校密命 / Rikugun Nakano Gakko Mitsumei aka The School of Spies 4 1967 Subtitle (English)"
-subtitle: "陆军中野学校密命 / 陸軍中野学校密命 / Rikugun Nakano Gakko Mitsumei aka The School of Spies 4 1967 Subtitle (English)"
+title: "陆军中野学校·密命 / 陸軍中野学校·密命 / Rikugun Nakano Gakko Mitsumei aka The School of Spies 4 1967 Subtitle (English)"
+subtitle: "陆军中野学校·密命 / 陸軍中野学校·密命 / Rikugun Nakano Gakko Mitsumei aka The School of Spies 4 1967 Subtitle (English)"
 author: coralsundy
 movie_year: 1967
 category: subtitle
@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1959s]
 
 ------
 
-陆军中野学校密命 / 陸軍中野学校密命 (Rikugun Nakano Gakko Mitsumei / The School of Spies 4) 是井上昭于1967年导演，市川雷藏/加东大介主演的电影。是系列的第4部作品。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:27:14的版本。
+陆军中野学校·密命 / 陸軍中野学校·密命 (Rikugun Nakano Gakko Mitsumei / The School of Spies 4) 是井上昭于1967年导演，市川雷藏/加东大介主演的电影。是系列的第4部作品。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:27:14的版本。
 
 ------
 
