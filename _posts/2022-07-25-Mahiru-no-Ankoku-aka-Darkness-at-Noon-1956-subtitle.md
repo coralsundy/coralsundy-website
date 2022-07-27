@@ -1,6 +1,6 @@
 ---
 layout: subtitle
-date: 2022-07-03
+date: 2022-07-25
 title:  正午的黑暗 / 真昼の暗黒 / Mahiru no Ankoku aka Darkness at Noon 1956 Subtitle (Chinese)
 subtitle:  正午的黑暗 / 真昼の暗黒 / Mahiru no Ankoku aka Darkness at Noon 1956 Subtitle (Chinese)
 author: coralsundy
