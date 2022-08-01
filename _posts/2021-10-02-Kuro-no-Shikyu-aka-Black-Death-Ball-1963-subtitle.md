@@ -11,7 +11,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-<img src="../assets/kuro.no.shikyu.jpg" alt="kuro.no.shikyu_cover_art" />
+<img src="../assets/kuro.no.shikyu.jpg" alt="kuro.no.shikyu.cover.art" />
 
 ------
 

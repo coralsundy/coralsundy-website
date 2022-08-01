@@ -6,7 +6,7 @@ subtitle: "陆军中野学校·密命 / 陸軍中野学校·密命 / Rikugun Nak
 author: coralsundy
 movie_year: 1967
 category: subtitle
-tags: [subtitle, movie, jap_movie, eng_subtitle, 1959s]
+tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 ---
 
 ------
