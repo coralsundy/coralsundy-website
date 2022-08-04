@@ -6,7 +6,7 @@ subtitle: "陆军中野学校·龙三号指令 / 陸軍中野学校·竜三号�
 author: coralsundy
 movie_year: 1967
 category: subtitle
-tags: [subtitle, movie, jap_movie, eng_subtitle, 1959s]
+tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 ---
 
 ------
