@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-08-17
-title:  暴风圈 / 暴風圏 / Bofuken 1959 Subtitle (Chinese)
-subtitle:  暴风圈 / 暴風圏 / Bofuken 1959 Subtitle (Chinese)
+title:  暴风圈 / 暴風圏 / Bofuken aka A Storm Zone 1959 Subtitle (Chinese)
+subtitle:  暴风圈 / 暴風圏 / Bofuken aka A Storm Zone 1959 Subtitle (Chinese)
 author: coralsundy
 movie_year: 1959
 category: subtitle
@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1950s]
 
 ------
 
-暴风圈 / 暴風圏 (Bofuken) 是1959年渡辺邦男监督，渡辺邦男/松浦健郎合作剧本，山田荣一音乐，叶順子主演的电影。中文字幕由coralsundy自费出资，neola09听译制作。适用于01:38:23的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
+暴风圈 / 暴風圏 (Bofuken / A Storm Zone) 是1959年渡辺邦男监督，渡辺邦男/松浦健郎合作剧本，山田荣一音乐，叶順子主演的电影。中文字幕由coralsundy自费出资，neola09听译制作。适用于01:38:23的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
 
 ------
 
@@ -29,7 +29,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1950s]
 
 ------
 
-**中文字幕**: [Bofuken.1959.chs.01-38-23.BYnoela09.rev1.srt](../subtitles/Bofuken.1959.chs.01-38-23.BYnoela09.rev1.srt)<br>
+**中文字幕**: [Bofuken.aka.A.Storm.Zone.1959.chs.01-38-23.BYnoela09.rev1.srt](../subtitles/Bofuken.aka.A.Storm.Zone.1959.chs.01-38-23.BYnoela09.rev1.srt)<br>
 **English Subtitle**: None
 
 ------
