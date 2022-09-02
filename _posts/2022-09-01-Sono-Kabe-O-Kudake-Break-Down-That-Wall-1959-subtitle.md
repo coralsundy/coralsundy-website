@@ -29,7 +29,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1950s]
 
 ------
 
-**中文字幕**: [Sono.Kabe.O.Kudake.aka.Break.Down.That.Wall.1959.chs.01-39-50.BYnoela09.rev1](../subtitles/Sono.Kabe.O.Kudake.aka.Break.Down.That.Wall.1959.chs.01-39-50.BYnoela09.rev1)<br>
+**中文字幕**: [Sono.Kabe.O.Kudake.aka.Break.Down.That.Wall.1959.chs.01-39-50.BYnoela09.rev1.srt](../subtitles/Sono.Kabe.O.Kudake.aka.Break.Down.That.Wall.1959.chs.01-39-50.BYnoela09.rev1.srt)<br>
 **English Subtitle**: None
 
 ------
