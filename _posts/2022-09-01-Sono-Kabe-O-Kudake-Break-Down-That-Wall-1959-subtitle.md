@@ -34,7 +34,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1950s]
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/539366><br>
+**SUBHD**: <https://subhd.tv/a/539956><br>
 **IMDB**: <https://www.imdb.com/title/tt0053296/><br>
 **DOUBAN**: <https://movie.douban.com/subject/26687288/>
 
