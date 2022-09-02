@@ -29,7 +29,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1970s]
 
 ------
 
-**中文字幕**: [Showa.Karesusuki.aka.The.Perennial.Weed.1975.chs.BYnoela09.rev1.srt](../subtitles/Showa.Karesusuki.aka.The.Perennial.Weed.1975.chs.BYnoela09.rev1.srt)<br>
+**中文字幕**: [Showa.Karesusuki.aka.The.Perennial.Weed.1975.chs.01-27-25.BYnoela09.rev1.srt](../subtitles/Showa.Karesusuki.aka.The.Perennial.Weed.1975.chs.01-27-25.BYnoela09.rev1.srt)<br>
 **English Subtitle**: None
 
 ------
