@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-09-15
-title: "在那座桥的岸边·第二部 / あの橋の畔で·第二部 / Ano Hashi no Hotori de aka At the Side of the Bridge 1962 Subtitle (English)"
-subtitle: "在那座桥的岸边·第二部 / あの橋の畔で·第二部 / Ano Hashi no Hotori de aka At the Side of the Bridge 1962 Subtitle (English)"
+title: "在那座桥的岸边·第二部 / あの橋の畔で·第二部 / Ano Hashi no Hotori de 2 aka At the Side of the Bridge 2 1962 Subtitle (English)"
+subtitle: "在那座桥的岸边·第二部 / あの橋の畔で·第二部 / Ano Hashi no Hotori de 2 aka At the Side of the Bridge 2 1962 Subtitle (English)"
 author: coralsundy
 movie_year: 1962
 category: subtitle
