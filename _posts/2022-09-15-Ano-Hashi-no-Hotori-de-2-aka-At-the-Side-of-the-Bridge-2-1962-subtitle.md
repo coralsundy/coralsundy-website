@@ -24,7 +24,7 @@ Ano Hashi no Hotori de 2 / At the Side of the Bridge 2 (1962) is a 1962 movie di
 
 ------
 
-**Translation/Subtitle**: Translator requests anonymity<br>
+**Translation/Subtitle**: jls001999 (jls001999@gmail.com)<br>
 **Review/Proofreading**: coralsundy (coralsundy@gmail.com)<br>
 *(Paid by coralsundy for the translation, personal use only)*
 
