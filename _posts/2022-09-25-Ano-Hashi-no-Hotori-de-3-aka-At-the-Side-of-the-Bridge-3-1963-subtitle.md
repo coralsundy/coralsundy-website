@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-09-25
-title: "在那座桥的岸边·第三部 / あの橋の畔で·第三部 / Ano Hashi no Hotori de 3 aka At the Side of the Bridge 3 1962 Subtitle (English)"
-subtitle: "在那座桥的岸边·第三部 / あの橋の畔で·第三部 / Ano Hashi no Hotori de 3 aka At the Side of the Bridge 3 1962 Subtitle (English)"
+title: "在那座桥的岸边·第三部 / あの橋の畔で·第三部 / Ano Hashi no Hotori de 3 aka At the Side of the Bridge 3 1963 Subtitle (English)"
+subtitle: "在那座桥的岸边·第三部 / あの橋の畔で·第三部 / Ano Hashi no Hotori de 3 aka At the Side of the Bridge 3 1963 Subtitle (English)"
 author: coralsundy
 movie_year: 1963
 category: subtitle
