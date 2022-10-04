@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-03-07
-title: 暴力の街 / Boryoku no Machi aka Street of Violence 1950 Subtitle (Chinese)
-subtitle: 暴力の街 / Boryoku no Machi aka Street of Violence 1950 Subtitle (Chinese)
+title: 暴力之街 / 暴力的街 / 暴力の街 / Boryoku no Machi aka Street of Violence 1950 Subtitle (Chinese)
+subtitle: 暴力之街 / 暴力的街 / 暴力の街 / Boryoku no Machi aka Street of Violence 1950 Subtitle (Chinese)
 author: coralsundy
 movie_year: 1950
 category: subtitle
@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1950s]
 
 ------
 
-暴力の街 (Boryoku no Machi) 是山本萨夫于1950年执导，池部良/河野秋武/伊豆肇/三条美纪主演的电影。中文字幕由coralsundy自费出资，neola09听译制作。适用于01:50:56的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
+暴力之街 / 暴力的街 / 暴力の街 (Boryoku no Machi / Street Of Violence) 是山本萨夫于1950年执导，池部良/河野秋武/伊豆肇/三条美纪主演的电影。中文字幕由coralsundy自费出资，neola09听译制作。适用于01:50:56的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
 
 ------
 
