@@ -30,7 +30,7 @@ Ano Hashi no Hotori de / At the Side of the Bridge (1962) is a 1962 movie direct
 ------
 
 **中文字幕**: 尚无<br>
-**English Subtitle**: [Ano.Hashi.no.Hotori.de.aka.At.the.Side.of.the.Bridge.1962.eng.BYcoralsundy.rev1.srt](../subtitles/Ano.Hashi.no.Hotori.de.aka.At.the.Side.of.the.Bridge.1962.eng.BYcoralsundy.rev1.srt)
+**English Subtitle**: [Ano.Hashi.no.Hotori.de.aka.At.the.Side.of.the.Bridge.1962.eng.01-32-08.BYcoralsundy.rev1.srt](../subtitles/Ano.Hashi.no.Hotori.de.aka.At.the.Side.of.the.Bridge.1962.eng.01-32-08.BYcoralsundy.rev1.srt)
 
 ------
 
