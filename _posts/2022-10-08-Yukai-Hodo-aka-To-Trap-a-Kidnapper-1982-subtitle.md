@@ -23,8 +23,8 @@ Yukai Hodo / To Trap a Kidnapper (1982) is a 1982 movie directed by Shunya Ito, 
 
 ------
 
-**字幕/校对:** coralsundy (coralsundy@gmail.com)<br>
-**审核/调整:** coralsundy (coralsundy@gmail.com)<br>
+**字幕/校对**: coralsundy (coralsundy@gmail.com)<br>
+**审核/调整**: coralsundy (coralsundy@gmail.com)<br>
 *(中字由coralsundy根据英字翻译，日字校对，仅供学习)*
 
 ------
