@@ -1,12 +1,12 @@
 ---
 layout: subtitle
 date: 2022-10-08
-title:  诱拐报道 / 誘拐報道 / Yukai Hodo aka To Trap a Kidnapper 1982 Subtitle (Chinese)
-subtitle:  诱拐报道 / 誘拐報道 / Yukai Hodo aka To Trap a Kidnapper 1982 Subtitle (Chinese)
+title:  诱拐报道 / 誘拐報道 / Yukai Hodo aka To Trap a Kidnapper 1982 Subtitle (Chinese/English)
+subtitle:  诱拐报道 / 誘拐報道 / Yukai Hodo aka To Trap a Kidnapper 1982 Subtitle (Chinese/English)
 author: coralsundy
 movie_year: 1982
 category: subtitle
-tags: [subtitle, movie, jap_movie, chs_subtitle, 1980s]
+tags: [subtitle, movie, jap_movie, chs_subtitle, eng_subtitle, 1980s]
 ---
 
 ------
