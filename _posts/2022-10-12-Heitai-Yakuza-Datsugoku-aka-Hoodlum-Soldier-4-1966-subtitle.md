@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-10-12
-title: "军中黑道·越狱 / 兵隊やくざ·脱獄 / Heitai Yakuza Datsugoku / Hoodlum Soldier's Escape aka Hoodlum Soldier 3 1966 Subtitle (English)"
-subtitle: "军中黑道·越狱 / 兵隊やくざ·脱獄 / Heitai Yakuza Datsugoku / Hoodlum Soldier's Escape aka Hoodlum Soldier 3 1966 Subtitle (English)"
+title: "军中黑道·越狱 / 兵隊やくざ·脱獄 / Heitai Yakuza Datsugoku / Hoodlum Soldier's Escape aka Hoodlum Soldier 4 1966 Subtitle (English)"
+subtitle: "军中黑道·越狱 / 兵隊やくざ·脱獄 / Heitai Yakuza Datsugoku / Hoodlum Soldier's Escape aka Hoodlum Soldier 4 1966 Subtitle (English)"
 author: coralsundy
 movie_year: 1966
 category: subtitle
