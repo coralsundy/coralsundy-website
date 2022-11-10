@@ -21,6 +21,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 Fusoku Nanaju-go Metoru aka Typhoon Reporter (1963) is a 1963 movie directed by Shigeo Tanaka, with notable stars Ken Utsui, Jiro Tamiya, Junko Kano. This is Junko Kano's last movie of her career.
 <br>
+<br>
 **Based on Wikipedia**:
 <br>
 *"According to Hidemasa Nagata, the director of photography, color photography at that time required 600 to 800 watts of lighting when taking close-ups of the face, and after a series of these types of shots, the edges of her eyes became abnormal, and the medical office determined that she would go blind if the lighting continued, leading to her retirement."*
