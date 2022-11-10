@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-Fusoku Nanaju-go Metoru aka Typhoon Reporter (1963) is a 1963 movie directed by Shigeo Tanaka, with notable stars Ken Utsui, Jiro Tamiya, Junko Kano. This is Junko Kano's last movie of her career.
+Fusoku Nanaju-go Metoru aka Typhoon Reporter (1963) is a 1963 movie directed by Shigeo Tanaka, with notable stars Ken Utsui, Jiro Tamiya, Junko Kano. This is Junko Kano's last movie.
 <br>
 <br>
 **Based on Wikipedia**:
