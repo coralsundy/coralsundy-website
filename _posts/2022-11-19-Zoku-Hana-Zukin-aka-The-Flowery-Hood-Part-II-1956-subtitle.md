@@ -29,7 +29,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1950s]
 
 ------
 
-**中文字幕**: [Zoku.Hana.Zukin.aka.The.Flowery.Hood.Part.II.1956.chs.01-18-35.BYnoela09.rev1.srt](Zoku.Hana.Zukin.aka.The.Flowery.Hood.Part.II.1956.chs.01-18-35.BYnoela09.rev1.srt)<br>
+**中文字幕**: [Zoku.Hana.Zukin.aka.The.Flowery.Hood.Part.II.1956.chs.01-18-35.BYnoela09.rev1.srt](../subtitles/Zoku.Hana.Zukin.aka.The.Flowery.Hood.Part.II.1956.chs.01-18-35.BYnoela09.rev1.srt)<br>
 **English Subtitle**: None
 
 ------
