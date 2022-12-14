@@ -1,6 +1,6 @@
 ---
 layout: subtitle
-date: 2022-12-10
+date: 2022-12-13
 title: "军中黑道·让我来 / 兵隊やくざ 俺にまかせろ / Heitai Yakuza Ore Ni Makasero aka Hoodlum Soldier 6 1967 Subtitle (English)"
 subtitle: "军中黑道·让我来 / 兵隊やくざ 俺にまかせろ / Heitai Yakuza Ore Ni Makasero aka Hoodlum Soldier 6 1967 Subtitle (English)"
 author: coralsundy
