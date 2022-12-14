@@ -34,7 +34,7 @@ Heitai Yakuza Ore Ni Makasero aka Hoodlum Soldier 6 (1967) is a 1967 movie direc
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/><br>
+**SUBHD**: <https://subhd.tv/a/544470><br>
 **IMDB**: <https://www.imdb.com/title/tt0228378/><br>
 **DOUBAN**: <https://movie.douban.com/subject/20463172/>
 
