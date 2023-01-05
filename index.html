@@ -32,7 +32,7 @@ layout: default
             {% assign postDateTemp = postYear -%}
 
             <h1 class="archive-year">{{ postYear }}</h1>
-            {%- if postYear != currYear -%}
+            {%- if postYear == '2018' or postYear == '2020' -%}
                 <details>
             {%- else -%}
                 <details open>
