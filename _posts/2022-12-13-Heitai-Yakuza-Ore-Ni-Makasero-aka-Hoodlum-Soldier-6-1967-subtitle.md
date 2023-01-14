@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2022-12-13
-title: "军中黑道·让我来 / 兵隊やくざ 俺にまかせろ / Heitai Yakuza Ore Ni Makasero aka Hoodlum Soldier 6 1967 Subtitle (English)"
-subtitle: "军中黑道·让我来 / 兵隊やくざ 俺にまかせろ / Heitai Yakuza Ore Ni Makasero aka Hoodlum Soldier 6 1967 Subtitle (English)"
+title: "军中黑道·让我来 / 兵隊やくざ·俺にまかせろ / Heitai Yakuza Ore Ni Makasero aka Hoodlum Soldier 6 1967 Subtitle (English)"
+subtitle: "军中黑道·让我来 / 兵隊やくざ·俺にまかせろ / Heitai Yakuza Ore Ni Makasero aka Hoodlum Soldier 6 1967 Subtitle (English)"
 author: coralsundy
 movie_year: 1967
 category: subtitle
@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-军中黑道让我来 / 兵隊やくざ 俺にまかせろ (Heitai Yakuza Ore Ni Makasero / Hoodlum Soldier 6) 是田中德三于1967年导演，胜新太郎/田村高广主演的电影。是系列的第6部作品。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:28:54的版本。
+军中黑道·让我来 / 兵隊やくざ·俺にまかせろ (Heitai Yakuza Ore Ni Makasero / Hoodlum Soldier 6) 是田中德三于1967年导演，胜新太郎/田村高广主演的电影。是系列的第6部作品。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:28:54的版本。
 
 ------
 
