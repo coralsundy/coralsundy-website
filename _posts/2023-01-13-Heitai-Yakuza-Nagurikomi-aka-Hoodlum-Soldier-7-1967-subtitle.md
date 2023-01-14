@@ -11,7 +11,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-<img src="../assets/tt0228378.jpg" alt="tt0228378_cover_art" />
+<img src="../assets/tt0187872.jpg" alt="tt0187872_cover_art" />
 
 ------
 
@@ -35,7 +35,7 @@ Heitai Yakuza Nagurikomi aka Hoodlum Soldier 7 (1967) is a 1967 movie directed b
 ------
 
 **SUBHD**: <https://subhd.tv/a/545536><br>
-**IMDB**: <https://www.imdb.com/title/tt0228378/><br>
+**IMDB**: <https://www.imdb.com/title/tt0187872/><br>
 **DOUBAN**: <https://movie.douban.com/subject/20463173/>
 
 ------
