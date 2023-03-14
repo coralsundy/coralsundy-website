@@ -30,7 +30,7 @@ Sono Yo Wa Wasurenai / A Night to Remember (1962) is a 1962 movie directed by Ko
 ------
 
 **中文字幕**: 尚无<br>
-**English Subtitle**: [Sono.Yo.Wa.Wasurenai.aka.A.Night.to.Remember.1962.eng.01-35-44.BYjls001999.rev1.srt](../subtitles/Sono.Yo.Wa.Wasurenai.aka.A.Night.to.Remember.1962.eng.01-35-44.BYjls001999.rev1.srt)
+**English Subtitle**: <br> [Sono.Yo.Wa.Wasurenai.aka.A.Night.to.Remember.1962.eng.01-35-44.BYjls001999.rev1.srt](../subtitles/Sono.Yo.Wa.Wasurenai.aka.A.Night.to.Remember.1962.eng.01-35-44.BYjls001999.rev1.srt)
 
 ------
 
