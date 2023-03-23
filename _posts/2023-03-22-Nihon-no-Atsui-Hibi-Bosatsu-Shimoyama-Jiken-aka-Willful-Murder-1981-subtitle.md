@@ -42,4 +42,3 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1980s]
 
 **More Movie Subtitles on My Website**: <a href='{% post_url 2021-01-10-subtitles-summary-list %}'>CLICK HERE</a>
 
-
