@@ -1,12 +1,12 @@
 ---
 layout: subtitle
 date: 2023-04-25
-title:  积木之箱 / 積木の箱 / Tsumiki no Hako aka The House of Wooden Blocks 1968 Subtitle (Chinese)
-subtitle:  积木之箱 / 積木の箱 / Tsumiki no Hako aka The House of Wooden Blocks 1968 Subtitle (Chinese)
+title:  积木之箱 / 積木の箱 / Tsumiki no Hako aka The House of Wooden Blocks 1968 Subtitle (English)
+subtitle:  积木之箱 / 積木の箱 / Tsumiki no Hako aka The House of Wooden Blocks 1968 Subtitle (English)
 author: coralsundy
 movie_year: 1968
 category: subtitle
-tags: [subtitle, movie, jap_movie, chs_subtitle, 1960s]
+tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 ---
 
 ------
