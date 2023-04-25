@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2023-03-29
-title: "手討 aka Teuchi 1962 Subtitle (English)"
-subtitle: "手討 aka Teuchi 1962 Subtitle (English)"
+title: "手討 aka Teuchi 1963 Subtitle (English)"
+subtitle: "手討 aka Teuchi 1963 Subtitle (English)"
 author: coralsundy
 movie_year: 1963
 category: subtitle
