@@ -27,7 +27,7 @@ As well as the original License file of [Nowaker](https://gitlab.com/Nowaker/now
 The Simple Jekyll Search JS script is from [christian-fei](https://github.com/christian-fei/).
 
 
-The Counter on website is using this API [https://countapi.xyz/](https://countapi.xyz/) from [mlomb](https://github.com/mlomb/).
+The Counter on website initially uses this API [https://countapi.xyz/](https://countapi.xyz/) from [mlomb](https://github.com/mlomb/), and later changed to the websiteout counter [https://www.websiteout.net/counter.php](https://www.websiteout.net/counter.php).
 
 
 The Counter on GitHub is using this tool [https://hits.seeyoufarm.com/](https://hits.seeyoufarm.com/) from [gjbae1212](https://github.com/gjbae1212/).
