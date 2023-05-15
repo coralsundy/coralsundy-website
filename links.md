@@ -8,7 +8,7 @@ title: Links
 This page gathers all the links related to my projects and hobbies:
 
 #### Strike In Narrow Path (SINP): A _\<Commandos: Behind Enemy Lines\>_ Mod / Expansion Pack:
-  * **Official Website**: <https://sites.google.com/site/strikeinnarrowpath/>
+  * **Official Website**: <https://strikeinnarrowpath.com/>
   * **MODDB Page**: <https://www.moddb.com/mods/commandos-strike-in-narrow-path>
   * **Wiki Page**: <https://commandos.fandom.com/wiki/Commandos:_Strike_In_Narrow_Path>
 
