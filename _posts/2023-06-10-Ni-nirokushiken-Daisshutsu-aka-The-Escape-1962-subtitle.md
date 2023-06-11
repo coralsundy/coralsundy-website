@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1960s]
 
 ------
 
-二·二六事件脱出 (Ni-nirokushiken Daisshutsu / The Escape) 是1962年小林恒夫监督，小坂庆助原作，高岩肇剧本，木下忠司音乐，高仓健 / 三国连太郎 / 千叶真一主演的电影。中文字幕由coralsundy自费出资，neola09听译制作。适用于01:36:31的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
+二·二六事件 脱出 (Ni-nirokushiken Daisshutsu / The Escape) 是1962年小林恒夫监督，小坂庆助原作，高岩肇剧本，木下忠司音乐，高仓健 / 三国连太郎 / 千叶真一主演的电影。中文字幕由coralsundy自费出资，neola09听译制作。适用于01:36:31的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
 
 
 ------
