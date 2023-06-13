@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2023-06-10
-title:  二·二六事件 脱出 / Ni-nirokushiken Daisshutsu aka The Escape  1962 Subtitle (Chinese)
-subtitle:  二·二六事件 脱出 / Ni-nirokushiken Daisshutsu aka The Escape  1962 Subtitle (Chinese)
+title:  二·二六事件 脱出 / Ni-nirokushiken Daisshutsu aka The Escape 1962 Subtitle (Chinese)
+subtitle:  二·二六事件 脱出 / Ni-nirokushiken Daisshutsu aka The Escape 1962 Subtitle (Chinese)
 author: coralsundy
 movie_year: 1962
 category: subtitle
