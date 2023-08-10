@@ -1,6 +1,6 @@
 ---
 layout: subtitle
-date: 2023-07-17
+date: 2023-08-10
 title:  昨天消失的男人 / 昨日消えた男 / Kino Kieta Otoko aka The Man Who Disappeared Yesterday 1964 Subtitle (English)
 subtitle:  昨天消失的男人 / 昨日消えた男 / Kino Kieta Otoko aka The Man Who Disappeared Yesterday 1964 Subtitle (English)
 author: coralsundy
