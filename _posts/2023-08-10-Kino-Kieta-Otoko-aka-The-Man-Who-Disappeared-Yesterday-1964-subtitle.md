@@ -34,7 +34,7 @@ Kino Kieta Otoko / The Man Who Disappeared Yesterday (1964) is a 1964 movie dire
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/><br>
+**SUBHD**: <https://subhd.tv/a/553427><br>
 **IMDB**: <https://www.imdb.com/title/tt1071935/><br>
 **DOUBAN**: <https://movie.douban.com/subject/26692522/>
 
