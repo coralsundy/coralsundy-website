@@ -1,6 +1,6 @@
 ---
 layout: subtitle
-date: 2023-08-19
+date: 2023-08-25
 title:  逃离零能见度 / 視界ゼロの脱出 / Shikai Zero no Dasshutsu aka Zero Escape Visibility 1963 Subtitle (English)
 subtitle:  逃离零能见度 / 視界ゼロの脱出 / Shikai Zero no Dasshutsu aka Zero Escape Visibility 1963 Subtitle (English)
 author: coralsundy
@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-逃离零能见度 / 視界ゼロの脱出 (Shikai Zero no Dasshutsu / Zero Escape Visibility) 是村野铁太郎于1963年导演，安藤日出男脚本，山内正音乐，本乡功次郎 / 三条魔子 / 高松英郎主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:23:19的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
+逃离零能见度 / 視界ゼロの脱出 (Shikai Zero no Dasshutsu / Zero Escape Visibility) 是村野铁太郎于1963年导演，安藤日出男脚本，山内正音乐，本乡功次郎 / 三条魔子 / 高松英郎主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:20:34的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
 
 ------
 
@@ -34,7 +34,7 @@ Shikai Zero no Dasshutsu / Zero Escape Visibility (1963) is a 1963 movie directe
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/><br>
+**SUBHD**: <https://subhd.tv/a/554096><br>
 **IMDB**: <https://www.imdb.com/title/tt10029082/><br>
 **DOUBAN**: <https://movie.douban.com/subject/36522366/>
 
