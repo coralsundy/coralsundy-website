@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1970s]
 
 ------
 
-Domyaku Retto / Dynamic Islands (1975) is a 1975 movie directed by Yasuzo Masumura, with notable stars Jiro Tamiya, Masaomi Kondo, Keiko Takahashi(Keiko Sekine), Meiko Kaji, So Yamamura, Eitaro Ozawa, and Isao Hashimoto. This movie, alongside *The Bullet Train*, are twin films in 1975 that both with the premise around **Shinkansen**, which literally translated as the **Bullet Train**.
+Domyaku Retto / Dynamic Islands (1975) is a 1975 movie directed by Yasuzo Masumura, with notable stars Jiro Tamiya, Masaomi Kondo, Keiko Takahashi(Keiko Sekine), Meiko Kaji, So Yamamura, Eitaro Ozawa, and Isao Hashimoto. This movie, alongside **The Bullet Train**, are twin films in 1975 that both with the premise around *Shinkansen*, which literally translated as the *Bullet Train*.
 
 ------
 
