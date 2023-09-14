@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-宿無し犬 (Yadonashi Inu / Homeless Dog) 是田中德三于1964年导演，田宫二郎主演的电影。是<犬>系列的第1部作品。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:31:26的版本。
+宿無し犬 (Yadonashi Inu / Homeless Dog) 是田中德三于1964年导演，田宫二郎主演的电影。是《犬》系列的第1部作品。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:31:26的版本。
 
 ------
 
