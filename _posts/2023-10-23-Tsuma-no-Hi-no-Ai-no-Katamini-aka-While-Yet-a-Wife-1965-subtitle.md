@@ -38,8 +38,6 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1960s]
 
 </details>
 
-<br>
-<br>
 ------
 
 **No English Subtitle**
