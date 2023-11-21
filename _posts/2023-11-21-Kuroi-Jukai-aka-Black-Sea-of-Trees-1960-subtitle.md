@@ -1,6 +1,6 @@
 ---
 layout: subtitle
-date: 2023-10-26
+date: 2023-11-26
 title:  黑色树海 / 黒い樹海 / 昨日消えた男 / Kuroi Jukai aka Black Sea of Trees 1960 Subtitle (English)
 subtitle:  黑色树海 / 黒い樹海 / 昨日消えた男 / Kuroi Jukai aka Black Sea of Trees 1960 Subtitle (English)
 author: coralsundy
@@ -34,7 +34,7 @@ Kuroi Jukai / Black Sea of Trees (1960) is a 1960 movie directed by Harada Haruo
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/><br>
+**SUBHD**: <https://subhd.tv/a/558312><br>
 **IMDB**: None<br>
 **DOUBAN**: <https://movie.douban.com/subject/26691487/>
 
