@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2023-11-26
-title:  黑色树海 / 黒い樹海 / 昨日消えた男 / Kuroi Jukai aka Black Sea of Trees 1960 Subtitle (English)
-subtitle:  黑色树海 / 黒い樹海 / 昨日消えた男 / Kuroi Jukai aka Black Sea of Trees 1960 Subtitle (English)
+title:  黑色树海 / 黒い樹海 / Kuroi Jukai aka Black Sea of Trees 1960 Subtitle (English)
+subtitle:  黑色树海 / 黒い樹海 / Kuroi Jukai aka Black Sea of Trees 1960 Subtitle (English)
 author: coralsundy
 movie_year: 1960
 category: subtitle
