@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-黑色停车场 / 黒の駐車場 (Kuro no Chushajo / Black Parking Lot / Lips of Ruin) 是弓削太郎于1963年导演，星川清司 / 石松爱弘共同脚本，池野成音乐，田宮二郎/藤由纪子主演的电影。大映《黑色系列》的第6作。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:24:32的版本。
+黑色停车场 / 黒の駐車場 (Kuro no Chushajo / Black Parking Lot / Lips of Ruin) 是弓削太郎于1963年导演，星川清司 / 石松爱弘共同脚本，池野成音乐，田宮二郎 / 藤由纪子主演的电影。大映《黑色系列》的第6作。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:24:32的版本。
 
 ------
 
