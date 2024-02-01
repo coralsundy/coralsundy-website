@@ -15,11 +15,11 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1950s]
 
 ------
 
-暴雨 / 土砂降り (Doshaburi / When It Rains, It Pours) 是中村登于1957年导演，北条秀司原作，椎名利夫 / 中村登共同脚本，武满彻音乐，泽村贞子 / 冈田茉莉子 / 田浦正巳 / 桑野美雪 / 山村聪主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:44:52的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
+暴雨 / 土砂降り (Doshaburi / When It Rains, It Pours) 是中村登于1957年导演，北条秀司原作，椎名利夫 / 中村登共同脚本，武满彻音乐，冈田茉莉子 / 佐田启二 / 桑野美雪 / 泽村贞子 / 田浦正巳 / 山村聪主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:44:52的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
 
 ------
 
-Doshaburi / When It Rains, It Pours (1957) ia a 1957 movie directed by Noboru Nakamura, with notable stars Sadako Sawamura, Mariko Okada, Masami Taura, Miyuki Kuwano, and So Yamamura.
+Doshaburi / When It Rains, It Pours (1957) ia a 1957 movie directed by Noboru Nakamura, with notable stars Mariko Okada, Keiji Sada, Miyuki Kuwano, Sadako Sawamura, Masami Taura, and So Yamamura.
 
 ------
 
