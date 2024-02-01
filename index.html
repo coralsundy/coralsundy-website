@@ -2,13 +2,17 @@
 layout: default
 ---
 
+
 <div class="archive">
+
+    {% assign tempPinnedNum = 0 -%}
 
     <h1 class="archive-year">Pinned</h1>
     <details open>
     <summary class="summary-item">Click to hide or show all the pinned posts</summary>
     {%- for post in site.posts -%} 
         {%- if post.pinned == true -%}
+        {% assign tempPinnedNum = tempPinnedNum | plus: 1 -%}
             <div class="archive-item">
                 <span class="post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; </span>
                 <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
@@ -16,6 +20,9 @@ layout: default
         {%- endif -%}
     {%- endfor -%}
     </details>
+
+    <!-- Pinned section specific assigned initial value for Total Post Number -->
+    {% assign tempPostNum = tempPinnedNum -%}
 
     {%- for post in site.posts -%} 
         {% assign postYear = post.date | date: "%Y" -%}
@@ -29,20 +36,32 @@ layout: default
             </details>
             {%- endif -%}
 
+            <i>Total Posts: {{ tempPostNum }}</i>
+
             {% assign postDateTemp = postYear -%}
 
             <h1 class="archive-year">{{ postYear }}</h1>
             {%- if postYear == '2018' or postYear == '2020' -%}
                 <details>
+                {% assign tempPostNum = 0 -%}
             {%- else -%}
                 <details open>
+                {% assign tempPostNum = 0 -%}
             {%- endif -%}
             <summary class="summary-item">Click to hide or show all the posts from year {{ postYear }}</summary>
 
         {%- endif -%}
-            <div class="archive-item">
-                <span class="post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; </span>
-                <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
-            </div>
+
+        {% assign tempPostNum = tempPostNum | plus: 1 -%}
+        <div class="archive-item">
+            <span class="post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; </span>
+            <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
+        </div>
     {%- endfor -%}
+
+
+    <!-- Reserve for the ending section of the archive -->
+    </details>
+    <i>Total Posts: {{ tempPostNum }}</i>
+
 </div>
