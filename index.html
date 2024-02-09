@@ -24,6 +24,9 @@ layout: default
     <!-- Pinned section specific assigned initial value for Total Post Number -->
     {% assign tempPostNum = tempPinnedNum -%}
 
+    <!-- Try to define the latest new post -->
+    {% assign newPost = 0 -%}
+
     {%- for post in site.posts -%} 
         {% assign postYear = post.date | date: "%Y" -%}
         {% assign currYear = 'now' | date: "%Y" -%}
@@ -36,7 +39,7 @@ layout: default
             </details>
             {%- endif -%}
 
-            <i>Total Posts: {{ tempPostNum }}</i>
+            <i>(Total Posts: {{ tempPostNum }})</i>
 
             {% assign postDateTemp = postYear -%}
 
@@ -52,16 +55,25 @@ layout: default
 
         {%- endif -%}
 
+        <!-- Only add the new button on the very latest post -->
+        {%- if newPost == 0 -%}
+            <div class="archive-item">
+                <span class="post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; &#127381; </span>
+                <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
+            </div>
+            {% assign newPost = newPost | plus: 1 -%}
+        {%- else -%}
+            <div class="archive-item">
+                <span class="post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; </span>
+                <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
+            </div>
+        {%- endif -%}
         {% assign tempPostNum = tempPostNum | plus: 1 -%}
-        <div class="archive-item">
-            <span class="post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; </span>
-            <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
-        </div>
     {%- endfor -%}
 
 
     <!-- Reserve for the ending section of the archive -->
     </details>
-    <i>Total Posts: {{ tempPostNum }}</i>
+    <i>(Total Posts: {{ tempPostNum }})</i>
 
 </div>
