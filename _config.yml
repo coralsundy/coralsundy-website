@@ -45,6 +45,7 @@ exclude:
 navbar:
  - name: "About"
    link: "about"
+   link2: "about_citrusseed"
  - name: "Links"
    link: "links"
  - name: "Tags"

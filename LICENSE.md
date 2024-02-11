@@ -33,7 +33,10 @@ The Counter on website initially uses this API [https://countapi.xyz/](https://c
 The Counter on GitHub is using this tool [https://hits.seeyoufarm.com/](https://hits.seeyoufarm.com/) from [gjbae1212](https://github.com/gjbae1212/).
 
 
-The RSS Feed template in this [post](http://runningblind.com/2018/12/22/jekyll-jekyll-feed-you-don-t-need-it/) from [yyyc514](https://github.com/yyyc514) .
+The RSS Feed template in this [post](http://runningblind.com/2018/12/22/jekyll-jekyll-feed-you-don-t-need-it/) from [yyyc514](https://github.com/yyyc514).
+
+
+The Button List code is partially coming from [W3Schools](https://w3schools.com).
 
 
 Rest of the code are under MIT License.
