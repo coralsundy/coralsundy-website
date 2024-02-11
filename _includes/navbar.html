@@ -1,8 +1,49 @@
 <base href="/">
 
+
+<!-- Adding more css just for About Button -->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 145px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 7px 9px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+</head>
+<body style="background-color:white;">
+
+<!-- Adding more css just for About Button -->
+
+
 <div class="navbar">
     <a class="site-title" href="{{ site.url }}{{ site.baseurl}}">{{ site.title }}</a>
     <ul class="pull-right">
+
+        <!-- Adding navbar items -->
         {% for x in site.navbar %}
         <li class="pull-left">
             {% if x.absolute-link %}
@@ -10,7 +51,20 @@
             {% else %}
                 {% assign x-url = site.url | append: site.baseurl | append: "/" | append: x.link %}
             {% endif %}
-            <a href="{{ x-url }}">{{ x.name }}</a>
+
+            {%- if x.name == "About" -%}
+                {% assign x-url2 = site.url | append: site.baseurl | append: "/" | append: x.link2 %}
+                <div class="dropdown">
+                  <a href="#">{{ x.name }}</a>
+                  <div class="dropdown-content">
+                      <a href="{{ x-url }}">coralsundy</a>
+                      <!--<a href="{{ x-url2 }}">citrusseed</a>-->
+                  </div>
+                </div>
+            {%- else -%}
+                <a href="{{ x-url }}">{{ x.name }}</a>
+            {%- endif -%}
+
             {% if forloop.last == false %}{% endif %}
         </li>
         {% endfor %}
