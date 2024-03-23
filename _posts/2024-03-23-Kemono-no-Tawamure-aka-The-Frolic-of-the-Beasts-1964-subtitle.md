@@ -29,7 +29,7 @@ Kemono no Tawamure / The Frolic of the Beasts (1964) is a 1964 movie directed by
 <br>
 <br>
 
-This is the `100th` subtitle I have ever released to the public. Thanks for supporting.
+**This is the 100th subtitle I have ever released to the public. Thanks for supporting.**
 
 ------
 
