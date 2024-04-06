@@ -26,21 +26,18 @@ Kemono no Tawamure / The Frolic of the Beasts (1964) is a 1964 movie directed by
 **Translation/Subtitle**: jls001999 (jls001999@gmail.com)<br>
 **Review/Proofreading**: coralsundy (coralsundy@gmail.com)<br>
 *(Paid by coralsundy for the translation, personal use only)*
-<br>
-<br>
-
-**This is the 100th subtitle I have ever released to the public. Thanks for supporting.**
 
 ------
 
 **中文字幕**: 尚无<br>
-**English Subtitle**: [Kemono.no.Tawamure.aka.The.Frolic.of.the.Beasts.1964.eng.01-34-22.BYjls001999.rev1.srt](../subtitles/Kemono.no.Tawamure.aka.The.Frolic.of.the.Beasts.1964.eng.01-34-22.BYjls001999.rev1.srt)
+**English Subtitle**: [Onna.Mekura.Monogatari.aka.The.Story.of.a.Blind.Woman.1965.eng.01-28-05.BYjls001999.rev1.srt](../subtitles/Onna.Mekura.Monogatari.aka.The.Story.of.a.Blind.Woman.1965.eng.01-28-05.BYjls001999.rev1.srt)
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/562827><br>
+**SUBHD**: <https://subhd.tv/a/563502><br>
 **IMDB**: <https://www.imdb.com/title/tt11084544/><br>
-**DOUBAN**: <https://movie.douban.com/subject/2360888/>
+**DOUBAN**: <https://movie.douban.com/subject/34969213/>
+
 
 ------
 
