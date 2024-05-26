@@ -1,8 +1,8 @@
 ---
 layout: subtitle
 date: 2024-05-24
-title: "氷壁 / 冰壁 / Hyoheki aka The Precipice 1958 Subtitle (English)"
-subtitle: "氷壁 / 冰壁 / Hyoheki aka The Precipice 1958 Subtitle (English)"
+title: "冰壁 / 氷壁 / Hyoheki aka The Precipice 1958 Subtitle (English)"
+subtitle: "冰壁 / 氷壁 / Hyoheki aka The Precipice 1958 Subtitle (English)"
 author: coralsundy
 movie_year: 1958
 category: subtitle
@@ -15,7 +15,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1950s]
 
 ------
 
-氷壁 / 冰壁 (Hyoheki / The Precipice) 是增村保造于1958年导演，井上靖原作，新藤兼人脚本，伊福部昭音乐，菅原谦二 / 山本富士子 / 野添瞳 / 川崎敬三主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:36:13的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
+冰壁 / 氷壁 (Hyoheki / The Precipice) 是增村保造于1958年导演，井上靖原作，新藤兼人脚本，伊福部昭音乐，菅原谦二 / 山本富士子 / 野添瞳 / 川崎敬三主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:36:13的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
 
 ------
 
