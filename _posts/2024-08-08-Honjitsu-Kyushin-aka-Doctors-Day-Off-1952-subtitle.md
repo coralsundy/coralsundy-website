@@ -11,7 +11,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1950s]
 
 ------
 
-<img src="../assets/tt0051752.jpg" alt="tt0051752_cover_art" />
+<img src="../assets/tt0322592.jpg" alt="tt0322592_cover_art" />
 
 ------
 
@@ -35,7 +35,7 @@ Honjitsu Kyushin / Doctor's Day Off  (1952) ia a 1952 movie directed by Minoru S
 ------
 
 **SUBHD**: <https://subhd.tv/a/569498><br>
-**IMDB**: <https://www.imdb.com/title/tt0051752/><br>
+**IMDB**: <https://www.imdb.com/title/tt0322592/><br>
 **DOUBAN**: <https://movie.douban.com/subject/2174524/>
 
 ------
