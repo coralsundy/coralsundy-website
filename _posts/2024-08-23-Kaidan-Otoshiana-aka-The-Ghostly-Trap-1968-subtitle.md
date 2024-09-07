@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-Kaidan Otoshiana / The Ghostly Trap (1968) is a 1968 movie directed by Koji Shima, with notable stars Mayumi Nagisa, Mikio Narita, Eiji Funakoshi.
+Kaidan Otoshiana / The Ghostly Trap (1968) is a 1968 movie directed by Koji Shima, with notable stars Mayumi Nagisa, Mikio Narita, and Eiji Funakoshi.
 
 ------
 
