@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1950s]
 
 ------
 
-Doshaburi / When It Rains, It Pours (1957) ia a 1957 movie directed by Noboru Nakamura, with notable stars Mariko Okada, Keiji Sada, Miyuki Kuwano, Sadako Sawamura, Masami Taura, and So Yamamura.
+Doshaburi / When It Rains, It Pours (1957) is a 1957 movie directed by Noboru Nakamura, with notable stars Mariko Okada, Keiji Sada, Miyuki Kuwano, Sadako Sawamura, Masami Taura, and So Yamamura.
 
 ------
 

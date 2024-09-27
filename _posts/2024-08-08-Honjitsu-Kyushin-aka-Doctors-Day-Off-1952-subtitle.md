@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1950s]
 
 ------
 
-Honjitsu Kyushin / Doctor's Day Off  (1952) ia a 1952 movie directed by Minoru Shibuya, with notable stars Eijiro Yanagi, Keiji Sada, Rieko Sumi, Chikage Awashima, Koji Tsuruta, and Rentaro Mikuni.
+Honjitsu Kyushin / Doctor's Day Off  (1952) is a 1952 movie directed by Minoru Shibuya, with notable stars Eijiro Yanagi, Keiji Sada, Rieko Sumi, Chikage Awashima, Koji Tsuruta, and Rentaro Mikuni.
 
 ------
 

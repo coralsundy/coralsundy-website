@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-Mikkokusha / Betrayer (1965) ia a 1965 movie directed by Shigeo Tanaka, with notable stars Jiro Tamiya, Shiho Fujimura, and Kyoko Enami.
+Mikkokusha / Betrayer (1965) is a 1965 movie directed by Shigeo Tanaka, with notable stars Jiro Tamiya, Shiho Fujimura, and Kyoko Enami.
 
 ------
 
