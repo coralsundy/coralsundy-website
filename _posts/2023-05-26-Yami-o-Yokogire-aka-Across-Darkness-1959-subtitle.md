@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1950s]
 
 ------
 
-Yami o Yokogire / Across Darkness (1959) ia a 1959 movie directed by Yasuzo Masumura, with notable stars Hiroshi Kawaguchi, So Yamamura, Junko Kano, Osamu Takizawa, and Hideo Takamatsu.
+Yami o Yokogire / Across Darkness (1959) is a 1959 movie directed by Yasuzo Masumura, with notable stars Hiroshi Kawaguchi, So Yamamura, Junko Kano, Osamu Takizawa, and Hideo Takamatsu.
 
 ------
 

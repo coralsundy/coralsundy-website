@@ -22,7 +22,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1950s]
 
 ------
 
-Anata to Watashi no Aikotoba Sayonara Konnichiwa / Goodbye, Hello (1959) ia a 1959 movie directed by Kon Ichikawa, with notable stars Ayako Wakao, Machiko Kyo, Hiroshi Kawaguchi, Jiro Tamiya, Eiji Funakoshi, Shin Saburi, and Hitomi Nozoe.
+Anata to Watashi no Aikotoba Sayonara Konnichiwa / Goodbye, Hello (1959) is a 1959 movie directed by Kon Ichikawa, with notable stars Ayako Wakao, Machiko Kyo, Hiroshi Kawaguchi, Jiro Tamiya, Eiji Funakoshi, Shin Saburi, and Hitomi Nozoe.
 
 ------
 

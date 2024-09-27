@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1950s]
 
 ------
 
-Hyoheki / The Precipice (1958) ia a 1958 movie directed by Yasuzo Masumura, with notable stars Kenji Sugawara, Fujiko Yamamoto, Hitomi Nozoe, and Keizo Kawasaki.
+Hyoheki / The Precipice (1958) is a 1958 movie directed by Yasuzo Masumura, with notable stars Kenji Sugawara, Fujiko Yamamoto, Hitomi Nozoe, and Keizo Kawasaki.
 
 ------
 
