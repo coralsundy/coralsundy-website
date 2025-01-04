@@ -30,7 +30,7 @@ Amai Ase / Sweet Sweat (1964) is a 1964 movie directed by Shiro Toyoda, with not
 ------
 
 **中文字幕**: 尚无<br>
-**English Subtitle**: [Onna.no.Issho.aka.Life.of.a.Woman.1962.eng.01-33-34.BYjls001999.rev1.srt](../subtitles/Onna.no.Issho.aka.Life.of.a.Woman.1962.eng.01-33-34.BYjls001999.rev1.srt)
+**English Subtitle**: [Amai.Ase.aka.Sweet.Sweat.1964.eng.01-59-26.BYjls001999.rev1.srt](../subtitles/Amai.Ase.aka.Sweet.Sweat.1964.eng.01-59-26.BYjls001999.rev1.srt)
 
 ------
 
