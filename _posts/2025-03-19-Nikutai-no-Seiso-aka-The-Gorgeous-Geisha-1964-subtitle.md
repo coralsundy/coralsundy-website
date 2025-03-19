@@ -15,11 +15,11 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1960s]
 
 ------
 
-肉体的盛装 / 肉体の盛装 (Nikutai no Seiso / The Gorgeous Geisha) 是村山新治于1964年导演，新藤兼人原作和脚本，池野成音乐，佐久间良子 / 藤纯子主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:26:44的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
+肉体的盛装 / 肉体の盛装 (Nikutai no Seiso / The Gorgeous Geisha) 是村山新治于1964年导演，新藤兼人原作和脚本，池野成音乐，佐久间良子 / 藤纯子 / 西村晃主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:26:44的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。
 
 ------
 
-Nikutai no Seiso / The Gorgeous Geisha (1964) is a 1964 movie directed by Shinji Murayama, with notable stars Yoshiko Sakuma and Sumiko Fuji.
+Nikutai no Seiso / The Gorgeous Geisha (1964) is a 1964 movie directed by Shinji Murayama, with notable stars Yoshiko Sakuma, Sumiko Fuji, and Ko Nishimura.
 
 ------
 
