@@ -284,7 +284,7 @@ DEPENDENCIES
   github-pages
   jemoji
   tzinfo-data
-  wdm (0.2.0)
+  wdm (>= 0.2.0)
 
 BUNDLED WITH
    2.5.22
