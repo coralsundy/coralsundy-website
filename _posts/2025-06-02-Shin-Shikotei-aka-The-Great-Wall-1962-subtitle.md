@@ -26,8 +26,8 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1960s]
 **听译/字幕**: moello (moello1909@outlook.com)<br>
 **审核/润色**: noela09 (noela1990@outlook.com)<br>
 **校对/调整**: coralsundy (coralsundy@gmail.com)<br>
-*(以老版dvd字幕为基础，biao76原始字幕转录校对)*
-*(moello新增翻译，二次校对错漏，制作最终版本)*
+*(以老版dvd字幕为基础，biao76原始字幕转录校对)*<br>
+*(moello新增翻译，二次校对错漏，制作最终版本)*<br>
 *(由coralsundy自费出资制作, 仅供个人学习)*
 
 ------
