@@ -1,6 +1,6 @@
 # Posts
 
-All the files in `_posts` and `_drafts` directories are licensed with [CC-BY-NC BY 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+All the files in `_posts`, `_drafts`, `subtitles` directories are licensed with [CC-BY-NC BY 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 The attribution requirement is only met when:
 
