@@ -318,3 +318,19 @@ table tr th :last-child, table tr td :last-child {
     color: black;
 
 }
+
+
+// More Setups
+.archive-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.archive-date {
+  margin-right: 0.5em;
+}
+
+.archive-title {
+  flex: 1;
+}
+

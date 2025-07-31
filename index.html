@@ -14,8 +14,12 @@ layout: default
         {%- if post.pinned == true -%}
         {% assign tempPinnedNum = tempPinnedNum | plus: 1 -%}
             <div class="archive-item">
-                <span class="post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; </span>
-                <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
+              <div class="archive-row">
+                <div class="archive-date post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; </div>
+                <div class="archive-title">
+                  <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
+                </div>
+              </div>
             </div>
         {%- endif -%}
     {%- endfor -%}
@@ -58,14 +62,22 @@ layout: default
         <!-- Only add the new button on the very latest post -->
         {%- if newPost == 0 -%}
             <div class="archive-item">
+              <div class="archive-row">
                 <span class="post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; &#127381; </span>
-                <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
+                <div class="archive-title">
+                  <a href="{{ post.url | relative_url }}" class="fs-4" style="font-weight: bold;">{{ post.title }}</a>
+                </div>
+              </div>
             </div>
             {% assign newPost = newPost | plus: 1 -%}
         {%- else -%}
             <div class="archive-item">
-                <span class="post-date archive-date fs-4">{{ post.date | date: "%Y-%m-%d" }} &raquo; </span>
-                <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
+              <div class="archive-row">
+                <div class="archive-date">{{ post.date | date: "%Y-%m-%d" }} &raquo;</div>
+                <div class="archive-title">
+                  <a href="{{ post.url | relative_url }}" class="fs-4" style="font-weight: bold;">{{ post.title }}</a>
+                </div>
+              </div>
             </div>
         {%- endif -%}
         {% assign tempPostNum = tempPostNum | plus: 1 -%}
