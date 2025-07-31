@@ -100,8 +100,12 @@ You can have it for personal use only, no commercialized purpose or distribution
                 {% endfor -%}
             {% endif -%}
             <div class="archive-item">
-                <span class="movie-year archive-date fs-4">{{ post.movie_year }} &raquo; </span>
-                <a style="font-weight:bold;" href="{{ post.url | relative_url }}" class="archive-title fs-4">{{ post.title }}</a>
+              <div class="archive-row">
+                <div class="archive-date movie-year fs-4">{{ post.movie_year }} &raquo;</div>
+                <div class="archive-title">
+                  <a href="{{ post.url | relative_url }}" class="fs-4" style="font-weight: bold;">{{ post.title }}</a>
+                </div>
+              </div>
             </div>
         {% endif -%}
     {% endif -%}
