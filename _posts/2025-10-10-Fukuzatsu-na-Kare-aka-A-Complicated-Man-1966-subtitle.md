@@ -30,7 +30,7 @@ Fukuzatsu na Kare / A Complicated Man (1966) is a 1966 movie directed by Umetsug
 ------
 
 **中文字幕**: 尚无<br>
-**English Subtitle**: [Fukuzatsu.na.Kare.aka.A.Complicated.Man.1966.eng.01-23-56.jls001999.rev1.zip.srt](../subtitles/Fukuzatsu.na.Kare.aka.A.Complicated.Man.1966.eng.01-23-56.jls001999.rev1.zip.srt)
+**English Subtitle**: [Fukuzatsu.na.Kare.aka.A.Complicated.Man.1966.eng.01-23-56.jls001999.rev1.srt](../subtitles/Fukuzatsu.na.Kare.aka.A.Complicated.Man.1966.eng.01-23-56.jls001999.rev1.srt)
 
 ------
 
