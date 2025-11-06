@@ -2,12 +2,33 @@
 layout: default
 ---
 
+{% assign years = "" -%}
+{% for post in site.posts -%}
+  {% assign y = post.date | date: "%Y" -%}
+  {% unless years contains y -%}
+    {% assign years = years | append: y | append: "," -%}
+  {% endunless -%}
+{% endfor -%}
+
+{% assign years = years | split: "," | sort | reverse -%}
+
+<!-- Year Navigation -->
+<div class="archive">
+<h3>| <a href="#Pinned">Pinned</a> |
+  {% for y in years %}
+    {% unless y == "" %}
+      <a href="#{{ y }}">{{ y }}</a> |
+    {% endunless %}
+  {% endfor %}
+</h3>
+</div>
+
 
 <div class="archive">
 
     {% assign tempPinnedNum = 0 -%}
 
-    <h1 class="archive-year">Pinned</h1>
+    <h1 class="archive-year" id="Pinned" ><a href="#Pinned">Pinned</a></h1>
     <details open>
     <summary class="summary-item">Click to hide or show all the pinned posts</summary>
     {%- for post in site.posts -%} 
@@ -47,8 +68,8 @@ layout: default
 
             {% assign postDateTemp = postYear -%}
 
-            <h1 class="archive-year">{{ postYear }}</h1>
-            {%- if postYear == '2018' or postYear == '2020' -%}
+            <h1 class="archive-year" id={{ postYear }}><a href="#{{ postYear }}">{{ postYear }}</a></h1>
+            {%- if postYear <= '2020' -%}
                 <details>
                 {% assign tempPostNum = 0 -%}
             {%- else -%}

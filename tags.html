@@ -6,20 +6,22 @@ permalink: /tags/
 
 {% assign sorted = site.tags | sort %}
 
-<ul>
-    {% for tag in sorted %}
-        <li id="{{ tag[0] }}">
-            <b>&#128278;<a href="{{site.url}}{{site.baseurl}}/tags/#{{tag[0]}}">{{ tag[0] }}</b></a>
-        </li>
-        {% for post in tag[1] %}
-        {% if post.private == true %}
-              {% continue %}
-        {% endif %}
+{% for tag in sorted %}
+    <h3>&#128278;<a href="{{site.url}}{{site.baseurl}}/tags/#{{tag[0]}}">{{ tag[0] }}</a></h3>
+    {% for post in tag[1] %}
+    {% if post.private == true %}
+          {% continue %}
+    {% endif %}
 
-            {{ post.date | date:"%Y-%m-%d" }} &raquo; <a style="font-weight:bold;color:black" href="{{site.url}}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-            <br>
-        {% endfor %}
-        <br>
+    <div class="archive-item">
+      <div class="archive-row">
+        <div class="archive-date">{{ post.date | date: "%Y-%m-%d" }} &raquo;</div>
+        <div class="archive-title">
+          <a href="{{ post.url | relative_url }}" class="fs-4" style="font-weight: bold;">{{ post.title }}</a>
+        </div>
+      </div>
+    </div>
     {% endfor %}
-</ul>
+    <br>
+{% endfor %}
 
