@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1950s]
 
 ------
 
-Zoku Judai no Seiten / Dangerous Age (1953) is a 1953 movie directed by Kozo Saeki, with notable stars Ayako Wakao and Yoko Minamida.
+Zoku Judai no Seiten / Dangerous Age (1953) is a 1953 movie directed by Kozo Saeki, with notable stars Ayako Wakao and Yoko Minamida. It is the 2nd movie in the Judai series.
 
 ------
 
