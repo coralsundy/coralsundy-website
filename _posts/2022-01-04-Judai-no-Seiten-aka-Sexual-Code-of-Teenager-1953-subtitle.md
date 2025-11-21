@@ -19,7 +19,7 @@ tags: [subtitle, movie, jap_movie, eng_subtitle, 1950s]
 
 ------
 
-Judai no Seiten / Sexual Code of Teenager (1953) is a 1953 movie directed by Koji Shima, with notable stars Ayako Wakao and Yoko Minamida.
+Judai no Seiten / Sexual Code of Teenager (1953) is a 1953 movie directed by Koji Shima, with notable stars Ayako Wakao and Yoko Minamida. It is the 1st movie in the Judai series.
 
 ------
 
