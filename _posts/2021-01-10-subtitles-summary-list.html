@@ -37,6 +37,9 @@ You can have it for personal use only, no commercialized purpose or distribution
 {% assign subtitle_year_2025 = 0 -%}
 {% assign subtitle_year_2025_chs = 0 -%}
 {% assign subtitle_year_2025_eng = 0 -%}
+{% assign subtitle_year_2026 = 0 -%}
+{% assign subtitle_year_2026_chs = 0 -%}
+{% assign subtitle_year_2026_eng = 0 -%}
 
 {% for post in sorted -%}
 
@@ -99,6 +102,17 @@ You can have it for personal use only, no commercialized purpose or distribution
                     {% endif -%}
                 {% endfor -%}
             {% endif -%}
+            {% if tempDate contains "2026" -%}
+                {% assign subtitle_year_2026 = subtitle_year_2026 | plus: 1 -%}
+                {% for tag in post.tags -%}
+                    {% if tag == "chs_subtitle" -%}
+                        {% assign subtitle_year_2026_chs = subtitle_year_2026_chs | plus: 1 -%}
+                    {% endif -%}
+                    {% if tag == "eng_subtitle" -%}
+                        {% assign subtitle_year_2026_eng = subtitle_year_2026_eng | plus: 1 -%}
+                    {% endif -%}
+                {% endfor -%}
+            {% endif -%}
             <div class="archive-item">
               <div class="archive-row">
                 <div class="archive-date movie-year fs-4">{{ post.movie_year }} &raquo;</div>
@@ -123,6 +137,7 @@ You can have it for personal use only, no commercialized purpose or distribution
 <strong>2023 Total Subs:</strong> {{ subtitle_year_2023 }}, <strong>Chinese Subs:</strong> {{ subtitle_year_2023_chs }}, <strong>English Subs:</strong> {{ subtitle_year_2023_eng }}<br>
 <strong>2024 Total Subs:</strong> {{ subtitle_year_2024 }}, <strong>Chinese Subs:</strong> {{ subtitle_year_2024_chs }}, <strong>English Subs:</strong> {{ subtitle_year_2024_eng }}<br>
 <strong>2025 Total Subs:</strong> {{ subtitle_year_2025 }}, <strong>Chinese Subs:</strong> {{ subtitle_year_2025_chs }}, <strong>English Subs:</strong> {{ subtitle_year_2025_eng }}<br>
+<strong>2026 Total Subs:</strong> {{ subtitle_year_2026 }}, <strong>Chinese Subs:</strong> {{ subtitle_year_2026_chs }}, <strong>English Subs:</strong> {{ subtitle_year_2026_eng }}<br>
 <strong>Total:</strong> {{ subtitle_post_counter }}<br>
 </pre>
 </div>
