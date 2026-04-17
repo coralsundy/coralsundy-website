@@ -20,6 +20,7 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
       - run: |
+          bundle install
           bundle exec jekyll build
           cp -v _posts/*.md _site/
 
