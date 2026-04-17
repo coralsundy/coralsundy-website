@@ -1,0 +1,30 @@
+name: Build the website
+on:
+  push:
+      branches:
+        - main
+
+permissions:
+  contents: write
+
+jobs:
+  build-the-website:
+    runs-on: ubuntu-latest
+    env:
+      TERM: xterm
+      TZ: America/Los_Angeles
+    steps:
+      - uses: actions/checkout@v6
+      - uses: ruby/setup-ruby@v6
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - run: |
+          bundle exec jekyll build
+          cp -v _posts/*.md _site/
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v4
+        with:
+          branch: gh-pages  # The branch the action should deploy to. Has to be specified in the repo's settings.
+          folder: _site     # The folder the action should deploy from.

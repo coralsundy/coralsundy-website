@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<link href="/{{ page.path | split: '/' | last }}"
+      type="text/markdown"
+      rel="alternate"
+      title="Markdown">
+
 <div class="page-subtitle">
     &#128279;<a href="{{site.url}}{{ site.baseurl }}/about/">{{ page.author }}</a>
     {% for tag in page.tags %}
