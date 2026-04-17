@@ -23,6 +23,7 @@ jobs:
       - run: |
           bundle exec jekyll build
           cp -v _posts/*.md _site/
+          touch _site/.nojekyll
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v4

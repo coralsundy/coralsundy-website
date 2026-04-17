@@ -57,3 +57,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
+exclude:
+  - vendor/
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock
