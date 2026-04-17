@@ -15,12 +15,12 @@ jobs:
       TZ: America/Los_Angeles
     steps:
       - uses: actions/checkout@v6
+      - run: rm -v Gemfile.lock
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
           bundler-cache: true
       - run: |
-          bundle install
           bundle exec jekyll build
           cp -v _posts/*.md _site/
 
