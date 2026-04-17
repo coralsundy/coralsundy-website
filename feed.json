@@ -1,32 +1,344 @@
----
-layout: null·
----
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "{{site.title}}",
-  "home_page_url": "{{site.url}}",
-  "feed_url": "{{site.url}}{{site.json_feed}}",
+  "title": "Coralsundy: Mod/Subtitle/Review",
+  "home_page_url": "https://coralsundy.com",
+  "feed_url": "https://coralsundy.com",
   "author" : {
-    "name" : "{{site.author.name}}",
-    "url" : "{{site.author.url}}"
+    "name" : "",
+    "url" : ""
   },
   "icon" : "",
   "favicon" : "",
   "items": [
-  {%- for post in site.posts limit:30 %}
   {
-    "title": {{ post.title | jsonify }},
-    "date_published" : {{ post.date | date_to_xmlschema | jsonify }},
-    "date_modified" : {{ post.last_modified_at | default: post.date | date_to_xmlschema | jsonify}},
-    "id" : "{{ site.url }}{{ post.id }}",
-    "url" : "{{ site.url }}{{ post.id }}",
-    {%- if post.link_to %}
-    "external_url" : {{ post.link_to | jsonify }},
-    {%- endif %}
+    "title": "续铁炮犬 / 続鉄砲犬 / Zoku Teppo Inu aka Return of Gun Dog 1966 Subtitle (English)",
+    "date_published" : "2026-04-17T00:00:00-07:00",
+    "date_modified" : "2026-04-17T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Zoku-Teppo-Inu-aka-Return-of-Gun-Dog-1966-subtitle",
+    "url" : "https://coralsundy.com/Zoku-Teppo-Inu-aka-Return-of-Gun-Dog-1966-subtitle",
     "author" : {
-      "name" : {{site.author.name | jsonify }}
+      "name" : null
     },
-    "content_html" : {{ post.content | markdownify | jsonify }}·
-  }{% if forloop.last == false %},{% endif %}{%- endfor %}
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0331108.jpg\" alt=\"tt0331108_cover_art\" /></p>\n\n<hr />\n\n<p>续铁炮犬 / 続鉄砲犬 (Zoku Teppo Inu / Return of Gun Dog) 是村山三男于1966年导演，藤本义一脚本，大森盛太郎音乐，田宫二郎主演的电影。是《犬》系列的第6部作品。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:22:43的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Zoku Teppo Inu / Return of Gun Dog (1966) is a 1966 movie directed by Tetsutaro Murano, with notable stars Jiro Tamiya. This is the 6th movie in the Inu / Dog Series.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Zoku.Teppo.Inu.aka.Return.of.Gun.Dog.1966.eng.01-25-28.BYjls001999.rev1.srt\">Zoku.Teppo.Inu.aka.Return.of.Gun.Dog.1966.eng.01-25-28.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/VM5PpX\">https://subhd.tv/a/VM5PpX</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0331108/\">https://www.imdb.com/title/tt0331108/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/35652584/\">https://movie.douban.com/subject/35652584/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "暴力 / Boryoku aka Violence 1952 Subtitle (English)",
+    "date_published" : "2026-03-27T00:00:00-07:00",
+    "date_modified" : "2026-03-27T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Boryoku-aka-Violence-1952-subtitle",
+    "url" : "https://coralsundy.com/Boryoku-aka-Violence-1952-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0044440.jpg\" alt=\"tt0044440_cover_art\" /></p>\n\n<hr />\n\n<p>暴力 (Boryoku / Violence) 是吉村公三郎于1952年导演，新藤兼人脚本，伊福部昭音乐，菅井一郎 / 日高澄子 / 金子信雄主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:26:34的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Boryoku / Violence (1952) is a 1952 movie directed by Kozaburo Yoshimura, with notable stars Ichiro Sugai, Sumiko Hidaka, and Nobuo Kaneko.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Boryoku.aka.Violence.1952.eng.01-26-34.BYjls001999.rev1.srt\">Boryoku.aka.Violence.1952.eng.01-26-34.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/FpzxMG\">https://subhd.tv/a/FpzxMG</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0044440/\">https://www.imdb.com/title/tt0044440/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/26687313/\">https://movie.douban.com/subject/26687313/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "铁炮犬 / 鉄砲犬 / Teppo Inu aka Gun Dog 1965 Subtitle (English)",
+    "date_published" : "2026-02-27T00:00:00-08:00",
+    "date_modified" : "2026-02-27T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Teppo-Inu-aka-Gun-Dog-1965-subtitle",
+    "url" : "https://coralsundy.com/Teppo-Inu-aka-Gun-Dog-1965-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0328529.jpg\" alt=\"tt0328529_cover_art\" /></p>\n\n<hr />\n\n<p>铁炮犬 / 鉄砲犬 (Teppo Inu / Gun Dog) 是村野铁太郎于1965年导演，藤本义一脚本，菊池俊辅音乐，田宫二郎主演的电影。是《犬》系列的第5部作品。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:22:43的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Teppo Inu / Gun Dog (1965) is a 1965 movie directed by Tetsutaro Murano, with notable stars Jiro Tamiya. This is the 5th movie in the Inu / Dog Series.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Teppo.Inu.aka.Gun.Dog.1965.eng.01-22-43.BYjls001999.rev1.srt\">Teppo.Inu.aka.Gun.Dog.1965.eng.01-22-43.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/FpPHjG\">https://subhd.tv/a/FpPHjG</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0328529/\">https://www.imdb.com/title/tt0328529/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/38234123/\">https://movie.douban.com/subject/38234123/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "花影 / Kaei aka Shadow of a Flower 1961 Subtitle (English)",
+    "date_published" : "2026-02-12T00:00:00-08:00",
+    "date_modified" : "2026-02-12T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Kaei-aka-Shadow-of-a-Flower-1961-subtitle",
+    "url" : "https://coralsundy.com/Kaei-aka-Shadow-of-a-Flower-1961-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0322904.jpg\" alt=\"tt0322904_cover_art\" /></p>\n\n<hr />\n\n<p>花影 (Kaei / Shadow of a Flower) 是川岛雄三于1961年导演，菊岛隆三脚本，大冈昇平原作，池野成音乐，池内淳子 / 佐野周二 / 池部良主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:38:54的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Kaei / Shadow of a Flower (1961) is a 1961 movie directed by Ryuzo Kikushima, with notable stars Junko Ikeuchi, Shuji Sano, and Ryo Ikebe.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Kaei.aka.Shadow.of.a.Flower.1961.eng.01-38-54.BYjls001999.rev1.srt\">Kaei.aka.Shadow.of.a.Flower.1961.eng.01-38-54.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/MWKfDn\">https://subhd.tv/a/MWKfDn</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0322904/\">https://www.imdb.com/title/tt0322904/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/6014866/\">https://movie.douban.com/subject/6014866/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "黑潮 / 黒い潮 / Kuroi Ushio aka Black Tide 1954 Subtitle (Chinese)",
+    "date_published" : "2026-01-30T00:00:00-08:00",
+    "date_modified" : "2026-01-30T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Kuroi-Ushio-aka-Black-Tide-1954-subtitle",
+    "url" : "https://coralsundy.com/Kuroi-Ushio-aka-Black-Tide-1954-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0352509.jpg\" alt=\"tt0352509_cover_art\" /></p>\n\n<hr />\n\n<p>黑潮 / 黒い潮 (Kuroi Ushio / Black Tide) 是1954年山村聪监督，井上靖原作，菊岛隆三剧本，塚原晢夫音乐，山村聪 / 东野英治郎 / 泷泽修 / 津岛惠子 / 左幸子 / 夏川静江主演的电影。中文字幕由coralsundy自费出资，moello听译制作，noela09审核润色。适用于01:53:03的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p><strong>No English Subtitle</strong></p>\n\n<hr />\n\n<p><strong>听译/字幕</strong>: moello (moello1909@outlook.com)<br />\n<strong>审核/润色</strong>: noela09 (noela1990@outlook.com)<br />\n<strong>校对/调整</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(由coralsundy自费出资制作, 仅供个人学习)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: <a href=\"../subtitles/Kuroi.Ushio.aka.Black.Tide.1954.chs.01-53-03.BYmoello.rev1.srt\">Kuroi.Ushio.aka.Black.Tide.1954.chs.01-53-03.BYmoello.rev1.srt</a><br />\n<strong>English Subtitle</strong>: None</p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/GkP3fU\">https://subhd.tv/a/GkP3fU</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0352509/\">https://www.imdb.com/title/tt0352509/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/4140428/\">https://movie.douban.com/subject/4140428/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "早晨的波纹 / 朝の波紋 / Asa no Hamon aka A Ripple in a Morning 1952 Subtitle (English)",
+    "date_published" : "2026-01-16T00:00:00-08:00",
+    "date_modified" : "2026-01-16T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Asa-no-Hamon-aka-A-Ripple-in-a-Morning-1952-subtitle",
+    "url" : "https://coralsundy.com/Asa-no-Hamon-aka-A-Ripple-in-a-Morning-1952-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0044376.jpg\" alt=\"tt0044376_cover_art\" /></p>\n\n<hr />\n\n<p>早晨的波纹 / 朝の波紋 (Asa no Hamon / A Ripple in a Morning) 是五所平之助于1952年导演，馆冈谦之助脚本，高见顺原作，齐藤一郎音乐，高峰秀子 / 池部良主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:43:30的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Asa no Hamon / A Ripple in a Morning (1952) is a 1952 movie directed by Heinosuke Gosho, with notable stars Hideko Takamine and Ryo Ikebe.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Asa.no.Hamon.aka.A.Ripple.in.a.Morning.1952.eng.01-43-30.BYjls001999.rev1.srt\">Asa.no.Hamon.aka.A.Ripple.in.a.Morning.1952.eng.01-43-30.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/vl0cZm\">https://subhd.tv/a/vl0cZm</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0044376/\">https://www.imdb.com/title/tt0044376/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/5065485/\">https://movie.douban.com/subject/5065485/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "十代的诱惑 / 十代の誘惑 / Judai no Yuwaku 1953 Subtitle (English)",
+    "date_published" : "2025-12-19T00:00:00-08:00",
+    "date_modified" : "2025-12-19T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Judai-no-Yuwaku-1953-subtitle",
+    "url" : "https://coralsundy.com/Judai-no-Yuwaku-1953-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt21307002.jpg\" alt=\"tt21307002_cover_art\" /></p>\n\n<hr />\n\n<p>十代的诱惑 / 十代の誘惑 (Judai no Yuwaku) 是久松静儿于1953年导演，须崎胜弥脚本，饭田三郎音乐，若尾文子 / 南田洋子 / 山本富士子 / 根上淳 / 船越英二 / 菅原谦二主演的电影，是十代系列的第4部电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:26:32的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Judai no Yuwaku (1953) is a 1953 movie directed by Seiji Hisamatsu, with notable stars Ayako Wakao, Yoko Minamida, Fujiko Yamamoto, Jun Negami, Eiji Funakoshi, and Ichiro Sugai. It is the 4th movie in the Judai series.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Judai.no.Yuwaku.1953.eng.01-26-32.BYjls001999.rev1.srt\">Judai.no.Yuwaku.1953.eng.01-26-32.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/4t6PDO\">https://subhd.tv/a/4t6PDO</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt21307002/\">https://www.imdb.com/title/tt21307002/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/34809349/\">https://movie.douban.com/subject/34809349/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "再续十代的性典 / 続々十代の性典 / Zoku zoku Judai no Seiten 1953 Subtitle (English)",
+    "date_published" : "2025-11-21T00:00:00-08:00",
+    "date_modified" : "2025-11-21T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Zoku-zoku-Judai-no-Seiten-1953-subtitle",
+    "url" : "https://coralsundy.com/Zoku-zoku-Judai-no-Seiten-1953-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt5306974.jpg\" alt=\"tt5306974_cover_art\" /></p>\n\n<hr />\n\n<p>再续十代的性典 / 続々十代の性典 (Zoku zoku Judai no Seiten) 是小石荣一于1953年导演，须崎胜弥脚本，饭田三郎音乐，若尾文子 / 南田洋子主演的电影，是十代系列的第3部电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:25:41的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Zoku zoku Judai no Seiten (1953) is a 1953 movie directed by Eiichi Koishi, with notable stars Ayako Wakao and Yoko Minamida. It is the 3rd movie in the Judai series.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Zoku.zoku.Judai.no.Seiten.1953.eng.01-25-41.BYjls001999.rev1.srt\">Zoku.zoku.Judai.no.Seiten.1953.eng.01-25-41.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/YjaZpE\">https://subhd.tv/a/YjaZpE</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt5306974/\">https://www.imdb.com/title/tt5306974/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/34809243/\">https://movie.douban.com/subject/34809243/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "暴れ犬 / Abare Inu aka Rampaging Dog 1965 Subtitle (English)",
+    "date_published" : "2025-11-07T00:00:00-08:00",
+    "date_modified" : "2025-11-07T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Abare-Inu-aka-Rampaging-Dog-1965-subtitle",
+    "url" : "https://coralsundy.com/Abare-Inu-aka-Rampaging-Dog-1965-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0327395.jpg\" alt=\"tt0327395_cover_art\" /></p>\n\n<hr />\n\n<p>暴れ犬 (Abare Inu / Rampaging Dog) 是森一生于1965年导演，藤本义一脚本，古谷充音乐，田宫二郎主演的电影。是《犬》系列的第4部作品。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:31:41的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Abare Inu / Rampaging Dog (1965) is a 1965 movie directed by Kazuo Mori, with notable stars Jiro Tamiya. This is the 4th movie in the Inu / Dog Series.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Abare.Inu.aka.Rampaging.Dog.1965.eng.01-31-42.BYjls001999.rev1.srt\">Abare.Inu.aka.Rampaging.Dog.1965.eng.01-31-42.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/yIgQ7r\">https://subhd.tv/a/yIgQ7r</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0327395/\">https://www.imdb.com/title/tt0327395/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/25812528/\">https://movie.douban.com/subject/25812528/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "一生中最光辉的日子 / わが生涯のかがやける日 / Waga Shogai no Hagayakeru Hi aka The Brightest Day of My Life 1948 Subtitle (English)",
+    "date_published" : "2025-10-24T00:00:00-07:00",
+    "date_modified" : "2025-10-24T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Waga-Shogai-no-Hagayakeru-Hi-aka-The-Brightest-Day-of-My-Life-1948-subtitle",
+    "url" : "https://coralsundy.com/Waga-Shogai-no-Hagayakeru-Hi-aka-The-Brightest-Day-of-My-Life-1948-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0183996.jpg\" alt=\"tt0183996_cover_art\" /></p>\n\n<hr />\n\n<p>一生中最光辉的日子 / わが生涯のかがやける日 (Waga Shogai no Hagayakeru Hi / The Brightest Day of My Life) 是吉村公三郎于1948年导演，新藤兼人脚本，木下忠司 / 吉沢博音乐，森雅之 / 山口淑子(李香兰) / 泷泽修 / 宇野重吉 / 加藤嘉主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:40:59的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Waga Shogai no Hagayakeru Hi / The Brightest Day of My Life (1948) is a 1948 movie directed by Kozaburo Yoshimura, with notable stars Masayuki Mori, Yoshiko Yamaguchi(Li Hsiang-lan), Osamu Takizawa, Jukichi Uno, and Yoshi Kato.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Waga.Shogai.no.Hagayakeru.Hi.aka.The.Brightest.Day.of.My.Life.1948.eng.01-40-59.BYjls001999.rev1.srt\">Waga.Shogai.no.Hagayakeru.Hi.aka.The.Brightest.Day.of.My.Life.1948.eng.01-40-59.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/600064\">https://subhd.tv/a/600064</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0183996/\">https://www.imdb.com/title/tt0183996/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/2148321/\">https://movie.douban.com/subject/2148321/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "复杂的他 / 複雑な彼 / Fukuzatsu na Kare aka A Complicated Man 1966 Subtitle (English)",
+    "date_published" : "2025-10-10T00:00:00-07:00",
+    "date_modified" : "2025-10-10T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Fukuzatsu-na-Kare-aka-A-Complicated-Man-1966-subtitle",
+    "url" : "https://coralsundy.com/Fukuzatsu-na-Kare-aka-A-Complicated-Man-1966-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt8946672.jpg\" alt=\"tt8946672_cover_art\" /></p>\n\n<hr />\n\n<p>复杂的他 / 複雑な彼 (Fukuzatsu na Kare / A Complicated Man) 是岛耕二于1966年导演，三岛由纪夫原作，长谷川公之脚本，大森盛太郎音乐，田宫二郎 / 高毬子主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:23:56的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Fukuzatsu na Kare / A Complicated Man (1966) is a 1966 movie directed by Umetsugu Inoue, with notable stars Ayako Wakao, Hiroshi Kawaguchi, Hitomi Nozoe, Keizo Kawasaki, and Minoru Oki.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Fukuzatsu.na.Kare.aka.A.Complicated.Man.1966.eng.01-23-56.jls001999.rev1.srt\">Fukuzatsu.na.Kare.aka.A.Complicated.Man.1966.eng.01-23-56.jls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/599197\">https://subhd.tv/a/599197</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt8946672/\">https://www.imdb.com/title/tt8946672/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/34968854/\">https://movie.douban.com/subject/34968854/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "复活的大地 / 甦える大地 / Yomigaeru Daichi aka The Earth is Born Again 1971 Subtitle (Chinese)",
+    "date_published" : "2025-10-02T00:00:00-07:00",
+    "date_modified" : "2025-10-02T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Yomigaeru-Daichi-aka-The-Earth-is-Born-Again-1971-subtitle",
+    "url" : "https://coralsundy.com/Yomigaeru-Daichi-aka-The-Earth-is-Born-Again-1971-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt2638160.jpg\" alt=\"tt2638160_cover_art\" /></p>\n\n<hr />\n\n<p>复活的大地 / 甦える大地 (Yomigaeru Daichi / The Earth is Born Again) 是1971年中村登监督，木本正次原作，猪又憲吾剧本，武满彻音乐，石原裕次郎 / 司叶子 / 三国连太郎 / 志村乔 / 泷泽修 / 渡哲也主演的电影。中文字幕由coralsundy自费出资，moello听译制作，noela09审核润色。适用于02:00:05的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p><strong>No English Subtitle</strong></p>\n\n<hr />\n\n<p><strong>听译/字幕</strong>: moello (moello1909@outlook.com)<br />\n<strong>审核/润色</strong>: noela09 (noela1990@outlook.com)<br />\n<strong>校对/调整</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(由coralsundy自费出资制作, 仅供个人学习)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: <a href=\"../subtitles/Yomigaeru.Daichi.aka.The.Earth.is.Born.Again.1971.chs.02-00-05.BYmoello.rev1.srt\">Yomigaeru.Daichi.aka.The.Earth.is.Born.Again.1971.chs.02-00-05.BYmoello.rev1.srt</a><br />\n<strong>English Subtitle</strong>: None</p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/598628\">https://subhd.tv/a/598628</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt2638160/\">https://www.imdb.com/title/tt2638160/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/26688191/\">https://movie.douban.com/subject/26688191/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "闭店时间 / 閉店時間 / Heiten Jikan aka Closing Time 1962 Subtitle (English)",
+    "date_published" : "2025-09-17T00:00:00-07:00",
+    "date_modified" : "2025-09-17T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Heiten-Jikan-aka-Closing-Time-1962-subtitle",
+    "url" : "https://coralsundy.com/Heiten-Jikan-aka-Closing-Time-1962-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0384160.jpg\" alt=\"tt0384160_cover_art\" /></p>\n\n<hr />\n\n<p>闭店时间 / 閉店時間 (Heiten Jikan / Closing Time) 是井上梅次于1962年导演，有吉佐和子原作，白坂依志夫脚本，中村八大音乐，若尾文子 / 川口浩 / 野添瞳 / 江波杏子 / 川崎敬三 / 大木実主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:39:37的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Heiten Jikan / Closing Time (1962) is a 1962 movie directed by Umetsugu Inoue, with notable stars Ayako Wakao, Hiroshi Kawaguchi, Hitomi Nozoe, Keizo Kawasaki, and Minoru Oki.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Heiten.Jikan.aka.Closing.Time.1962.eng.01-39-37.BYjls001999.rev1.srt\">Heiten.Jikan.aka.Closing.Time.1962.eng.01-39-37.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/597336\">https://subhd.tv/a/597336</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0384160/\">https://www.imdb.com/title/tt0384160/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/25785973/\">https://movie.douban.com/subject/25785973/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "铅的墓碑 / 鉛の墓標 / Namari no Bohyo aka Lead Tombstone 1964 Subtitle (English)",
+    "date_published" : "2025-07-11T00:00:00-07:00",
+    "date_modified" : "2025-07-11T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Namari-no-Bohyo-aka-Lead-Tombstone-1964-subtitle",
+    "url" : "https://coralsundy.com/Namari-no-Bohyo-aka-Lead-Tombstone-1964-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0291373.jpg\" alt=\"tt0291373_cover_art\" /></p>\n\n<hr />\n\n<p>铅的墓碑 / 鉛の墓標 (Namari no Bohyo / Lead Tombstone) 是若松孝二于1964年导演，吉冈道夫脚本，大竹村次郎音乐， 野上正义 / 田代かほる主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:26:02的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Namari no Bohyo / Lead Tombstone (1964) is a 1964 movie directed by Koji Wakamatsu, with notable stars Masayoshi Nogami and Tashiro Kahoru.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Namari.no.Bohyo.aka.Lead.Tombstone.1964.eng.01-26-02.BYjls001999.rev1.srt\">Namari.no.Bohyo.aka.Lead.Tombstone.1964.eng.01-26-02.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/592989\">https://subhd.tv/a/592989</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0291373/\">https://www.imdb.com/title/tt0291373/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/5504166/\">https://movie.douban.com/subject/5504166/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "富士山顶 / 富士山頂 / Fuji Sancho aka The Summit of Mt Fuji 1970 Subtitle (Chinese)",
+    "date_published" : "2025-07-03T00:00:00-07:00",
+    "date_modified" : "2025-07-03T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Fuji-Sancho-aka-The-Summit-of-Mt-Fuji-1970-subtitle",
+    "url" : "https://coralsundy.com/Fuji-Sancho-aka-The-Summit-of-Mt-Fuji-1970-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt1097232.jpg\" alt=\"tt1097232_cover_art\" /></p>\n\n<hr />\n\n<p>富士山顶 / 富士山頂 (Fuji Sancho / The Summit of Mt Fuji) 是1970年村野铁太郎监督，新田次郎原作，国弘威雄剧本，黛敏郎音乐，石原裕次郎 / 山崎努 / 渡哲也主演的电影。中文字幕由coralsundy自费出资，moello听译制作，noela09审核润色。适用于02:05:54的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p><strong>No English Subtitle</strong></p>\n\n<hr />\n\n<p><strong>听译/字幕</strong>: moello (moello1909@outlook.com)<br />\n<strong>审核/润色</strong>: noela09 (noela1990@outlook.com)<br />\n<strong>校对/调整</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(由coralsundy自费出资制作, 仅供个人学习)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: <a href=\"../subtitles/Fuji.Sancho.aka.The.Summit.of.Mt.Fuji.1970.chs.02-05-54.BYmoello.rev1.srt\">Fuji.Sancho.aka.The.Summit.of.Mt.Fuji.1970.chs.02-05-54.BYmoello.rev1.srt</a><br />\n<strong>English Subtitle</strong>: None</p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/591904\">https://subhd.tv/a/591904</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt1097232/\">https://www.imdb.com/title/tt1097232/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/5190015/\">https://movie.douban.com/subject/5190015/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "日本的查泰莱夫人 / チャタレイ夫人は日本にもいた / Chatterley Fujin wa Nihon Nimo Ita aka Lady Chatterley of Japan 1953 Subtitle (English)",
+    "date_published" : "2025-06-20T00:00:00-07:00",
+    "date_modified" : "2025-06-20T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Chatterley-Fujin-wa-Nihon-Nimo-Ita-aka-Lady-Chatterley-of-Japan-1953-subtitle",
+    "url" : "https://coralsundy.com/Chatterley-Fujin-wa-Nihon-Nimo-Ita-aka-Lady-Chatterley-of-Japan-1953-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt5162934.jpg\" alt=\"tt5162934_cover_art\" /></p>\n\n<hr />\n\n<p>日本的查泰莱夫人 / チャタレイ夫人は日本にもいた (Chatterley Fujin wa Nihon Nimo Ita / Lady Chatterley of Japan) 是岛耕二于1953年导演，川口松太郎原作，八住利雄脚本，大森盛太郎音乐， 轰夕起子 / 若尾文子 / 冈让司 / 宇野重吉主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:28:46的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Chatterley Fujin wa Nihon Nimo Ita / Lady Chatterley of Japan (1953) is a 1953 movie directed by Koji Shima, with notable stars Yukiko Todoroki, Ayako Wakao, Joji Oka, and Jukichi Uno.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Chatterley.Fujin.wa.Nihon.Nimo.Ita.aka.Lady.Chatterley.of.Japan.1953.eng.01-28-46.BYjls001999.rev1.srt\">Chatterley.Fujin.wa.Nihon.Nimo.Ita.aka.Lady.Chatterley.of.Japan.1953.eng.01-28-46.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/590724\">https://subhd.tv/a/590724</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt5162934/\">https://www.imdb.com/title/tt5162934/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/26687346/\">https://movie.douban.com/subject/26687346/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "秦始皇帝 / Shin Shikotei aka The Great Wall 1962 Subtitle (Chinese)",
+    "date_published" : "2025-06-02T00:00:00-07:00",
+    "date_modified" : "2025-06-02T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Shin-Shikotei-aka-The-Great-Wall-1962-subtitle",
+    "url" : "https://coralsundy.com/Shin-Shikotei-aka-The-Great-Wall-1962-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0056492.jpg\" alt=\"tt0056492_cover_art\" /></p>\n\n<hr />\n\n<p>秦始皇帝 (Shin Shikotei / The Great Wall) 是1962年田中重雄总监督，中村大十郎特摄监督，八寻不二剧本，伊福部昭音乐，胜新太郎 / 本乡功次郎 / 市川雷藏 / 山田五十铃 / 山本富士子 / 长谷川一夫 / 川口浩 / 川崎敬三 / 宇津井健 / 高松英郎 / 根上淳 / 东野英治郎 / 中村玉绪 / 叶顺子 / 若尾文子主演的电影。中文字幕由coralsundy自费出资，以老版dvd字幕为基础，biao76原始字幕转录校对，moello新增翻译，二次校对错漏，制作最终版本，noela09审核润色。适用于02:39:43的dvd版本。高清源需要自行修改时间轴。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p><strong>No English Subtitle</strong></p>\n\n<hr />\n\n<p><strong>听译/字幕</strong>: moello (moello1909@outlook.com)<br />\n<strong>审核/润色</strong>: noela09 (noela1990@outlook.com)<br />\n<strong>校对/调整</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(以老版dvd字幕为基础，biao76原始字幕转录校对)</em><br />\n<em>(moello新增翻译，二次校对错漏，制作最终版本)</em><br />\n<em>(由coralsundy自费出资制作, 仅供个人学习)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: <a href=\"../subtitles/Shin.Shikotei.aka.The.Great.Wall.1962.chs.02-39-43.BYmoello.rev1.srt\">Shin.Shikotei.aka.The.Great.Wall.1962.chs.02-39-43.BYmoello.rev1.srt</a><br />\n<strong>English Subtitle</strong>: None</p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/589472\">https://subhd.tv/a/589472</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0056492/\">https://www.imdb.com/title/tt0056492/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/1306768/\">https://movie.douban.com/subject/1306768/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "一粒麦 / 一粒の麦 / Hitotsubu no Mugi aka A Grain of Wheat 1958 Subtitle (English)",
+    "date_published" : "2025-05-31T00:00:00-07:00",
+    "date_modified" : "2025-05-31T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Hitotsubu-no-Mugi-aka-A-Grain-of-Wheat-1958-subtitle",
+    "url" : "https://coralsundy.com/Hitotsubu-no-Mugi-aka-A-Grain-of-Wheat-1958-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0943435.jpg\" alt=\"tt0943435_cover_art\" /></p>\n\n<hr />\n\n<p>一粒麦 / 一粒の麦 (Hitotsubu no Mugi / A Grain of Wheat) 是吉村公三郎于1958年导演，新藤兼人 / 千叶茂树共同脚本，池野成音乐，菅原谦二 / 若尾文子 / 东野英治郎主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:49:26的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Hitotsubu no Mugi / A Grain of Wheat (1958) is a 1958 movie directed by Kozaburo Yoshimura, with notable stars Kenji Sugawara, Ayako Wakao, and Eijiro Tono.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Hitotsubu.no.Mugi.aka.A.Grain.of.Wheat.1958.eng.01-49-26.BYjls001999.rev1.srt\">Hitotsubu.no.Mugi.aka.A.Grain.of.Wheat.1958.eng.01-49-26.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/589305\">https://subhd.tv/a/589305</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0943435/\">https://www.imdb.com/title/tt0943435/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/3011611/\">https://movie.douban.com/subject/3011611/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "罗带轻分 / 帯をとく夏子 /  Obi o toku Natsuko aka Natsuko Take Off Her Kimono 1965 Subtitle (English)",
+    "date_published" : "2025-04-25T00:00:00-07:00",
+    "date_modified" : "2025-04-25T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Obi-o-toku-Natsuko-aka-Natsuko-Take-Off-Her-Kimono-1965-subtitle",
+    "url" : "https://coralsundy.com/Obi-o-toku-Natsuko-aka-Natsuko-Take-Off-Her-Kimono-1965-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0384385.jpg\" alt=\"tt0384385_cover_art\" /></p>\n\n<hr />\n\n<p>罗带轻分 / 帯をとく夏子 (Obi o toku Natsuko / Natsuko Take Off Her Kimono) 是田中重雄于1965年导演，舟桥圣一原作，田口耕三脚本，木下忠司音乐，若尾文子 / 船越英二 / 江波杏子主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:31:50的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Obi o toku Natsuko / Natsuko Take Off Her Kimono (1965) is a 1965 movie directed by Shigeo Tanaka, with notable stars Ayako Wakao, Eiji Funakoshi and Kyoko Enami.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Obi.o.toku.Natsuko.aka.Natsuko.Take.Off.Her.Kimono.1965.eng.01-31.50.BYjls001999.rev1.srt\">Obi.o.toku.Natsuko.aka.Natsuko.Take.Off.Her.Kimono.1965.eng.01-31.50.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/586267\">https://subhd.tv/a/586267</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0384385/\">https://www.imdb.com/title/tt0384385/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/4075572/\">https://movie.douban.com/subject/4075572/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "阳炎图 / かげろう絵図 / Kagero Ezu aka Stop the Old Fox 1959 Subtitle (English)",
+    "date_published" : "2025-04-03T00:00:00-07:00",
+    "date_modified" : "2025-04-03T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Kagero-Ezu-aka-Stop-the-Old-Fox-1959-subtitle",
+    "url" : "https://coralsundy.com/Kagero-Ezu-aka-Stop-the-Old-Fox-1959-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0052956.jpg\" alt=\"tt0052956_cover_art\" /></p>\n\n<hr />\n\n<p>阳炎图 / かげろう絵図 (Kagero Ezu / Stop the Old Fox) 是衣笠贞之助于1959年导演，松本清张原作，衣笠贞之助 / 犬塚稔共同脚本，齐藤一郎音乐，市川雷蔵 / 山本富士子 / 泷泽修主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:57:23的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Kagero Ezu / Stop the Old Fox (1959) is a 1959 movie directed by Teinosuke Kinugasa, with notable stars Raizo Ichikawa, Fujiko Yamamoto, and Osamu Takizawa.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Kagero.Ezu.aka.Stop.the.Old.Fox.1959.1080p.eng.01-57-23.BYjls001999.rev1.srt\">Kagero.Ezu.aka.Stop.the.Old.Fox.1959.1080p.eng.01-57-23.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/584489\">https://subhd.tv/a/584489</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0052956/\">https://www.imdb.com/title/tt0052956/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/2993706/\">https://movie.douban.com/subject/2993706/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "蓝色野兽 / 青い野獣 / Aoi Yaju aka The Blue Beast 1960 Subtitle (Chinese)",
+    "date_published" : "2025-03-28T00:00:00-07:00",
+    "date_modified" : "2025-03-28T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Aoi-Yaju-aka-The-Blue-Beast-1960-subtitle",
+    "url" : "https://coralsundy.com/Aoi-Yaju-aka-The-Blue-Beast-1960-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0202235.jpg\" alt=\"tt0202235_cover_art\" /></p>\n\n<hr />\n\n<p>蓝色野兽 / 青い野獣 (Aoi Yaju / The Blue Beast) 是1960年堀川弘通监督，白坂依志夫剧本，池野成音乐，仲代达矢 / 司叶子 / 中谷一郎主演的电影。中文字幕由coralsundy自费出资，moello听译制作，noela09审核润色。适用于01:35:20的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p><strong>No English Subtitle</strong></p>\n\n<hr />\n\n<p><strong>听译/字幕</strong>: moello (moello1909@outlook.com)<br />\n<strong>审核/润色</strong>: noela09 (noela1990@outlook.com)<br />\n<strong>校对/调整</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(由coralsundy自费出资制作, 仅供个人学习)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: <a href=\"../subtitles/Aoi.Yaju.aka.The.Blue.Beast.1960.chs.01-35-20.BYmoello.rev1.srt\">Aoi.Yaju.aka.The.Blue.Beast.1960.chs.01-35-20.BYmoello.rev1.srt</a><br />\n<strong>English Subtitle</strong>: None</p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/583955\">https://subhd.tv/a/583955</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0202235/\">https://www.imdb.com/title/tt0202235/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/26687358/\">https://movie.douban.com/subject/26687358/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "肉体的盛装 / 肉体の盛装 / Nikutai no Seiso aka The Gorgeous Geisha 1964 Subtitle (English)",
+    "date_published" : "2025-03-19T00:00:00-07:00",
+    "date_modified" : "2025-03-19T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Nikutai-no-Seiso-aka-The-Gorgeous-Geisha-1964-subtitle",
+    "url" : "https://coralsundy.com/Nikutai-no-Seiso-aka-The-Gorgeous-Geisha-1964-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0358608.jpg\" alt=\"tt0358608_cover_art\" /></p>\n\n<hr />\n\n<p>肉体的盛装 / 肉体の盛装 (Nikutai no Seiso / The Gorgeous Geisha) 是村山新治于1964年导演，新藤兼人原作和脚本，池野成音乐，佐久间良子 / 藤纯子 / 西村晃主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:26:44的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Nikutai no Seiso / The Gorgeous Geisha (1964) is a 1964 movie directed by Shinji Murayama, with notable stars Yoshiko Sakuma, Sumiko Fuji, and Ko Nishimura.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Nikutai.no.Seiso.aka.The.Gorgeous.Geisha.1964.eng.01-26-44.BYjls001999.rev1.srt\">Nikutai.no.Seiso.aka.The.Gorgeous.Geisha.1964.eng.01-26-44.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/583207\">https://subhd.tv/a/583207</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0358608/\">https://www.imdb.com/title/tt0358608/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/26687292/\">https://movie.douban.com/subject/26687292/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "舞妓物语 / 舞妓物語 aka Maiko Monogatari 1954 Subtitle (English)",
+    "date_published" : "2025-02-23T00:00:00-08:00",
+    "date_modified" : "2025-02-23T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Maiko-Monogatari-1954-subtitle",
+    "url" : "https://coralsundy.com/Maiko-Monogatari-1954-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt22177972.jpg\" alt=\"tt22177972_cover_art\" /></p>\n\n<hr />\n\n<p>舞妓物语 / 舞妓物語 (Maiko Monogatari) 是安田公义于1954年导演，川口松太郎原作，若尾德平 / 八尋桜児共同脚本，大久保德二郎音乐，根上淳 / 若尾文子主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:32:04的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Maiko Monogatari (1954) is a 1954 movie directed by Kimiyoshi Yasuda, with notable stars Jun Negami and Ayako Wakao.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Maiko.Monogatari.1954.eng.01-32-04.BYjls001999.rev1.srt\">Maiko.Monogatari.1954.eng.01-32-04.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/581075\">https://subhd.tv/a/581075</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt22177972/\">https://www.imdb.com/title/tt22177972/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/26987978/\">https://movie.douban.com/subject/26987978/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "心之日月 / 心の日月 aka Kokoro no Nichigetsu 1954 Subtitle (English)",
+    "date_published" : "2025-02-07T00:00:00-08:00",
+    "date_modified" : "2025-02-07T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Kokoro-no-Nichigetsu-1954-subtitle",
+    "url" : "https://coralsundy.com/Kokoro-no-Nichigetsu-1954-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt22013136.jpg\" alt=\"tt22013136_cover_art\" /></p>\n\n<hr />\n\n<p>心之日月 / 心の日月 (Kokoro no Nichigetsu) 是木村恵吾于1954年导演，菊池宽原作，木村惠吾 / 田辺朝二共同脚本，米山正夫音乐，若尾文子 / 菅原谦二主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:31:11的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Kokoro no Nichigetsu (1954) is a 1954 movie directed by Keigo Kimura, with notable stars Ayako Wakao and Kenji Sugawara.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Kokoro.no.Nichigetsu.1954.eng.01-31-11.BYjls001999.rev1.srt\">Kokoro.no.Nichigetsu.1954.eng.01-31-11.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/580098\">https://subhd.tv/a/580098</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt22013136/\">https://www.imdb.com/title/tt22013136/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/26987977/\">https://movie.douban.com/subject/26987977/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "细雪 / 細雪 / Sasameyuki aka The Makioka Sisters 1959 Subtitle (English)",
+    "date_published" : "2025-01-24T00:00:00-08:00",
+    "date_modified" : "2025-01-24T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Sasameyuki-aka-The-Makioka-Sisters-1959-subtitle",
+    "url" : "https://coralsundy.com/Sasameyuki-aka-The-Makioka-Sisters-1959-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0426202.jpg\" alt=\"tt0426202_cover_art\" /></p>\n\n<hr />\n\n<p>细雪 / 細雪 (Sasameyuki / The Makioka Sisters) 是岛耕二于1959年导演，谷崎润一郎原作，八住利雄脚本，大森盛太郎音乐，京町子 / 山本富士子 / 叶顺子主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:45:02的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Sasameyuki / The Makioka Sisters (1959) is a 1959 movie directed by Koji Shima, with notable stars Machiko Kyo, Fujiko Yamamoto, and Junko Kano.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Sasameyuki.aka.The.Makioka.Sisters.1959.eng.01-45-02.jls001999.rev1.srt\">Sasameyuki.aka.The.Makioka.Sisters.1959.eng.01-45-02.jls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/579246\">https://subhd.tv/a/579246</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0426202/\">https://www.imdb.com/title/tt0426202/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/3136822/\">https://movie.douban.com/subject/3136822/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "银心中 / 銀心中 / Gin Shinju aka Love is Lost 1956 Subtitle (Chinese)",
+    "date_published" : "2025-01-17T00:00:00-08:00",
+    "date_modified" : "2025-01-17T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Gin-Shinju-aka-Love-is-Lost-1956-subtitle",
+    "url" : "https://coralsundy.com/Gin-Shinju-aka-Love-is-Lost-1956-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0049753.jpg\" alt=\"tt0049753_cover_art\" /></p>\n\n<hr />\n\n<p>银心中 / 銀心中 (Gin Shinju / Love is Lost) 是1956年新藤兼人监督，田宮虎彦原作，新藤兼人剧本，伊福部昭音乐，乙羽信子 / 长门裕之 / 宇野重吉主演的电影。中文字幕由coralsundy自费出资，moello听译制作，noela09审核润色。适用于01:39:15的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p><strong>No English Subtitle</strong></p>\n\n<hr />\n\n<p><strong>听译/字幕</strong>: moello (moello1909@outlook.com)<br />\n<strong>审核/润色</strong>: noela09 (noela1990@outlook.com)<br />\n<strong>校对/调整</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(由coralsundy自费出资制作, 仅供个人学习)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: <a href=\"../subtitles/Gin.Shinju.aka.Love.is.Lost.1956.chs.01-39-15.BYmoello.rev1.srt\">Gin.Shinju.aka.Love.is.Lost.1956.chs.01-39-15.BYmoello.rev1.srt</a><br />\n<strong>English Subtitle</strong>: None</p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/578916\">https://subhd.tv/a/578916</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0049753/\">https://www.imdb.com/title/tt0049753/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/10505447/\">https://movie.douban.com/subject/10505447/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "碰脚的女人 / 足にさわった女 / Ashi Ni Sawatta Onna aka The Woman Who Touched the Legs 1960 Subtitle (English)",
+    "date_published" : "2025-01-03T00:00:00-08:00",
+    "date_modified" : "2025-01-03T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Ashi-Ni-Sawatta-Onna-aka-The-Woman-Who-Touched-the-Legs-1960-subtitle",
+    "url" : "https://coralsundy.com/Ashi-Ni-Sawatta-Onna-aka-The-Woman-Who-Touched-the-Legs-1960-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0228035.jpg\" alt=\"tt0228035_cover_art\" /></p>\n\n<hr />\n\n<p>碰脚的女人 / 足にさわった女 (Ashi Ni Sawatta Onna / The Woman Who Touched the Legs) 是增村保造于1960年导演，和田夏十 / 市川昆共同脚本，塚原晢夫音乐，京町子 / 鼻肇 / 船越英二 / 田宫二郎主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:25:15的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Ashi Ni Sawatta Onna / The Woman Who Touched the Legs (1960) is a 1960 movie directed by Yasuzo Masumura, with notable stars Machiko Kyo, Hajime Hana, Eiji Funakoshi, and Jiro Tamiya.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Ashi.Ni.Sawatta.Onna.aka.The.Woman.Who.Touched.the.Legs.1960.eng.01-25-15.BYjls001999.rev1.srt\">Ashi.Ni.Sawatta.Onna.aka.The.Woman.Who.Touched.the.Legs.1960.eng.01-25-15.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/578183\">https://subhd.tv/a/578183</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0228035/\">https://www.imdb.com/title/tt0228035/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/3169334/\">https://movie.douban.com/subject/3169334/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "甜汗 / 甘い汗 / Amai Ase aka Sweet Sweat 1964 Subtitle (English)",
+    "date_published" : "2024-12-05T00:00:00-08:00",
+    "date_modified" : "2024-12-05T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Amai-Ase-aka-Sweet-Sweat-1964-subtitle",
+    "url" : "https://coralsundy.com/Amai-Ase-aka-Sweet-Sweat-1964-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0204129.jpg\" alt=\"tt0204129_cover_art\" /></p>\n\n<hr />\n\n<p>甜汗 / 甘い汗 (Amai Ase / Sweet Sweat) 是丰田四郎于1964年导演，水木洋子脚本，林光音乐，京町子 / 佐田启二 / 桑野美雪 / 小泽荣太郎主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:59:26的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Amai Ase / Sweet Sweat (1964) is a 1964 movie directed by Shiro Toyoda, with notable stars Machiko Kyo, Keiji Sada, Miyuki Kuwano, and Eitaro Ozawa.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Amai.Ase.aka.Sweet.Sweat.1964.eng.01-59-26.BYjls001999.rev1.srt\">Amai.Ase.aka.Sweet.Sweat.1964.eng.01-59-26.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/576338\">https://subhd.tv/a/576338</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0204129/\">https://www.imdb.com/title/tt0204129/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/4151078/\">https://movie.douban.com/subject/4151078/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "女人的一生 / 女の一生 / Onna no Issho aka Life of a Woman 1962 Subtitle (English)",
+    "date_published" : "2024-11-15T00:00:00-08:00",
+    "date_modified" : "2024-11-15T00:00:00-08:00",
+    "id" : "https://coralsundy.com/Onna-no-Issho-aka-Life-of-a-Woman-1962-subtitle",
+    "url" : "https://coralsundy.com/Onna-no-Issho-aka-Life-of-a-Woman-1962-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt0261131.jpg\" alt=\"tt0261131_cover_art\" /></p>\n\n<hr />\n\n<p>女人的一生 / 女の一生 (Onna no Issho / Life of a Woman) 是增村保造于1962年导演，森本薰原作，八住利雄脚本，池野成音乐，京町子 / 田宫二郎 / 叶顺子主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:33:34的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Onna no Issho / Life of a Woman (1962) is a 1962 movie directed by Yasuzo Masumura, with notable stars Machiko Kyo, Jiro Tamiya, and Junko Kano.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Onna.no.Issho.aka.Life.of.a.Woman.1962.eng.01-33-34.BYjls001999.rev1.srt\">Onna.no.Issho.aka.Life.of.a.Woman.1962.eng.01-33-34.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/574990\">https://subhd.tv/a/574990</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt0261131/\">https://www.imdb.com/title/tt0261131/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/5139998/\">https://movie.douban.com/subject/5139998/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  },
+  {
+    "title": "雪夫人绘图 / 雪夫人繪圖 / Yuki Fujin Ezu aka Portrait of Madame Yuki 1968 (released in 1975) Subtitle (English)",
+    "date_published" : "2024-11-03T00:00:00-07:00",
+    "date_modified" : "2024-11-03T00:00:00-07:00",
+    "id" : "https://coralsundy.com/Yuki-Fujin-Ezu-aka-Portrait-of-Madame-Yuki-1968-subtitle",
+    "url" : "https://coralsundy.com/Yuki-Fujin-Ezu-aka-Portrait-of-Madame-Yuki-1968-subtitle",
+    "author" : {
+      "name" : null
+    },
+    "content_html" : "<hr />\n\n<p><img src=\"../assets/tt9417730.jpg\" alt=\"tt9417730_cover_art\" /></p>\n\n<hr />\n\n<p>雪夫人绘图 / 雪夫人繪圖 (Yuki Fujin Ezu / Portrait of Madame Yuki) 是成泽昌茂于1968年导演(1975年公映)，舟桥圣一原作，成泽昌茂脚本，渡边岳夫音乐，佐久间良子 / 山形勋 / 丹波哲郎主演的电影。英文字幕由coralsundy自费出资，jls001999听译制作完成。有少许错漏和语句不够流畅，可全程完整欣赏电影，适用于01:30:11的版本。由于电影年代久远，音轨质量一般，听译难免错漏，敬请谅解。</p>\n\n<hr />\n\n<p>Yuki Fujin Ezu / Portrait of Madame Yuki (1968) is a 1968 movie (released in 1975) directed by Masashige Narusawa, with notable stars Yoshiko Sakuma, Isao Yamagata, and Tetsuro Tanba.</p>\n\n<hr />\n\n<p><strong>Translation/Subtitle</strong>: jls001999 (jls001999@gmail.com)<br />\n<strong>Review/Proofreading</strong>: coralsundy (coralsundy@gmail.com)<br />\n<em>(Paid by coralsundy for the translation, personal use only)</em></p>\n\n<hr />\n\n<p><strong>中文字幕</strong>: 尚无<br />\n<strong>English Subtitle</strong>: <a href=\"../subtitles/Yuki.Fujin.Ezu.aka.Portrait.of.Madame.Yuki.1968.eng.01-30-11.BYjls001999.rev1.srt\">Yuki.Fujin.Ezu.aka.Portrait.of.Madame.Yuki.1968.eng.01-30-11.BYjls001999.rev1.srt</a></p>\n\n<hr />\n\n<p><strong>SUBHD</strong>: <a href=\"https://subhd.tv/a/574350\">https://subhd.tv/a/574350</a><br />\n<strong>IMDB</strong>: <a href=\"https://www.imdb.com/title/tt9417730/\">https://www.imdb.com/title/tt9417730/</a><br />\n<strong>DOUBAN</strong>: <a href=\"https://movie.douban.com/subject/30242127/\">https://movie.douban.com/subject/30242127/</a></p>\n\n<hr />\n\n<p><strong>More Movie Subtitles on My Website</strong>: <a href=\"/2021-01-10-subtitles-summary-list/\">CLICK HERE</a></p>\n\n"·
+  }
   ]
 }

@@ -1,17 +1,1494 @@
----
-layout: none
----
 [
-  {% for post in site.posts %}
+  
     {
-      "title"      : "{{ post.title | escape }}",
-      "author"     : "{{ post.author }}",
-      "category"   : "{{ post.category }}",
-      "tags"       : "{{ post.tags | join: ', ' }}",
-      "movie_year" : "{{ post.movie_year }}",
-      "url"        : "{{ post.url }}",
-      "date"       : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"      : "续铁炮犬 / 続鉄砲犬 / Zoku Teppo Inu aka Return of Gun Dog 1966 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1966",
+      "url"        : "/2026-04-17-Zoku-Teppo-Inu-aka-Return-of-Gun-Dog-1966-subtitle/",
+      "date"       : "2026-04-17 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "暴力 / Boryoku aka Violence 1952 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1952",
+      "url"        : "/2026-03-27-Boryoku-aka-Violence-1952-subtitle/",
+      "date"       : "2026-03-27 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "铁炮犬 / 鉄砲犬 / Teppo Inu aka Gun Dog 1965 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2026-02-27-Teppo-Inu-aka-Gun-Dog-1965-subtitle/",
+      "date"       : "2026-02-27 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "花影 / Kaei aka Shadow of a Flower 1961 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1961",
+      "url"        : "/2026-02-12-Kaei-aka-Shadow-of-a-Flower-1961-subtitle/",
+      "date"       : "2026-02-12 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "黑潮 / 黒い潮 / Kuroi Ushio aka Black Tide 1954 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1954",
+      "url"        : "/2026-01-30-Kuroi-Ushio-aka-Black-Tide-1954-subtitle/",
+      "date"       : "2026-01-30 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "早晨的波纹 / 朝の波紋 / Asa no Hamon aka A Ripple in a Morning 1952 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1952",
+      "url"        : "/2026-01-16-Asa-no-Hamon-aka-A-Ripple-in-a-Morning-1952-subtitle/",
+      "date"       : "2026-01-16 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "十代的诱惑 / 十代の誘惑 / Judai no Yuwaku 1953 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1953",
+      "url"        : "/2025-12-19-Judai-no-Yuwaku-1953-subtitle/",
+      "date"       : "2025-12-19 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "再续十代的性典 / 続々十代の性典 / Zoku zoku Judai no Seiten 1953 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1953",
+      "url"        : "/2025-11-21-Zoku-zoku-Judai-no-Seiten-1953-subtitle/",
+      "date"       : "2025-11-21 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "暴れ犬 / Abare Inu aka Rampaging Dog 1965 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2025-11-07-Abare-Inu-aka-Rampaging-Dog-1965-subtitle/",
+      "date"       : "2025-11-07 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "一生中最光辉的日子 / わが生涯のかがやける日 / Waga Shogai no Hagayakeru Hi aka The Brightest Day of My Life 1948 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1940s",
+      "movie_year" : "1948",
+      "url"        : "/2025-10-24-Waga-Shogai-no-Hagayakeru-Hi-aka-The-Brightest-Day-of-My-Life-1948-subtitle/",
+      "date"       : "2025-10-24 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "复杂的他 / 複雑な彼 / Fukuzatsu na Kare aka A Complicated Man 1966 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1966",
+      "url"        : "/2025-10-10-Fukuzatsu-na-Kare-aka-A-Complicated-Man-1966-subtitle/",
+      "date"       : "2025-10-10 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "复活的大地 / 甦える大地 / Yomigaeru Daichi aka The Earth is Born Again 1971 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1970s",
+      "movie_year" : "1971",
+      "url"        : "/2025-10-02-Yomigaeru-Daichi-aka-The-Earth-is-Born-Again-1971-subtitle/",
+      "date"       : "2025-10-02 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "闭店时间 / 閉店時間 / Heiten Jikan aka Closing Time 1962 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2025-09-17-Heiten-Jikan-aka-Closing-Time-1962-subtitle/",
+      "date"       : "2025-09-17 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "铅的墓碑 / 鉛の墓標 / Namari no Bohyo aka Lead Tombstone 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2025-07-11-Namari-no-Bohyo-aka-Lead-Tombstone-1964-subtitle/",
+      "date"       : "2025-07-11 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "富士山顶 / 富士山頂 / Fuji Sancho aka The Summit of Mt Fuji 1970 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1970s",
+      "movie_year" : "1970",
+      "url"        : "/2025-07-03-Fuji-Sancho-aka-The-Summit-of-Mt-Fuji-1970-subtitle/",
+      "date"       : "2025-07-03 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "日本的查泰莱夫人 / チャタレイ夫人は日本にもいた / Chatterley Fujin wa Nihon Nimo Ita aka Lady Chatterley of Japan 1953 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1953",
+      "url"        : "/2025-06-20-Chatterley-Fujin-wa-Nihon-Nimo-Ita-aka-Lady-Chatterley-of-Japan-1953-subtitle/",
+      "date"       : "2025-06-20 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "秦始皇帝 / Shin Shikotei aka The Great Wall 1962 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2025-06-02-Shin-Shikotei-aka-The-Great-Wall-1962-subtitle/",
+      "date"       : "2025-06-02 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "一粒麦 / 一粒の麦 / Hitotsubu no Mugi aka A Grain of Wheat 1958 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1958",
+      "url"        : "/2025-05-31-Hitotsubu-no-Mugi-aka-A-Grain-of-Wheat-1958-subtitle/",
+      "date"       : "2025-05-31 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "罗带轻分 / 帯をとく夏子 /  Obi o toku Natsuko aka Natsuko Take Off Her Kimono 1965 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2025-04-25-Obi-o-toku-Natsuko-aka-Natsuko-Take-Off-Her-Kimono-1965-subtitle/",
+      "date"       : "2025-04-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "阳炎图 / かげろう絵図 / Kagero Ezu aka Stop the Old Fox 1959 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1959",
+      "url"        : "/2025-04-03-Kagero-Ezu-aka-Stop-the-Old-Fox-1959-subtitle/",
+      "date"       : "2025-04-03 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "蓝色野兽 / 青い野獣 / Aoi Yaju aka The Blue Beast 1960 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1960",
+      "url"        : "/2025-03-28-Aoi-Yaju-aka-The-Blue-Beast-1960-subtitle/",
+      "date"       : "2025-03-28 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "肉体的盛装 / 肉体の盛装 / Nikutai no Seiso aka The Gorgeous Geisha 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2025-03-19-Nikutai-no-Seiso-aka-The-Gorgeous-Geisha-1964-subtitle/",
+      "date"       : "2025-03-19 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "舞妓物语 / 舞妓物語 aka Maiko Monogatari 1954 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1954",
+      "url"        : "/2025-02-23-Maiko-Monogatari-1954-subtitle/",
+      "date"       : "2025-02-23 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "心之日月 / 心の日月 aka Kokoro no Nichigetsu 1954 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1954",
+      "url"        : "/2025-02-07-Kokoro-no-Nichigetsu-1954-subtitle/",
+      "date"       : "2025-02-07 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "细雪 / 細雪 / Sasameyuki aka The Makioka Sisters 1959 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1959",
+      "url"        : "/2025-01-24-Sasameyuki-aka-The-Makioka-Sisters-1959-subtitle/",
+      "date"       : "2025-01-24 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "银心中 / 銀心中 / Gin Shinju aka Love is Lost 1956 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1956",
+      "url"        : "/2025-01-17-Gin-Shinju-aka-Love-is-Lost-1956-subtitle/",
+      "date"       : "2025-01-17 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "碰脚的女人 / 足にさわった女 / Ashi Ni Sawatta Onna aka The Woman Who Touched the Legs 1960 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1960",
+      "url"        : "/2025-01-03-Ashi-Ni-Sawatta-Onna-aka-The-Woman-Who-Touched-the-Legs-1960-subtitle/",
+      "date"       : "2025-01-03 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "甜汗 / 甘い汗 / Amai Ase aka Sweet Sweat 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2024-12-05-Amai-Ase-aka-Sweet-Sweat-1964-subtitle/",
+      "date"       : "2024-12-05 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "女人的一生 / 女の一生 / Onna no Issho aka Life of a Woman 1962 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2024-11-15-Onna-no-Issho-aka-Life-of-a-Woman-1962-subtitle/",
+      "date"       : "2024-11-15 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "雪夫人绘图 / 雪夫人繪圖 / Yuki Fujin Ezu aka Portrait of Madame Yuki 1968 (released in 1975) Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1968",
+      "url"        : "/2024-11-03-Yuki-Fujin-Ezu-aka-Portrait-of-Madame-Yuki-1968-subtitle/",
+      "date"       : "2024-11-03 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "白鹭 / 白鷺 / Shirasagi aka The Snowy Heron 1958 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1958",
+      "url"        : "/2024-10-25-Shirasagi-aka-The-Snowy-Heron-1958-subtitle/",
+      "date"       : "2024-10-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "处女受胎 / 処女受胎 / Shojo Jutai 1966 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1966",
+      "url"        : "/2024-10-19-Shojo-Jutai-1966-subtitle/",
+      "date"       : "2024-10-19 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "共犯者 / Kyohansha aka Accomplice 1958 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1958",
+      "url"        : "/2024-09-27-Kyohanshas-aka-Accomplice-1958-subtitle/",
+      "date"       : "2024-09-27 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "温泉女医 / Onsen Joi aka Hot Springs Lady 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2024-09-07-Onsen-Joi-aka-Hot-Springs-Lady-1964-subtitle/",
+      "date"       : "2024-09-07 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "琴与佐助 / お琴と佐助 / Okoto to Sasuke 1961 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1961",
+      "url"        : "/2024-09-03-Okoto-to-Sasuke-1961-subtitle/",
+      "date"       : "2024-09-03 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "怪谈陷阱 / 怪談おとし穴 / Kaidan Otoshiana aka The Ghostly Trap 1968 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1968",
+      "url"        : "/2024-08-23-Kaidan-Otoshiana-aka-The-Ghostly-Trap-1968-subtitle/",
+      "date"       : "2024-08-23 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "本日休诊 / 本日休診 / Honjitsu Kyushin aka Doctor&#39;s Day Off 1952 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1952",
+      "url"        : "/2024-08-08-Honjitsu-Kyushin-aka-Doctors-Day-Off-1952-subtitle/",
+      "date"       : "2024-08-08 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "家庭的事情 / 家庭の事情 / Katei no Jijo aka A Family Matter 1962 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2024-07-23-Katei-no-Jijo-aka-A-Family-Matter-1962-subtitle/",
+      "date"       : "2024-07-23 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "痴人之爱 / 痴人の愛 / Chijin no Ai aka A Fool&#39;s Love 1960 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1960",
+      "url"        : "/2024-07-10-Chijin-no-Ai-aka-A-Fools-Love-1960-subtitle/",
+      "date"       : "2024-07-10 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "婚期 / Konki aka The Age of Marriage 1961 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1961",
+      "url"        : "/2024-07-08-Konki-aka-The-Age-of-Marriage-1961-subtitle/",
+      "date"       : "2024-07-08 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "永远的羽季子 / 波光きらめく果て / Hako Kirameku Hate aka Beyond the Shining Sea 1986 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1980s",
+      "movie_year" : "1986",
+      "url"        : "/2024-06-14-Hako-Kirameku-Hate-aka-Beyond-the-Shining-Sea-1986-subtitle/",
+      "date"       : "2024-06-14 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "冰壁 / 氷壁 / Hyoheki aka The Precipice 1958 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1958",
+      "url"        : "/2024-05-24-Hyoheki-aka-The-Precipice-1958-subtitle/",
+      "date"       : "2024-05-24 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "歌行灯 / 歌行燈 / Uta Andon aka The Lantern 1960 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1960",
+      "url"        : "/2024-05-03-Uta-Andon-aka-The-Lantern-1960-subtitle/",
+      "date"       : "2024-05-03 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "风的视线 / 風の視線 / Kaze no Shisen aka The Hidden Profile 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2024-04-26-Kaze-no-Shisen-aka-The-Hidden-Profile-1963-subtitle/",
+      "date"       : "2024-04-26 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "盲女物语 / 女めくら物語 / Onna Mekura Monogatari aka The Story of a Blind Woman 1965 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2024-04-05-Onna-Mekura-Monogatari-aka-The-Story-of-a-Blind-Woman-1965-subtitle/",
+      "date"       : "2024-04-05 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "野兽的玩笑 / 獣の戯れ / Kemono no Tawamure aka The Frolic of the Beasts 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2024-03-23-Kemono-no-Tawamure-aka-The-Frolic-of-the-Beasts-1964-subtitle/",
+      "date"       : "2024-03-23 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "首 aka Kubi 1968 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1968",
+      "url"        : "/2024-03-13-Kubi-1968-subtitle/",
+      "date"       : "2024-03-13 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "沾湿的二人 / 濡れた二人 / Nureta Futari aka One Day at Summers End 1968 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1968",
+      "url"        : "/2024-03-05-Nureta-Futari-aka-One-Day-at-Summers-End-1968-subtitle/",
+      "date"       : "2024-03-05 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "大小姐 / お嬢さん / Ojosan aka Young Miss 1961 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1961",
+      "url"        : "/2024-02-28-Ojosan-aka-Young-Miss-1961-subtitle/",
+      "date"       : "2024-02-28 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "白与黑 / 白と黒 / Shiro to Kuro aka Pressure of Guilt 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2024-02-16-Shiro-to-Kuro-aka-Pressure-of-Guilt-1963-subtitle/",
+      "date"       : "2024-02-16 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "处女看见了 / 処女が見た / Shojo ga Mita aka The Virgin Witness 1966 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1966",
+      "url"        : "/2024-02-09-Shojo-ga-Mita-aka-The-Virgin-Witness-1966-subtitle/",
+      "date"       : "2024-02-09 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "暴雨 / 土砂降り / Doshaburi aka When It Rains, It Pours 1957 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1957",
+      "url"        : "/2024-01-31-Doshaburi-aka-When-It-Rains-It-Pours-1957-subtitle/",
+      "date"       : "2024-01-31 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "苦闷 / 悶え / Modae aka The Night of the Honeymoon 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2024-01-23-Modae-aka-The-Night-of-the-Honeymoon-1964-subtitle/",
+      "date"       : "2024-01-23 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "没有花与果实的森林 / 花実のない森 / Kajitsu no Nai Mori aka Forest of No Escape 1965 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2024-01-10-Kajitsusno-Nai-Mori-aka-Forest-of-No-Escape-1965-subtitle/",
+      "date"       : "2024-01-10 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "黑色王牌 / 黒の切り札 / Kuro no Kirifuda aka Black Trump Card 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2024-01-01-Kuro-no-Kirifuda-aka-Black-Trump-Card-1964-subtitle/",
+      "date"       : "2024-01-01 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "黑色暴走 / 黒の爆走 / Kuro no Bakuso aka Black Speeding 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2023-12-28-Kuro-no-Bakuso-aka-Black-Speeding-1964-subtitle/",
+      "date"       : "2023-12-28 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "黑色停车场 / 黒の駐車場 / Kuro no Chushajo aka Black Parking Lot 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2023-12-26-Kuro-no-Chushajo-aka-Black-Parking-Lot-1963-subtitle/",
+      "date"       : "2023-12-26 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "黑色树海 / 黒い樹海 / Kuroi Jukai aka Black Sea of Trees 1960 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1960",
+      "url"        : "/2023-11-26-Kuroi-Jukai-aka-Black-Sea-of-Trees-1960-subtitle/",
+      "date"       : "2023-11-26 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "比翼鸟 / 妻の日の愛のかたみに / Tsuma no Hi no Ai no Katamini aka While Yet a Wife 1965 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2023-10-23-Tsuma-no-Hi-no-Ai-no-Katamini-aka-While-Yet-a-Wife-1965-subtitle/",
+      "date"       : "2023-10-23 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "大恶党 / 大悪党 / Dai Akuto aka The Great Villains 1968 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1968",
+      "url"        : "/2023-10-09-Dai-Akuto-aka-The-Great-Villains-1968-subtitle/",
+      "date"       : "2023-10-09 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "ごろつき犬 / Gorotsuki Inu aka Rogue Dog 1965 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2023-09-12-Gorotsuki-Inu-aka-Rogue-Dog-1965-subtitle/",
+      "date"       : "2023-09-12 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "动脉列岛 / 動脈列島 / Domyaku Retto aka Dynamic Islands 1975 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1970s",
+      "movie_year" : "1975",
+      "url"        : "/2023-09-01-Domyaku-Retto-aka-Dynamic-Islands-1975-subtitle/",
+      "date"       : "2023-09-01 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "逃离零能见度 / 視界ゼロの脱出 / Shikai Zero no Dasshutsu aka Zero Escape Visibility 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2023-08-25-Shikai-Zero-no-Dasshutsu-aka-Zero-Escape-Visibility-1963-subtitle/",
+      "date"       : "2023-08-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "昨天消失的男人 / 昨日消えた男 / Kino Kieta Otoko aka The Man Who Disappeared Yesterday 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2023-08-10-Kino-Kieta-Otoko-aka-The-Man-Who-Disappeared-Yesterday-1964-subtitle/",
+      "date"       : "2023-08-10 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "雪的丧章 / 雪の喪章 / Yuki no Mosho 1967 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1967",
+      "url"        : "/2023-07-16-Yuki-no-Mosho-1967-subtitle/",
+      "date"       : "2023-07-16 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "我们俩的暗号: 再见、你好 / あなたと私の合言葉 さよなら、今日は / Anata to Watashi no Aikotoba Sayonara Konnichiwa aka Goodbye, Hello 1959 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1959",
+      "url"        : "/2023-06-29-Anata-to-Watashi-no-Aikotoba-Sayonara-Konnichiwa-aka-Goodbye-Hello-1959-subtitle/",
+      "date"       : "2023-06-29 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "胭脂虎影 / 影を斬る / Kage o Kiru aka Cut The Shadow 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2023-06-13-Kage-o-Kiru-aka-Cut-The-Shadow-1963-subtitle/",
+      "date"       : "2023-06-13 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "二·二六事件 脱出 / Ni-nirokushiken Daisshutsu aka The Escape 1962 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2023-06-10-Ni-nirokushiken-Daisshutsu-aka-The-Escape-1962-subtitle/",
+      "date"       : "2023-06-10 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "闇を横切れ / 穿越黑暗 / Yami o Yokogire aka Across Darkness 1959 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1959",
+      "url"        : "/2023-05-26-Yami-o-Yokogire-aka-Across-Darkness-1959-subtitle/",
+      "date"       : "2023-05-26 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "续十代的性典 / 続十代の性典 / Zoku Judai no Seiten aka Dangerous Age 1953 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1953",
+      "url"        : "/2023-05-09-Zoku-Judai-no-Seiten-aka-Dangerous-Age-1953-subtitle/",
+      "date"       : "2023-05-09 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "不信任的时候 / 不信のとき / Fushin no Toki aka The Time of Reckoning 1968 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1968",
+      "url"        : "/2023-04-27-Fushin-no-Toki-aka-The-Time-of-Reckoning-1968-subtitle/",
+      "date"       : "2023-04-27 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "积木之箱 / 積木の箱 / Tsumiki no Hako aka The House of Wooden Blocks 1968 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1968",
+      "url"        : "/2023-04-25-Tsumiki-no-Hako-aka-The-House-of-Wooden-Blocks-1968-subtitle/",
+      "date"       : "2023-04-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "手討 aka Teuchi 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2023-03-29-Teuchi-1963-subtitle/",
+      "date"       : "2023-03-29 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "日本の熱い日々 謀殺·下山事件 / Nihon no Atsui Hibi Bosatsu Shimoyama Jiken aka Willful Murder 1981 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1980s",
+      "movie_year" : "1981",
+      "url"        : "/2023-03-22-Nihon-no-Atsui-Hibi-Bosatsu-Shimoyama-Jiken-aka-Willful-Murder-1981-subtitle/",
+      "date"       : "2023-03-22 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "无法忘怀的那夜 / その夜は忘れない / Sono Yo Wa Wasurenai aka A Night to Remember 1962 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2023-03-14-Sono-Yo-Wa-Wasurenai-aka-A-Night-to-Remember-1962-subtitle/",
+      "date"       : "2023-03-14 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "妇系图 / 婦系図 / Onnakeizu aka Her Hidden Past 1962 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2023-02-08-Onnakeizu-aka-Her-Hidden-Past-1962-subtitle/",
+      "date"       : "2023-02-08 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "大喧哗 / 大喧嘩 / Odeiri aka Giant Rumble 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2023-02-07-Odeiri-aka-Giant-Rumble-1964-subtitle/",
+      "date"       : "2023-02-07 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "军中黑道·强夺 / 兵隊やくざ·強奪 / Heitai Yakuza Godatsu aka Hoodlum Soldier 8 1968 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1968",
+      "url"        : "/2023-01-24-Heitai-Yakuza-Godatsu-aka-Hoodlum-Soldier-8-1968-subtitle/",
+      "date"       : "2023-01-24 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "军中黑道·突袭 / 兵隊やくざ·殴り込み / Heitai Yakuza Nagurikomi aka Hoodlum Soldier 7 1967 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1967",
+      "url"        : "/2023-01-13-Heitai-Yakuza-Nagurikomi-aka-Hoodlum-Soldier-7-1967-subtitle/",
+      "date"       : "2023-01-13 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "地图的湮地 / 地図のない町 / Chizu no Nai Machi aka The Jungle Block 1960 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1960",
+      "url"        : "/2023-01-13-Chizu-no-Nai-Machi-aka-The-Jungle-Block-1960-subtitle/",
+      "date"       : "2023-01-13 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "女が愛して憎むとき / Onna Ga Aishite Nikumu Toki aka She Came for Love 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2023-01-04-Onna-Ga-Aishite-Nikumu-Toki-aka-She-Came-for-Love-1963-subtitle/",
+      "date"       : "2023-01-04 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "军中黑道·让我来 / 兵隊やくざ·俺にまかせろ / Heitai Yakuza Ore Ni Makasero aka Hoodlum Soldier 6 1967 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1967",
+      "url"        : "/2022-12-13-Heitai-Yakuza-Ore-Ni-Makasero-aka-Hoodlum-Soldier-6-1967-subtitle/",
+      "date"       : "2022-12-13 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "雁 / Gan aka The Wild Goose 1966 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1966",
+      "url"        : "/2022-12-09-Gan-aka-The-Wild-Goose-1966-subtitle/",
+      "date"       : "2022-12-09 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "不伦 / 不倫 / Furin aka Adultery 1965 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2022-11-30-Furin-aka-Adultery-1965-subtitle/",
+      "date"       : "2022-11-30 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "女人的极恶贴 / おんな極悪帖 / Onna Gokuakucho aka Naked Ambition 1970 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1970s",
+      "movie_year" : "1970",
+      "url"        : "/2022-11-23-Onna-Gokuakucho-aka-Naked-Ambition-1970-subtitle/",
+      "date"       : "2022-11-23 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "续花头巾 / 続花頭巾 / Zoku Hana Zukin aka The Flowery Hood Part II 1956 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1956",
+      "url"        : "/2022-11-19-Zoku-Hana-Zukin-aka-The-Flowery-Hood-Part-II-1956-subtitle/",
+      "date"       : "2022-11-19 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "军中黑道·大逃亡 / 兵隊やくざ·大脱走 / Heitai Yakuza Daidasso / Hoodlum Soldier&#39;s Flight to Freedom aka Hoodlum Soldier 5 1966 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1966",
+      "url"        : "/2022-11-10-Heitai-Yakuza-Daidasso-aka-Hoodlum-Soldier-5-1966-subtitle/",
+      "date"       : "2022-11-10 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "风速七十五米 / 風速七十五米 / Fusoku Nanaju-go Metoru aka Typhoon Reporter 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2022-11-09-Fusoku-Nanaju-go-Metoru-aka-Typhoon-Reporter-1963-subtitle/",
+      "date"       : "2022-11-09 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "花头巾 / 花頭巾 / Hana Zukin aka The Flowery Hood 1956 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1956",
+      "url"        : "/2022-11-01-Hana-Zukin-aka-The-Flowery-Hood-1956-subtitle/",
+      "date"       : "2022-11-01 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "结婚相谈 / 結婚相談 / Kekkon Sodan / The Passionate Spinster 1965 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2022-10-22-Kekkon-Sodan-aka-The-Passionate-Spinster-1965-subtitle/",
+      "date"       : "2022-10-22 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "玫瑰树上花满开 / 薔薇の木にバラの花咲く / Bara no Ki Ni Bara no Hana Saku aka Rose Bloom On The Rose Tree 1959 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1959",
+      "url"        : "/2022-10-13-Bara-no-Ki-Ni-Bara-no-Hana-Saku-aka-Rose-Bloom-On-The-Rose-Tree-1959-subtitle/",
+      "date"       : "2022-10-13 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "军中黑道·越狱 / 兵隊やくざ·脱獄 / Heitai Yakuza Datsugoku / Hoodlum Soldier&#39;s Escape aka Hoodlum Soldier 4 1966 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1966",
+      "url"        : "/2022-10-12-Heitai-Yakuza-Datsugoku-aka-Hoodlum-Soldier-4-1966-subtitle/",
+      "date"       : "2022-10-12 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "诱拐报道 / 誘拐報道 / Yukai Hodo aka To Trap a Kidnapper 1982 Subtitle (Chinese/English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, eng_subtitle, 1980s",
+      "movie_year" : "1982",
+      "url"        : "/2022-10-08-Yukai-Hodo-aka-To-Trap-a-Kidnapper-1982-subtitle/",
+      "date"       : "2022-10-08 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "在那座桥的岸边·完结篇 / あの橋の畔で·完結篇 / Ano Hashi no Hotori de 4 Kanketsuhen aka At the Side of the Bridge 4 Final Episode 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2022-10-03-Ano-Hashi-no-Hotori-de-4-Kanketsuhen-aka-At-the-Side-of-the-Bridge-4-Final-Episode-1963-subtitle/",
+      "date"       : "2022-10-03 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "在那座桥的岸边·第三部 / あの橋の畔で·第三部 / Ano Hashi no Hotori de 3 aka At the Side of the Bridge 3 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2022-09-25-Ano-Hashi-no-Hotori-de-3-aka-At-the-Side-of-the-Bridge-3-1963-subtitle/",
+      "date"       : "2022-09-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "美丽有罪 / 美貌に罪あり / Bibo Ni Tsumi Ari aka Beauty Is Guilty 1959 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1959",
+      "url"        : "/2022-09-20-Bibo-Ni-Tsumi-Ari-aka-Beauty-Is-Guilty-1959-subtitle/",
+      "date"       : "2022-09-20 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "在那座桥的岸边·第二部 / あの橋の畔で·第二部 / Ano Hashi no Hotori de 2 aka At the Side of the Bridge 2 1962 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2022-09-15-Ano-Hashi-no-Hotori-de-2-aka-At-the-Side-of-the-Bridge-2-1962-subtitle/",
+      "date"       : "2022-09-15 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "打碎那面墙 / その壁を砕け / Sono Kabe O Kudake aka Break Down That Wall 1959 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1959",
+      "url"        : "/2022-09-01-Sono-Kabe-O-Kudake-Break-Down-That-Wall-1959-subtitle/",
+      "date"       : "2022-09-01 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "暴风圈 / 暴風圏 / Bofuken aka A Storm Zone 1959 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1959",
+      "url"        : "/2022-08-17-Bofuken-1959-subtitle/",
+      "date"       : "2022-08-17 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "在那座桥的岸边·第一部 / あの橋の畔で·第一部 / Ano Hashi no Hotori de aka At the Side of the Bridge 1962 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2022-07-31-Ano-Hashi-no-Hotori-de-aka-At-the-Side-of-the-Bridge-1962-subtitle/",
+      "date"       : "2022-07-31 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "正午的黑暗 / 真昼の暗黒 / Mahiru no Ankoku aka Darkness at Noon 1956 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1956",
+      "url"        : "/2022-07-25-Mahiru-no-Ankoku-aka-Darkness-at-Noon-1956-subtitle/",
+      "date"       : "2022-07-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "人间之壁 / 人間の壁 / Ningen no Kabe aka The Human Wall 1959 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1959",
+      "url"        : "/2022-07-03-Ningen-no-Kabe-aka-The-Human-Wall-1959-subtitle/",
+      "date"       : "2022-07-03 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "陆军中野学校·开战前夜 / 陸軍中野学校·開戦前夜 / Rikugun Nakano Gakko Kaisen Zenya aka The School of Spies 5 1968 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1968",
+      "url"        : "/2022-06-23-Rikugun-Nakano-Gakko-Kaisen-Zenya-aka-The-School-of-Spies-5-1968-subtitle/",
+      "date"       : "2022-06-23 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "村八分 / Mura Hachibu 1953 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1953",
+      "url"        : "/2022-06-12-Mura-Hachibu-1953-subtitle/",
+      "date"       : "2022-06-12 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "陆军中野学校·密命 / 陸軍中野学校·密命 / Rikugun Nakano Gakko Mitsumei aka The School of Spies 4 1967 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1967",
+      "url"        : "/2022-06-11-Rikugun-Nakano-Gakko-Mitsumei-aka-The-School-of-Spies-4-1967-subtitle/",
+      "date"       : "2022-06-11 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "像野蛮人一样 / 野蛮人のように / Yabanjin no Youni aka Like A Barbarian 1985 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1980s",
+      "movie_year" : "1985",
+      "url"        : "/2022-05-29-Yabanjin-no-Youni-aka-Like-A-Barbarian-1985-subtitle/",
+      "date"       : "2022-05-29 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "蟹工船 / Kanikosen aka The Crab Canning Ship 1953 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1953",
+      "url"        : "/2022-05-15-Kanikosen-aka-The-Crab-Canning-Ship-1953-subtitle/",
+      "date"       : "2022-05-15 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "喧嘩犬 / Kenka Inu aka Fighting Dog 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2022-05-11-Kenka-Inu-aka-Fighting-Dog-1964-subtitle/",
+      "date"       : "2022-05-11 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "新·军中黑道 / 新·兵隊やくざ / Shin Heitai Yakuza / Hoodlum Soldier Return / Hoodlum Soldier Deserts Again aka Hoodlum Soldier 3 1966 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1966",
+      "url"        : "/2022-04-29-Shin-Heitai-Yakuza-aka-Hoodlum-Soldier-3-1966-subtitle/",
+      "date"       : "2022-04-29 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "异母兄弟 / 異母兄弟 / Ibo Kyoudai aka Stepbrothers 1957 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1957",
+      "url"        : "/2022-04-22-Ibo-Kyoudai-aka-Stepbrothers-1957-subtitle/",
+      "date"       : "2022-04-22 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "陆军中野学校·龙三号指令 / 陸軍中野学校·竜三号指令 / Rikugun Nakano Gakko Ryu Sango Shirei aka The School of Spies 3 1967 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1967",
+      "url"        : "/2022-04-16-Rikugun-Nakano-Gakko-Ryu-Sango-Shirei-aka-The-School-of-Spies-3-1967-subtitle/",
+      "date"       : "2022-04-16 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "古都憂愁·姉いもうと / Koto Yushu Ane Imoto aka The Sisters and I 1967 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1967",
+      "url"        : "/2022-04-05-Koto-Yushu-Ane-Imoto-aka-The-Sisters-and-I-1967-subtitle/",
+      "date"       : "2022-04-05 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "没有武器的战斗 / 武器なき斗い / Buki Naki Tatakai aka The War Without Weapons 1960 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1960",
+      "url"        : "/2022-03-29-Buki-Naki-Tatakai-aka-The-War-Without-Weapons-1960-subtitle/",
+      "date"       : "2022-03-29 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "将我深埋 / わたしを深く埋めて / Watashi o Fukaku Umete aka Bury Me Deep 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2022-03-26-Watashi-o-Fukaku-Umete-aka-Bury-Me-Deep-1963-subtitle/",
+      "date"       : "2022-03-26 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "恶名 / 悪名 / Akumyo aka Bad Reputation 1961 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1961",
+      "url"        : "/2022-03-16-Akumyo-aka-Bad-Reputation-1961-subtitle/",
+      "date"       : "2022-03-16 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "暴力之街 / 暴力的街 / 暴力の街 / Boryoku no Machi aka Street of Violence 1950 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1950",
+      "url"        : "/2022-03-07-Boryoku-no-Machi-aka-Street-of-Violence-1950-subtitle/",
+      "date"       : "2022-03-07 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "宿無し犬 / Yadonashi Inu aka Homeless Dog 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2022-03-04-Yadonashi-Inu-aka-Homeless-Dog-1964-subtitle/",
+      "date"       : "2022-03-04 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "陆军中野学校·云一号指令 / 陸軍中野学校·雲一号指令 / Rikugun Nakano Gakko Kumoichigo Shirei aka The School of Spies 2 1966 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1966",
+      "url"        : "/2022-02-23-Rikugun-Nakano-Gakko-Kumoichigo-Shirei-aka-The-School-of-Spies-2-1966-subtitle/",
+      "date"       : "2022-02-23 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "续·军中黑道 / 続·兵隊やくざ / Zoku Heitai Yakuza / Hoodlum Soldier and the C.O. aka Hoodlum Soldier 2 1965 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2022-02-14-Zoku-Heitai-Yakuza-aka-Hoodlum-Soldier-2-1965-subtitle/",
+      "date"       : "2022-02-14 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "颜 / 顔 / Kao aka Face 1957 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1957",
+      "url"        : "/2022-02-06-Kao-aka-Face-1957-subtitle/",
+      "date"       : "2022-02-06 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "西装忍者 / 背広の忍者 / Sebiro no Ninja aka Ninja in a Business Suit 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2022-01-25-Sebiro-no-Ninja-aka-Ninja-in-a-Business-Suit-1963-subtitle/",
+      "date"       : "2022-01-25 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "午间陷阱 / 真昼の罠 / Mahiru no Wana aka Midday Trap 1962 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2022-01-12-Mahiru-no-Wana-aka-Midday-Trap-1962-subtitle/",
+      "date"       : "2022-01-12 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "最后关头 / どたんば / Dotanba aka The Eleventh Hour 1957 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1957",
+      "url"        : "/2022-01-07-Dotanba-aka-The-Eleventh-Hour-1957-subtitle/",
+      "date"       : "2022-01-07 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "十代的性典 / 十代の性典 / Judai no Seiten aka Sexual Code of Teenager 1953 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1953",
+      "url"        : "/2022-01-04-Judai-no-Seiten-aka-Sexual-Code-of-Teenager-1953-subtitle/",
+      "date"       : "2022-01-04 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "密告者 / Mikkokusha aka Betrayer 1965 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2021-12-26-Mikkokusha-aka-Betrayer-1965-subtitle/",
+      "date"       : "2021-12-26 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "间谍 / スパイ / Supai aka Spy 1965 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1965",
+      "url"        : "/2021-12-16-Supai-aka-Spy-1965-subtitle/",
+      "date"       : "2021-12-16 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "小说吉田学校 / 小説吉田学校 aka Shosetsu Yoshida Gakko 1983 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1980s",
+      "movie_year" : "1983",
+      "url"        : "/2021-12-04-Shosetsu-Yoshida-Gakko-1983-subtitle/",
+      "date"       : "2021-12-04 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "黑色漩涡 / 黒の奔流 / Kuro no Honryu aka Ordinary Darkness 1972 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1970s",
+      "movie_year" : "1972",
+      "url"        : "/2021-11-29-Kuro-no-Honryu-aka-Ordinary-Darkness-1972-subtitle/",
+      "date"       : "2021-11-29 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "多伤的山河 / 傷だらけの山河 / Kizudarake no Sanga aka The Tycoon 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2021-11-16-Kizudarake-no-Sanga-aka-The-Tycoon-1964-subtitle/",
+      "date"       : "2021-11-16 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "伟大进步 / 大いなる驀進 / Oinaru Bakushin aka Devotion to Railway 1960 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1960",
+      "url"        : "/2021-11-11-Oinaru-Bakushin-aka-Devotion-to-Railway-1960-subtitle/",
+      "date"       : "2021-11-11 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "黑色凶器 / 黒の凶器 / Kuro no Kyoki aka Black Weapon 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2021-10-31-Kuro-no-Kyoki-aka-Black-Weapon-1964-subtitle/",
+      "date"       : "2021-10-31 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "伟大征程 / 大いなる旅路 / Oinaru Tabiji aka Great Journey 1960 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1960",
+      "url"        : "/2021-10-22-Oinaru-Tabiji-aka-Great-Journey-1960-subtitle/",
+      "date"       : "2021-10-22 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "黑色挑战者 / 黒の挑戦者 / Kuro no Chosensha aka Black Challenger 1964 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1964",
+      "url"        : "/2021-10-19-Kuro-no-Chosensha-aka-Black-Challenger-1964-subtitle/",
+      "date"       : "2021-10-19 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "黑色商标 / 黒の商標 / Kuro no Shohyo aka Black Trademark 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2021-10-10-Kuro-no-Shohyo-aka-Black-Trademark-1963-subtitle/",
+      "date"       : "2021-10-10 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "黑色死球 / 黒の死球 / Kuro no Shikyu aka Black Death Ball 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2021-10-02-Kuro-no-Shikyu-aka-Black-Death-Ball-1963-subtitle/",
+      "date"       : "2021-10-02 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "昭和枯草哀歌 / 昭和枯れすすき / Shôwa Karesusuki aka The Perennial Weed 1975 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1970s",
+      "movie_year" : "1975",
+      "url"        : "/2021-09-25-Showa-Karesusuki-aka-The-Perennial-Weed-1975-subtitle/",
+      "date"       : "2021-09-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "黑色钱币 / 黒の札束 / Kuro no satsutaba aka Black Money 1963 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1963",
+      "url"        : "/2021-09-20-Kuro-no-Satsutaba-aka-Black-Money-1963-subtitle/",
+      "date"       : "2021-09-20 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "松川事件 / Matsukawa Jiken aka The Matsukawa Incident 1961 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1961",
+      "url"        : "/2021-09-14-Matsukawa-Jiken-aka-The-Matsukawa-Incident-1961-subtitle/",
+      "date"       : "2021-09-14 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "虹いくたび / Niji Ikutabi aka A Rainbow at Every Turn 1956 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1950s",
+      "movie_year" : "1956",
+      "url"        : "/2021-09-10-Niji-Ikutabi-aka-A-Rainbow-at-Every-Turn-1956-subtitle/",
+      "date"       : "2021-09-10 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "今年の恋 / Kotoshi no Koi aka This Year&#39;s Love 1962 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2021-09-10-Kotoshi-no-Koi-aka-This-Years-Love-1962-subtitle/",
+      "date"       : "2021-09-10 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "信浓川 / しなの川 / Shinano Gawa aka Shinano River 1973 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1970s",
+      "movie_year" : "1973",
+      "url"        : "/2021-09-03-Shinano-Gawa-aka-Shinano-River-1973-subtitle/",
+      "date"       : "2021-09-03 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "泛滥 / 氾濫 / Hanran 1959 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1950s",
+      "movie_year" : "1959",
+      "url"        : "/2021-09-03-Hanran-1959-subtitle/",
+      "date"       : "2021-09-03 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "烂 / 爛 / Tadare aka Stolen Pleasure 1962 Subtitle (English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, 1960s",
+      "movie_year" : "1962",
+      "url"        : "/2021-08-25-Tadare-aka-Stolen-Pleasure-1962-subtitle/",
+      "date"       : "2021-08-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "胁迫 / 脅迫 / Odoshi aka The Threat 1966 Subtitle (Chinese)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, chs_subtitle, 1960s",
+      "movie_year" : "1966",
+      "url"        : "/2021-08-25-Odoshi-aka-The-Threat-1966-subtitle/",
+      "date"       : "2021-08-25 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "事件 / Jiken aka The Incident 1978 Subtitle (Chinese/English)",
+      "author"     : "coralsundy",
+      "category"   : "subtitle",
+      "tags"       : "subtitle, movie, jap_movie, eng_subtitle, chs_subtitle, 1970s",
+      "movie_year" : "1978",
+      "url"        : "/2021-03-21-Jiken-aka-The-Incident-1978-subtitle/",
+      "date"       : "2021-03-21 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "[Pinned] Movie Subtitles Summary List by Coralsundy",
+      "author"     : "coralsundy",
+      "category"   : "",
+      "tags"       : "subtitle, movie",
+      "movie_year" : "",
+      "url"        : "/2021-01-10-subtitles-summary-list/",
+      "date"       : "2021-01-10 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "[Private Example] Post",
+      "author"     : "",
+      "category"   : "tutorial",
+      "tags"       : "guide",
+      "movie_year" : "",
+      "url"        : "/2020-04-05-private-example/",
+      "date"       : "2020-04-05 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"      : "Example HTML",
+      "author"     : "",
+      "category"   : "tutorial",
+      "tags"       : "guide, html",
+      "movie_year" : "",
+      "url"        : "/2020-02-27-html-posts/",
+      "date"       : "2020-02-27 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"      : "Example Markdown",
+      "author"     : "",
+      "category"   : "tutorial",
+      "tags"       : "guide, markdown",
+      "movie_year" : "",
+      "url"        : "/2018-10-20-markdown-posts/",
+      "date"       : "2018-10-20 00:00:00 -0700"
+    } 
+  
 ]
 
