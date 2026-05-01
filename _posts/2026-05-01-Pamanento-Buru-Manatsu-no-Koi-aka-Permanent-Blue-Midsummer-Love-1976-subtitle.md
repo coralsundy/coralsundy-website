@@ -3,7 +3,6 @@ layout: subtitle
 date: 2026-05-01
 title: "永恒的蓝色盛夏之恋 / パーマネント・ブルー 真夏の恋 / Pamanento Buru Manatsu no Koi aka Permanent Blue Midsummer Love 1976 Subtitle (English)"
 subtitle: "永恒的蓝色盛夏之恋 / パーマネント・ブルー 真夏の恋 / Pamanento Buru Manatsu no Koi aka Permanent Blue Midsummer Love 1976 Subtitle (English)"
-subtitle: "女人的极恶贴 / おんな極悪帖 / Onna Gokuakucho aka Naked Ambition 1970 Subtitle (English)"
 author: coralsundy
 movie_year: 1976
 category: subtitle
