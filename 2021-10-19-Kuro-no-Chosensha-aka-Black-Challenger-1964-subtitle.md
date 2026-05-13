@@ -34,7 +34,7 @@ Kuro no Chosensha / Black Challenger (1964) is the 8th installment of the "Black
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/525142><br>
+**SUBHD**: <https://subhd.tv/a/589zqQ><br>
 **IMDB**: <https://www.imdb.com/title/tt8933654/><br>
 **DOUBAN**: <https://movie.douban.com/subject/34778360/>
 
