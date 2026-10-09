@@ -40,7 +40,7 @@ Heitai Yakuza Datsugoku / Hoodlum Soldier 4 (1966) is a 1966 movie directed by K
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/541655><br>
+**SUBHD**: <https://subhd.tv/a/58OxlQ><br>
 **IMDB**: <https://www.imdb.com/title/tt0228376/><br>
 **DOUBAN**: <https://movie.douban.com/subject/20463168/>
 

@@ -34,7 +34,7 @@ Kuro no Chushajo / Black Parking Lot / Lips of Ruin (1963) is the 6th installmen
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/559561><br>
+**SUBHD**: <https://subhd.tv/a/xD8K2o><br>
 **IMDB**: <https://www.imdb.com/title/tt0249668/><br>
 **DOUBAN**: <https://movie.douban.com/subject/26384359/>
 

@@ -34,7 +34,7 @@ Hako Kirameku Hate / Beyond the Shining Sea (1986) is a 1986 movie directed by T
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/567122><br>
+**SUBHD**: <https://subhd.tv/a/pQy48k><br>
 **IMDB**: <https://www.imdb.com/title/tt0329141/><br>
 **DOUBAN**: <https://movie.douban.com/subject/1308661/>
 

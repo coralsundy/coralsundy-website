@@ -34,7 +34,7 @@ Heitai Yakuza Daidasso / Hoodlum Soldier's Flight to Freedom aka Hoodlum Soldier
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/542998><br>
+**SUBHD**: <https://subhd.tv/a/gbI8YH><br>
 **IMDB**: <https://www.imdb.com/title/tt0228375/><br>
 **DOUBAN**: <https://movie.douban.com/subject/20445437/>
 

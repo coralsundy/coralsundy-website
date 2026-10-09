@@ -34,7 +34,7 @@ Kuro no Honryu / Ordinary Darkness (1972) is a 1972 movie directed by Yusuke Wat
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/527226><br>
+**SUBHD**: <https://subhd.tv/a/4tueyO><br>
 **IMDB**: <https://www.imdb.com/title/tt0352506/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3402833/>
 

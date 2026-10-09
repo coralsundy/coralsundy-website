@@ -35,7 +35,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1970s]
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/598628><br>
+**SUBHD**: <https://subhd.tv/a/RHukNe><br>
 **IMDB**: <https://www.imdb.com/title/tt2638160/><br>
 **DOUBAN**: <https://movie.douban.com/subject/26688191/>
 

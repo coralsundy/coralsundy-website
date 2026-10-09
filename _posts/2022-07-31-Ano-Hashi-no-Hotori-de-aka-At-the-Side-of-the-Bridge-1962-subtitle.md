@@ -34,7 +34,7 @@ Ano Hashi no Hotori de / At the Side of the Bridge (1962) is a 1962 movie direct
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/538730><br>
+**SUBHD**: <https://subhd.tv/a/vlL1Zm><br>
 **IMDB**: None<br>
 **DOUBAN**: <https://movie.douban.com/subject/26589469/>
 

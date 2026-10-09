@@ -34,7 +34,7 @@ Akumyo / Bad Reputation (1961) is a 1961 movie directed by Tokuzo Tanaka, with n
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/531943><br>
+**SUBHD**: <https://subhd.tv/a/XnIHxb><br>
 **IMDB**: <https://www.imdb.com/title/tt0122881/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3536149/>
 

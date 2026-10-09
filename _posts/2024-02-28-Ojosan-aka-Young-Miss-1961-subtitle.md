@@ -34,7 +34,7 @@ Ojosan / Young Miss (1961) is a 1961 movie directed by Taro Yuge, with notable s
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/561794><br>
+**SUBHD**: <https://subhd.tv/a/vlAI0m><br>
 **IMDB**: <https://www.imdb.com/title/tt0327069/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3536273/>
 

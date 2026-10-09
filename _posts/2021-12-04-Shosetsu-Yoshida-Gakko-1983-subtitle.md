@@ -34,7 +34,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1980s]
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/527484><br>
+**SUBHD**: <https://subhd.tv/a/KsTYW5><br>
 **IMDB**: <https://www.imdb.com/title/tt0313603/><br>
 **DOUBAN**: <https://movie.douban.com/subject/5128031/>
 

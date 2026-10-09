@@ -34,7 +34,7 @@ Kuro no satsutaba / Black Money (1963) is the 3rd installment of the "Black Seri
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/523633><br>
+**SUBHD**: <https://subhd.tv/a/tSEbiy><br>
 **IMDB**: <https://www.imdb.com/title/tt8947228/><br>
 **DOUBAN**: <https://movie.douban.com/subject/34778330/>
 

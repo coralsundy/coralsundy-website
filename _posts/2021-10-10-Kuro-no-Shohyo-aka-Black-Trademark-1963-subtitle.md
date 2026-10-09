@@ -34,7 +34,7 @@ Kuro no Shohyo / Black Trademark (1963) is the 5th installment of the "Black Ser
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/524726><br>
+**SUBHD**: <https://subhd.tv/a/Pu5cYN><br>
 **IMDB**: None<br>
 **DOUBAN**: <https://movie.douban.com/subject/34778327/>
 

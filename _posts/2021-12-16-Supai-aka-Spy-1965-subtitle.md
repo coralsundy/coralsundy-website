@@ -36,7 +36,7 @@ Supai / Spy (1965) is a 1965 movie directed by Satsuo Yamamoto, with notable sta
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/527988><br>
+**SUBHD**: <https://subhd.tv/a/yIBdAr><br>
 **IMDB**: <https://www.imdb.com/title/tt0258228/><br>
 **DOUBAN**: <https://movie.douban.com/subject/5140686/>
 

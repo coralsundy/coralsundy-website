@@ -34,7 +34,7 @@ Hitotsubu no Mugi / A Grain of Wheat (1958) is a 1958 movie directed by Kozaburo
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/589305><br>
+**SUBHD**: <https://subhd.tv/a/lNM5di><br>
 **IMDB**: <https://www.imdb.com/title/tt0943435/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3011611/>
 

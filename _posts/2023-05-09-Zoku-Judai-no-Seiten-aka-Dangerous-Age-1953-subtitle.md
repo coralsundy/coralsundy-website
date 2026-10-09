@@ -34,7 +34,7 @@ Zoku Judai no Seiten / Dangerous Age (1953) is a 1953 movie directed by Kozo Sae
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/550060><br>
+**SUBHD**: <https://subhd.tv/a/yIG09r><br>
 **IMDB**: <https://www.imdb.com/title/tt5306958/><br>
 **DOUBAN**: <https://movie.douban.com/subject/30419012/>
 

@@ -34,7 +34,7 @@ Mahiru no Wana / Midday Trap (1962) is a 1962 movie directed by Sokichi Tomimoto
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/529191><br>
+**SUBHD**: <https://subhd.tv/a/Cmf2hS><br>
 **IMDB**: <https://www.imdb.com/title/tt5291136/><br>
 **DOUBAN**: <https://movie.douban.com/subject/26996636/>
 

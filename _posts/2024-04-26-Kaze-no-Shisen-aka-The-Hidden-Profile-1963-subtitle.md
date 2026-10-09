@@ -34,7 +34,7 @@ Kaze no Shisen / The Hidden Profile (1963) is a 1963 movie directed by Yoshiro K
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/564494><br>
+**SUBHD**: <https://subhd.tv/a/kAyz5K><br>
 **IMDB**: <https://www.imdb.com/title/tt2123987/><br>
 **DOUBAN**: <https://movie.douban.com/subject/6439449/>
 

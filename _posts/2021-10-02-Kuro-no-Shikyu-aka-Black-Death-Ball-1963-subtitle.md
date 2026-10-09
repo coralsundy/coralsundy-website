@@ -34,7 +34,7 @@ Kuro no Shikyu / Black Death Ball (1963) is the 4th installment of the "Black Se
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/524332><br>
+**SUBHD**: <https://subhd.tv/a/cEAi1u><br>
 **IMDB**: None<br>
 **DOUBAN**: <https://movie.douban.com/subject/34778331/>
 

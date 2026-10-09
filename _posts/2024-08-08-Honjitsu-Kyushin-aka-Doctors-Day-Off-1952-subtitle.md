@@ -34,7 +34,7 @@ Honjitsu Kyushin / Doctor's Day Off  (1952) is a 1952 movie directed by Minoru S
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/569498><br>
+**SUBHD**: <https://subhd.tv/a/mieDix><br>
 **IMDB**: <https://www.imdb.com/title/tt0322592/><br>
 **DOUBAN**: <https://movie.douban.com/subject/2174524/>
 

@@ -39,7 +39,7 @@ Kemono no Tawamure / The Frolic of the Beasts (1964) is a 1964 movie directed by
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/562827><br>
+**SUBHD**: <https://subhd.tv/a/KsrqN5><br>
 **IMDB**: <https://www.imdb.com/title/tt0317819/><br>
 **DOUBAN**: <https://movie.douban.com/subject/2360888/>
 

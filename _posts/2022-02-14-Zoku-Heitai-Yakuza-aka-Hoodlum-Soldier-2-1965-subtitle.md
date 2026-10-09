@@ -34,11 +34,11 @@ Zoku Heitai Yakuza / Hoodlum Soldier and the C.O. / Hoodlum Soldier 2 (1965) is 
 (Update 20220515: rev2 fixed a few typos and errors)
 
 <br><br>
-**Heitai Yakuza / Hoodlum Soldier 1 subtitle**: <https://subhd.tv/a/530442> (Take from the internet I can remove it if the sub creator complains)
+**Heitai Yakuza / Hoodlum Soldier 1 subtitle**: <https://subhd.tv/a/s6Olw8> (Take from the internet I can remove it if the sub creator complains)
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/530443><br>
+**SUBHD**: <https://subhd.tv/a/rvwsWC><br>
 **IMDB**: <https://www.imdb.com/title/tt0188305/><br>
 **DOUBAN**: <https://movie.douban.com/subject/20463161/>
 

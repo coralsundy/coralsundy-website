@@ -34,7 +34,7 @@ Shojo Jutai (1966) is a 1966 movie directed by Koji Shima, with notable stars Ay
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/573552><br>
+**SUBHD**: <https://subhd.tv/a/IoRzsv><br>
 **IMDB**: <https://www.imdb.com/title/tt0383633/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3177004/>
 

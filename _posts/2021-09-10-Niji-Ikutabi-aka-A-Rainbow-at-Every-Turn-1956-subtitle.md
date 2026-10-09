@@ -34,7 +34,7 @@ Niji Ikutabi / A Rainbow at Every Turn (1956) is a movie directed by Kôji Shima
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/523287><br>
+**SUBHD**: <https://subhd.tv/a/Ae7NIs><br>
 **IMDB**: <https://www.imdb.com/title/tt5330102/><br>
 **DOUBAN**: <https://movie.douban.com/subject/26780005/>
 

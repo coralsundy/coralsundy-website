@@ -34,7 +34,7 @@ Kuro no Kirifuda / Black Trump Card (1964) is the 10th installment of the "Black
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/559722><br>
+**SUBHD**: <https://subhd.tv/a/Sx5p0I><br>
 **IMDB**: <https://www.imdb.com/title/tt8938178/><br>
 **DOUBAN**: <https://movie.douban.com/subject/34967821/>
 

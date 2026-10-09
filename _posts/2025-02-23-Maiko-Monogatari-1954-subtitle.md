@@ -34,7 +34,7 @@ Maiko Monogatari (1954) is a 1954 movie directed by Kimiyoshi Yasuda, with notab
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/581075><br>
+**SUBHD**: <https://subhd.tv/a/xDVYJo><br>
 **IMDB**: <https://www.imdb.com/title/tt22177972/><br>
 **DOUBAN**: <https://movie.douban.com/subject/26987978/>
 

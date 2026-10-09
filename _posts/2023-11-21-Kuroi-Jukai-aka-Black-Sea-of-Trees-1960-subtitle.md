@@ -34,7 +34,7 @@ Kuroi Jukai / Black Sea of Trees (1960) is a 1960 movie directed by Harada Haruo
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/558312><br>
+**SUBHD**: <https://subhd.tv/a/gblbBH><br>
 **IMDB**: None<br>
 **DOUBAN**: <https://movie.douban.com/subject/26691487/>
 

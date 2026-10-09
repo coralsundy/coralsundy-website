@@ -34,7 +34,7 @@ Waga Shogai no Hagayakeru Hi / The Brightest Day of My Life (1948) is a 1948 mov
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/600064><br>
+**SUBHD**: <https://subhd.tv/a/miMfcx><br>
 **IMDB**: <https://www.imdb.com/title/tt0183996/><br>
 **DOUBAN**: <https://movie.douban.com/subject/2148321/>
 

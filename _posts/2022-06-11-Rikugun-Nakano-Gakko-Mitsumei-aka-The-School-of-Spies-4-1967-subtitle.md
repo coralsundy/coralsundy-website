@@ -34,7 +34,7 @@ Rikugun Nakano Gakko Mitsumei / The School of Spies 4 (1967) is a 1967 movie dir
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/536643><br>
+**SUBHD**: <https://subhd.tv/a/rv9uLC><br>
 **IMDB**: <https://www.imdb.com/title/tt0329541/><br>
 **DOUBAN**: <https://movie.douban.com/subject/25826136/>
 

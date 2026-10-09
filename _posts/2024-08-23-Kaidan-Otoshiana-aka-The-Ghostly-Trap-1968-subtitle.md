@@ -34,7 +34,7 @@ Kaidan Otoshiana / The Ghostly Trap (1968) is a 1968 movie directed by Koji Shim
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/570118><br>
+**SUBHD**: <https://subhd.tv/a/mieBhx><br>
 **IMDB**: <https://www.imdb.com/title/tt0202958/><br>
 **DOUBAN**: <https://movie.douban.com/subject/4129409/>
 

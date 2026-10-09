@@ -34,7 +34,7 @@ Furin / Adultery (1965) is a 1965 movie directed by Shigeo Tanaka, with notable 
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/543964><br>
+**SUBHD**: <https://subhd.tv/a/8gr3IR><br>
 **IMDB**: <https://www.imdb.com/title/tt0218995/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3176977/>
 

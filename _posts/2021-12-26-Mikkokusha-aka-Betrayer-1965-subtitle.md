@@ -34,7 +34,7 @@ Mikkokusha / Betrayer (1965) is a 1965 movie directed by Shigeo Tanaka, with not
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/528433><br>
+**SUBHD**: <https://subhd.tv/a/Ae48Fs><br>
 **IMDB**: <https://www.imdb.com/title/tt8478976/><br>
 **DOUBAN**: <https://movie.douban.com/subject/30419013/>
 

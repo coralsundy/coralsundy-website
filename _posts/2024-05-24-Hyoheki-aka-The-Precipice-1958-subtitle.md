@@ -34,7 +34,7 @@ Hyoheki / The Precipice (1958) is a 1958 movie directed by Yasuzo Masumura, with
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/566209><br>
+**SUBHD**: <https://subhd.tv/a/kArV6K><br>
 **IMDB**: <https://www.imdb.com/title/tt0051752/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3169331/>
 

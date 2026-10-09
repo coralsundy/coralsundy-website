@@ -34,7 +34,7 @@ Teuchi (1963) is a 1963 movie directed by Tokuzo Tanaka, with notable stars Raiz
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/548334><br>
+**SUBHD**: <https://subhd.tv/a/OywhSJ><br>
 **IMDB**: <https://www.imdb.com/title/tt0057573/><br>
 **DOUBAN**: <https://movie.douban.com/subject/6800268/>
 

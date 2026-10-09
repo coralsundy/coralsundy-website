@@ -34,7 +34,7 @@ Shin Heitai Yakuza / Hoodlum Soldier Return / Hoodlum Soldier Deserts Again / Ho
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/534260><br>
+**SUBHD**: <https://subhd.tv/a/OyE5hJ><br>
 **IMDB**: <https://www.imdb.com/title/tt0188199/><br>
 **DOUBAN**: <https://movie.douban.com/subject/20463164/>
 
