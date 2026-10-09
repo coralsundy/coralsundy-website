@@ -34,7 +34,7 @@ Obi o toku Natsuko / Natsuko Take Off Her Kimono (1965) is a 1965 movie directed
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/586267><br>
+**SUBHD**: <https://subhd.tv/a/lNZXmi><br>
 **IMDB**: <https://www.imdb.com/title/tt0384385/><br>
 **DOUBAN**: <https://movie.douban.com/subject/4075572/>
 

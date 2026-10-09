@@ -34,7 +34,7 @@ Kuro no Bakuso / Black Speeding (1964) is the 7th installment of the "Black Seri
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/559618><br>
+**SUBHD**: <https://subhd.tv/a/OyFjCJ><br>
 **IMDB**: <https://www.imdb.com/title/tt8948516/><br>
 **DOUBAN**: <https://movie.douban.com/subject/36615166/>
 

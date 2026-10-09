@@ -34,7 +34,7 @@ Kizudarake no Sanga / A Public Benefactor / The Tycoon (1964) is a 1964 movie di
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/526487><br>
+**SUBHD**: <https://subhd.tv/a/XnSNgb><br>
 **IMDB**: <https://www.imdb.com/title/tt0317838/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3176998/>
 

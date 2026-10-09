@@ -34,7 +34,7 @@ Sebiro no Ninja / Ninja in a Business Suit (1963) is a 1963 movie directed by Ta
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/529719><br>
+**SUBHD**: <https://subhd.tv/a/Ks17U5><br>
 **IMDB**: <https://www.imdb.com/title/tt2089795/><br>
 **DOUBAN**: <https://movie.douban.com/subject/35744849/>
 

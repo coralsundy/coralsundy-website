@@ -34,7 +34,7 @@ Kuro no Kyoki / Black Weapon (1964) is the 9th installment of the "Black Series"
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/525682><br>
+**SUBHD**: <https://subhd.tv/a/kA0quK><br>
 **IMDB**: <https://www.imdb.com/title/tt8937514/><br>
 **DOUBAN**: <https://movie.douban.com/subject/27079416/>
 

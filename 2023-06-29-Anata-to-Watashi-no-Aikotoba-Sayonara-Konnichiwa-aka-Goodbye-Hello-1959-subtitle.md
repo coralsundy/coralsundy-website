@@ -37,7 +37,7 @@ Anata to Watashi no Aikotoba Sayonara Konnichiwa / Goodbye, Hello (1959) is a 19
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/551896><br>
+**SUBHD**: <https://subhd.tv/a/8gSOmR><br>
 **IMDB**: <https://www.imdb.com/title/tt0053246/><br>
 **DOUBAN**: <https://movie.douban.com/subject/2360920/>
 

@@ -34,7 +34,7 @@ Yami o Yokogire / Across Darkness (1959) is a 1959 movie directed by Yasuzo Masu
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/550682><br>
+**SUBHD**: <https://subhd.tv/a/cEHc0u><br>
 **IMDB**: <https://www.imdb.com/title/tt0276755/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3169333/>
 

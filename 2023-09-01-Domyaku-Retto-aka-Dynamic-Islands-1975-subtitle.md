@@ -34,7 +34,7 @@ Domyaku Retto / Dynamic Islands (1975) is a 1975 movie directed by Yasuzo Masumu
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/554424><br>
+**SUBHD**: <https://subhd.tv/a/Pu6PoN><br>
 **IMDB**: <https://www.imdb.com/title/tt0228251/><br>
 **DOUBAN**: <https://movie.douban.com/subject/5951259/>
 

@@ -34,7 +34,7 @@ Katei no Jijo / A Family Matter (1962) is a 1962 movie directed by Kozaburo Yosh
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/568596><br>
+**SUBHD**: <https://subhd.tv/a/Aevf0s><br>
 **IMDB**: <https://www.imdb.com/title/tt0384247/><br>
 **DOUBAN**: <https://movie.douban.com/subject/10864522/>
 

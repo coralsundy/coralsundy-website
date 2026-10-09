@@ -34,7 +34,7 @@ Heiten Jikan / Closing Time (1962) is a 1962 movie directed by Umetsugu Inoue, w
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/597336><br>
+**SUBHD**: <https://subhd.tv/a/miZ6Kx><br>
 **IMDB**: <https://www.imdb.com/title/tt0384160/><br>
 **DOUBAN**: <https://movie.douban.com/subject/25785973/>
 

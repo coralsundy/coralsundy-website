@@ -34,7 +34,7 @@ Konki / The Age of Marriage (1961) is a 1961 movie directed by Kozaburo Yoshimur
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/568015><br>
+**SUBHD**: <https://subhd.tv/a/rv5HMC><br>
 **IMDB**: <https://www.imdb.com/title/tt0222129/><br>
 **DOUBAN**: <https://movie.douban.com/subject/2211822/>
 

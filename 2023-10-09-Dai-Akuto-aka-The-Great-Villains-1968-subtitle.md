@@ -34,7 +34,7 @@ Dai Akuto / The Great Villains (1968) is a 1968 movie directed by Yasuzo Masumur
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/556348><br>
+**SUBHD**: <https://subhd.tv/a/YjMWnE><br>
 **IMDB**: <https://www.imdb.com/title/tt0228175/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3169338/>
 

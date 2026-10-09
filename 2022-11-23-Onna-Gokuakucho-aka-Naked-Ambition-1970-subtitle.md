@@ -34,7 +34,7 @@ Onna Gokuakucho / Naked Ambition (1970) is a 1970 movie directed by Kazuo Ikehir
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/543657><br>
+**SUBHD**: <https://subhd.tv/a/qTN4z3><br>
 **IMDB**: <https://www.imdb.com/title/tt0198872/><br>
 **DOUBAN**: <https://movie.douban.com/subject/21327508/>
 

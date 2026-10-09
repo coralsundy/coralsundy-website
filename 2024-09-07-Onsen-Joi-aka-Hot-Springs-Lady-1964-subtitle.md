@@ -34,7 +34,7 @@ Onsen Joi / Hot Springs Lady (1964) is a 1964 movie directed by Keigo Kimura, wi
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/571032><br>
+**SUBHD**: <https://subhd.tv/a/vlRAYm><br>
 **IMDB**: <https://www.imdb.com/title/tt0335334/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3177012/>
 

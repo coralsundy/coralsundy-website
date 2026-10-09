@@ -34,7 +34,7 @@ Rikugun Nakano Gakko Ryu Sango Shirei / The School of Spies 3 (1967) is a 1967 m
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/533607><br>
+**SUBHD**: <https://subhd.tv/a/QR4acA><br>
 **IMDB**: <https://www.imdb.com/title/tt0329542/><br>
 **DOUBAN**: <https://movie.douban.com/subject/25952938/>
 

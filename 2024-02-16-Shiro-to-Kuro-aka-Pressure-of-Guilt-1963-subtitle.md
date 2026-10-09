@@ -34,7 +34,7 @@ Shiro to Kuro / Pressure of Guilt (1963) is a 1963 movie directed by Hiromichi H
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/561282><br>
+**SUBHD**: <https://subhd.tv/a/yIpTwr><br>
 **IMDB**: <https://www.imdb.com/title/tt0058584/><br>
 **DOUBAN**: <https://movie.douban.com/subject/3536346/>
 

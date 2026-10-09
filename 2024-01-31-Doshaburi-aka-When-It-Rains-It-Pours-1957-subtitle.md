@@ -34,7 +34,7 @@ Doshaburi / When It Rains, It Pours (1957) is a 1957 movie directed by Noboru Na
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/560736><br>
+**SUBHD**: <https://subhd.tv/a/pQaPdk><br>
 **IMDB**: <https://www.imdb.com/title/tt3523120/><br>
 **DOUBAN**: <https://movie.douban.com/subject/4824850/>
 

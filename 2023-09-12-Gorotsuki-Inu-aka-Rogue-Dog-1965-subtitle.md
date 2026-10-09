@@ -34,7 +34,7 @@ Gorotsuki Inu / Rogue Dog (1965) is a 1965 movie directed by Tetsutaro Murano, w
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/555067><br>
+**SUBHD**: <https://subhd.tv/a/tSUDLy><br>
 **IMDB**: <https://www.imdb.com/title/tt0328041/><br>
 **DOUBAN**: <https://movie.douban.com/subject/25812527/>
 

@@ -34,7 +34,7 @@ Yabanjin no Youni / Like A Barbarian / Like A Savage (1985) is a 1985 movie dire
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/536004><br>
+**SUBHD**: <https://subhd.tv/a/HZIZ6V><br>
 **IMDB**: <https://www.imdb.com/title/tt0455237/><br>
 **DOUBAN**: <https://movie.douban.com/subject/5218727/>
 

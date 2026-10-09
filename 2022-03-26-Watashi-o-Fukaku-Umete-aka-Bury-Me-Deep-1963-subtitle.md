@@ -34,7 +34,7 @@ Watashi o Fukaku Umete / Bury Me Deep (1963) is a 1963 movie directed by Umetsug
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/532519><br>
+**SUBHD**: <https://subhd.tv/a/UKWsYL><br>
 **IMDB**: <https://www.imdb.com/title/tt0384678/><br>
 **DOUBAN**: <https://movie.douban.com/subject/20418214/>
 

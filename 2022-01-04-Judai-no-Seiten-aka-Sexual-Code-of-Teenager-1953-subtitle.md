@@ -34,7 +34,7 @@ Judai no Seiten / Sexual Code of Teenager (1953) is a 1953 movie directed by Koj
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/528842><br>
+**SUBHD**: <https://subhd.tv/a/N2Ajnz><br>
 **IMDB**: <https://www.imdb.com/title/tt0384242/><br>
 **DOUBAN**: <https://movie.douban.com/subject/2360015/>
 

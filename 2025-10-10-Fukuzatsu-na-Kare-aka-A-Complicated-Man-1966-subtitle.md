@@ -34,7 +34,7 @@ Fukuzatsu na Kare / A Complicated Man (1966) is a 1966 movie directed by Umetsug
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/599197><br>
+**SUBHD**: <https://subhd.tv/a/58PsUQ><br>
 **IMDB**: <https://www.imdb.com/title/tt8946672/><br>
 **DOUBAN**: <https://movie.douban.com/subject/34968854/>
 

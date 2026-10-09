@@ -34,7 +34,7 @@ Heitai Yakuza Nagurikomi aka Hoodlum Soldier 8 (1968) is a 1968 movie directed b
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/545974><br>
+**SUBHD**: <https://subhd.tv/a/gbv9vH><br>
 **IMDB**: <https://www.imdb.com/title/tt0228377/><br>
 **DOUBAN**: <https://movie.douban.com/subject/20463146/>
 

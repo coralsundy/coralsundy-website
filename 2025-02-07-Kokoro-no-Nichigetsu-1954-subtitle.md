@@ -34,7 +34,7 @@ Kokoro no Nichigetsu (1954) is a 1954 movie directed by Keigo Kimura, with notab
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/580098><br>
+**SUBHD**: <https://subhd.tv/a/31wXeW><br>
 **IMDB**: <https://www.imdb.com/title/tt22013136/><br>
 **DOUBAN**: <https://movie.douban.com/subject/26987977/>
 

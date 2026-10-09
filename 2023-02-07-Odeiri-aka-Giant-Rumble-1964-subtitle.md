@@ -34,7 +34,7 @@ Odeiri / Giant Rumble (1964) is a 1964 movie directed by Kosaku Yamashita, with 
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/546398><br>
+**SUBHD**: <https://subhd.tv/a/izsr5D><br>
 **IMDB**: <https://www.imdb.com/title/tt0329799/><br>
 **DOUBAN**: <https://movie.douban.com/subject/5124443/>
 

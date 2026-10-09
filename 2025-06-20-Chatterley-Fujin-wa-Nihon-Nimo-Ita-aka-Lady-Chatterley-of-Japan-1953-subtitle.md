@@ -34,7 +34,7 @@ Chatterley Fujin wa Nihon Nimo Ita / Lady Chatterley of Japan (1953) is a 1953 m
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/590724><br>
+**SUBHD**: <https://subhd.tv/a/KsoYQ5><br>
 **IMDB**: <https://www.imdb.com/title/tt5162934/><br>
 **DOUBAN**: <https://movie.douban.com/subject/26687346/>
 

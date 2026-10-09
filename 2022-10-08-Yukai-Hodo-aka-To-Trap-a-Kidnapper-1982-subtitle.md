@@ -37,7 +37,7 @@ If contacted by the owner of the English subtitle, I will take it off my site.
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/541519><br>
+**SUBHD**: <https://subhd.tv/a/xDKgko><br>
 **IMDB**: <https://www.imdb.com/title/tt0128766/><br>
 **DOUBAN**: <https://movie.douban.com/subject/2222683/>
 

@@ -40,7 +40,7 @@ Fusoku Nanaju-go Metoru aka Typhoon Reporter (1963) is a 1963 movie directed by 
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/542963><br>
+**SUBHD**: <https://subhd.tv/a/58OL8Q><br>
 **IMDB**: <https://www.imdb.com/title/tt6867610/><br>
 **DOUBAN**: <https://movie.douban.com/subject/36148214/>
 

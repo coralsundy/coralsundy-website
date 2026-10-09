@@ -34,7 +34,7 @@ Shikai Zero no Dasshutsu / Zero Escape Visibility (1963) is a 1963 movie directe
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/554096><br>
+**SUBHD**: <https://subhd.tv/a/gbxszH><br>
 **IMDB**: <https://www.imdb.com/title/tt10029082/><br>
 **DOUBAN**: <https://movie.douban.com/subject/36522366/>
 

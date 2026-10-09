@@ -34,7 +34,7 @@ Amai Ase / Sweet Sweat (1964) is a 1964 movie directed by Shiro Toyoda, with not
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/576338><br>
+**SUBHD**: <https://subhd.tv/a/Sx8JcI><br>
 **IMDB**: <https://www.imdb.com/title/tt0204129/><br>
 **DOUBAN**: <https://movie.douban.com/subject/4151078/>
 

@@ -34,7 +34,7 @@ Yadonashi Inu / Homeless Dog (1964) is a 1964 movie directed by Tokuzo Tanaka, w
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/531250><br>
+**SUBHD**: <https://subhd.tv/a/8gJf6R><br>
 **IMDB**: <https://www.imdb.com/title/tt0328667/><br>
 **DOUBAN**: <https://movie.douban.com/subject/26987982/>
 

@@ -34,7 +34,7 @@ Rikugun Nakano Gakko Kaisen Zenya / The School of Spies 5 (1968) is a 1968 movie
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/537075><br>
+**SUBHD**: <https://subhd.tv/a/pQ10rk><br>
 **IMDB**: <https://www.imdb.com/title/tt0294876/><br>
 **DOUBAN**: <https://movie.douban.com/subject/5132368/>
 

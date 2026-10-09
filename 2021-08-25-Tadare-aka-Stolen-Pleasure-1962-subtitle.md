@@ -34,7 +34,7 @@ Tadare/Stolen Pleasure (1962) is a movie directed by Yasuzô Masumura. Script wr
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/522488><br>
+**SUBHD**: <https://subhd.tv/a/HZyxvV><br>
 **IMDB**: <https://www.imdb.com/title/tt0310199/><br>
 **DOUBAN**: <https://movie.douban.com/subject/2361063/>
 

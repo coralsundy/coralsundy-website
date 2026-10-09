@@ -41,7 +41,7 @@ Kage o Kiru / Cut The Shadow (1963) is a 1963 movie directed by Kazuo Ikehiro, w
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/551494><br>
+**SUBHD**: <https://subhd.tv/a/VMl48X><br>
 **IMDB**: <https://www.imdb.com/title/tt0165342/><br>
 **DOUBAN**: <https://movie.douban.com/subject/24719833/>
 

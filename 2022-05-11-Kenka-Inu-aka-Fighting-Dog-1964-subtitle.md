@@ -35,7 +35,7 @@ Kenka Inu / Fighting Dog (1964) is a 1964 movie directed by Mitsuo Murayama, wit
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/535013><br>
+**SUBHD**: <https://subhd.tv/a/eVyFj6><br>
 **IMDB**: <https://www.imdb.com/title/tt0328019/><br>
 **DOUBAN**: <https://movie.douban.com/subject/25812525/>
 

@@ -34,7 +34,7 @@ tags: [subtitle, movie, jap_movie, chs_subtitle, 1960s]
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/545537><br>
+**SUBHD**: <https://subhd.tv/a/UK1vXL><br>
 **IMDB**: <https://www.imdb.com/title/tt11600938/><br>
 **DOUBAN**: <https://movie.douban.com/subject/20443030/>
 

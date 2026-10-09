@@ -34,7 +34,7 @@ Kagero Ezu / Stop the Old Fox (1959) is a 1959 movie directed by Teinosuke Kinug
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/584489><br>
+**SUBHD**: <https://subhd.tv/a/eVzbG6><br>
 **IMDB**: <https://www.imdb.com/title/tt0052956/><br>
 **DOUBAN**: <https://movie.douban.com/subject/2993706/>
 

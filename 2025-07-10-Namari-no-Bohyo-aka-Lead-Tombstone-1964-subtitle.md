@@ -34,7 +34,7 @@ Namari no Bohyo / Lead Tombstone (1964) is a 1964 movie directed by Koji Wakamat
 
 ------
 
-**SUBHD**: <https://subhd.tv/a/592989><br>
+**SUBHD**: <https://subhd.tv/a/CmgFPS><br>
 **IMDB**: <https://www.imdb.com/title/tt0291373/><br>
 **DOUBAN**: <https://movie.douban.com/subject/5504166/>
 
