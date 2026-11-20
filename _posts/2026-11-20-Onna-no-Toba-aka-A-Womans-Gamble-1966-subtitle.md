@@ -32,7 +32,8 @@ Onna no Toba / A Womans Gamble / WomanGambler1 (1966) is a 1966 movie directed b
 **中文字幕**: 尚无<br>
 **English Subtitle**: [Onna.no.Toba.aka.A.Womans.Gamble.WomanGambler1.1966.eng.01-23-57.BYjls001999.rev1.srt](../subtitles/Onna.no.Toba.aka.A.Womans.Gamble.WomanGambler1.1966.eng.01-23-57.BYjls001999.rev1.srt)<br>
 <br>
-**Onna Tobakushi / The Woman Gambler / WomanGambler2 Eng Subtitle**: <https://subhd.tv/a/VMVUsX> (Take from the internet I can remove it if the sub creator complains)
+**Onna Tobakushi / The Woman Gambler / WomanGambler2 Eng Subtitle**: <https://subhd.tv/a/VMVUsX> (Take from the internet I can remove it if the sub creator complains)<br>
+<img src="../assets/tt0204519.jpg" alt="tt0204519_cover_art" />
 
 ------
 
