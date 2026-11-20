@@ -35,6 +35,8 @@ Zoku Heitai Yakuza / Hoodlum Soldier and the C.O. / Hoodlum Soldier 2 (1965) is 
 
 <br><br>
 **Heitai Yakuza / Hoodlum Soldier 1 subtitle**: <https://subhd.tv/a/s6Olw8> (Take from the internet I can remove it if the sub creator complains)
+<br>
+<img src="../assets/tt0187871.jpg" alt="tt0187871_cover_art" />
 
 ------
 
