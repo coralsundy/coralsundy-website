@@ -1,0 +1,2 @@
+---
+BUNDLE_BUILD__BIGDECIMAL: "--with-cflags=-std=gnu17"
